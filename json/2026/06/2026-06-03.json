@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-03",
+  "weekday": "Wednesday",
+  "briefing_type": "daily_market_briefing",
+  "market_status": "normal_trading_day",
+  "language": "de",
+  "scores": {
+    "us_tech_momentum": 2,
+    "health_rotation": 1,
+    "risk_sentiment": 0,
+    "volatility": -1,
+    "bond_pressure": -1,
+    "oil_inflation_risk": -2,
+    "crypto_tone": 0
+  },
+  "composite_regime_score": 0.5,
+  "market_regime": "constructive but fragile; AI leadership intact while oil, yields and geopolitics pressure risk sentiment",
+  "top_market_movers": [
+    "Oil near 100 USD amid Iran/Gulf escalation",
+    "AI chips remain strong; Broadcom earnings after close as key AI infrastructure test",
+    "ISM Services shows activity momentum but elevated price pressure"
+  ],
+  "portfolio_themes": {
+    "etfs": "Prefer Nasdaq-100, quality tech, semiconductor exposure; broad S&P core neutral-positive; caution on small caps and rate-sensitive growth.",
+    "health_ai": "Positive defensive quality and AI productivity theme; Medtech as stabilizer.",
+    "tech": "Strong but selective; AI chips, networking, datacenter, memory and custom silicon leading.",
+    "crypto": "Neutral; Bitcoin stable but capped by higher yields, USD and geopolitical risk."
+  },
+  "trigger_calendar": [
+    {
+      "date": "2026-06-03",
+      "time_et": "10:00",
+      "event": "ISM Services PMI",
+      "impact": 4,
+      "scenario_hotter_stronger": "Yields higher, USD higher, Growth/Tech under pressure, Fed-hawkish risk rises.",
+      "scenario_weaker_cooler": "Yields lower, Growth/Tech supported, but too weak could trigger growth concerns."
+    },
+    {
+      "date": "2026-06-03",
+      "time_et": "14:00",
+      "event": "Fed Beige Book",
+      "impact": 3,
+      "scenario_hotter_stronger": "More price pressure would support higher yields and hurt risk assets.",
+      "scenario_weaker_cooler": "More cooling would lower yields and support growth equities."
+    },
+    {
+      "date": "2026-06-03",
+      "time_et": "After close",
+      "event": "Broadcom earnings",
+      "impact": 5,
+      "scenario_hotter_stronger": "Strong numbers and guidance would support semis, Nasdaq and AI rally continuation.",
+      "scenario_weaker_cooler": "Disappointment or margin pressure could trigger profit-taking across AI semiconductors."
+    },
+    {
+      "date": "2026-06-05",
+      "time_et": "08:30",
+      "event": "Nonfarm Payrolls",
+      "impact": 5,
+      "scenario_hotter_stronger": "Yields rise, Fed-hawkish risk increases, Growth/Tech under pressure, banks could outperform.",
+      "scenario_weaker_cooler": "Yields fall, rate-cut hopes improve, Tech, Small Caps and Crypto initially benefit unless recession fears dominate."
+    }
+  ],
+  "hypothetical_positioning": {
+    "stance": "neutral to slightly constructive, less aggressive than prior day",
+    "overweight": ["AI infrastructure", "quality tech", "semiconductor leaders", "healthcare/medtech"],
+    "neutral": ["broad index ETFs", "equal weight"],
+    "underweight": ["highly leveraged small caps", "unprofitable growth", "pure AI narratives without revenue/margin", "rate-sensitive long-duration equities"]
+  },
+  "risk_monitor": [
+    "Oil breaks above 100 USD",
+    "Broadcom disappoints after close",
+    "10Y Treasury rises clearly above 4.5%",
+    "Beige Book confirms sticky price pressure",
+    "Payrolls come in too strong and reactivate Fed stress"
+  ],
+  "confidence": 88
+}
