@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-04",
+  "region": "Europe",
+  "briefing_type": "Morning",
+  "trading_day_context": "Normal weekday, live-style European market briefing",
+  "market_regime": "Neutral_to_Cautious",
+  "confidence_percent": 72,
+  "headline": "Europe stabilizes after prior weakness, but oil/geopolitics, ECB hike expectations and private-market stress keep risk appetite cautious.",
+  "market_moves": {
+    "stoxx_600_context": "Near previous close around 621 after a roughly 0.7% prior-session decline.",
+    "europe_etfs": {
+      "FEZ": "-1.26% last available US session",
+      "VGK": "-1.17% last available US session",
+      "EZU": "-1.17% last available US session"
+    },
+    "us_tech_proxy": {
+      "QQQ": "-0.25% last available US session"
+    },
+    "health_proxy": {
+      "XLV": "+0.76% last available US session"
+    },
+    "crypto_proxy": {
+      "BTC_USD": "around 63719 USD, approximately -4.9% versus previous close"
+    }
+  },
+  "scorecard": {
+    "scale": {
+      "+2": "strong positive",
+      "+1": "positive",
+      "0": "neutral",
+      "-1": "cautious_or_negative",
+      "-2": "strongly_negative"
+    },
+    "Europe_Tech_Momentum": {
+      "score": 1,
+      "interpretation": "AI and semiconductor strength remains intact, but macro is a brake."
+    },
+    "US_Tech_Momentum": {
+      "score": 0,
+      "interpretation": "QQQ slightly weaker; no break, but no strong tailwind."
+    },
+    "Health_Rotation": {
+      "score": 1,
+      "interpretation": "Health shows relative strength and defensive quality."
+    },
+    "Risk_Sentiment": {
+      "score": -1,
+      "interpretation": "Middle East, oil, ECB hike expectations and Bitcoin weakness weigh on risk appetite."
+    },
+    "Volatility": {
+      "score": -1,
+      "interpretation": "No panic, but event risk is rising."
+    },
+    "overall": "0 to -1, neutral to cautious"
+  },
+  "top_3_market_moving_news": [
+    {
+      "rank": 1,
+      "theme": "ECB hike expectations",
+      "details": "A Reuters poll saw a June 11 ECB rate hike as highly likely, with the deposit rate expected to rise to 2.25% and a potential further hike in September.",
+      "market_effect": "Banks can benefit near term, while growth and tech multiples face pressure."
+    },
+    {
+      "rank": 2,
+      "theme": "Middle East and oil risk",
+      "details": "Escalating Middle East tensions and higher oil prices remain a macro stressor for Europe.",
+      "market_effect": "Risk-off bias, support for energy and defense, pressure on airlines, chemicals, consumption and cyclical industry."
+    },
+    {
+      "rank": 3,
+      "theme": "Private-market liquidity stress",
+      "details": "Partners Group sold off sharply after redemptions were restricted in a private-equity fund, raising concerns about illiquid private-market exposure.",
+      "market_effect": "Pressure on financial services, asset managers and mark-to-model stories."
+    }
+  ],
+  "portfolio_themes": {
+    "ETFs": "Hold existing Europe ETF positions; add only gradually on pullbacks.",
+    "Health_AI": "Overweight quality health and defensive AI-related healthcare exposure.",
+    "Tech": "Selective AI infrastructure and semiconductor suppliers; avoid expensive stories without cash flow.",
+    "Crypto": "Cautious. Bitcoin weakness is a warning signal for broader risk appetite."
+  },
+  "trigger_calendar": [
+    {
+      "date": "2026-06-11",
+      "time": null,
+      "event": "ECB rate decision",
+      "impact_score": 5,
+      "why_it_matters": "Expected hike to 2.25%; critical for euro, bonds, banks, tech and duration-sensitive sectors.",
+      "hotter_or_stronger_scenario": "Hawkish tone or higher inflation pressure likely weighs on tech, real estate and duration; banks relatively better.",
+      "cooler_or_weaker_scenario": "Dovish surprise likely supports growth and tech, weakens euro and supports bonds."
+    },
+    {
+      "date": "2026-06-16",
+      "time": null,
+      "event": "BoJ decision",
+      "impact_score": 3,
+      "why_it_matters": "Potential yen and carry-trade implications can affect global risk assets.",
+      "hotter_or_stronger_scenario": "Hike or hawkish stance strengthens yen and can trigger carry-trade stress and global risk-off.",
+      "cooler_or_weaker_scenario": "No hike or dovish stance eases pressure on liquidity and growth."
+    },
+    {
+      "date": "2026-06-18",
+      "time": null,
+      "event": "SNB monetary policy assessment",
+      "impact_score": 3,
+      "why_it_matters": "Relevant for CHF, Swiss exporters and Swiss large caps.",
+      "hotter_or_stronger_scenario": "Hawkish or stronger CHF pressures exporters.",
+      "cooler_or_weaker_scenario": "Dovish or weaker CHF supports exporters and global Swiss companies."
+    },
+    {
+      "date": "2026-06-18",
+      "time": null,
+      "event": "BoE MPC decision, summary and minutes",
+      "impact_score": 4,
+      "why_it_matters": "Important for GBP, UK banks, real estate, consumption and broader European sentiment.",
+      "hotter_or_stronger_scenario": "Hawkish tone supports GBP and banks but pressures UK real estate and consumption.",
+      "cooler_or_weaker_scenario": "Dovish signals support UK midcaps, real estate and consumer assets."
+    },
+    {
+      "date": "ongoing",
+      "time": null,
+      "event": "Middle East / Strait of Hormuz / oil prices",
+      "impact_score": 5,
+      "why_it_matters": "Oil and supply-chain risk directly influence Europe's inflation and growth path.",
+      "hotter_or_stronger_scenario": "Escalation lifts energy and inflation expectations, likely risk-off for Europe.",
+      "cooler_or_weaker_scenario": "De-escalation lowers oil pressure and helps airlines, chemicals and consumption."
+    }
+  ],
+  "hypothetical_recommendation": "Maintain neutral-defensive positioning. Keep Europe ETF exposure, add only in tranches on weakness, favor quality health and selective AI infrastructure, and avoid highly leveraged cyclicals, rate-sensitive real estate and weak consumer stories.",
+  "source_note": "Archived from ChatGPT briefing generated in conversation on 2026-06-04. Citations from the chat-rendered briefing are not preserved in this JSON snapshot."
+}
