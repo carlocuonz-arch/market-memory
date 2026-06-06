@@ -4,4 +4,4 @@ Heute ist ein normaler US-Handelstag, aber ein wichtiger Makrotag. Der US-Arbeit
 
 ## Marktbild & Sentiment
 
-Die US-Aktienlage ist gemischt bis vorsichtig negativ. Der zentrale Trigger: Die USA haben im Mai 172.000 neue Stellen geschaffen
+Die US-Aktienlage ist gemischt bis vorsichtig negativ. Der zentrale Trigger: Die USA haben im Mai 172.000 neue Stellen geschaffen, deutlich über den erwarteten rund 
