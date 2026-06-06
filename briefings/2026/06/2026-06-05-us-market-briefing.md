@@ -2,6 +2,6 @@
 
 Heute ist ein **normaler US-Handelstag**, aber kein normaler Makrotag. Der Arbeitsmarktbericht hat dem Markt gerade wieder erklärt, dass Zinssenkungs-Fantasien kein Investmentprozess sind, sondern eher betreutes Hoffen mit Bloomberg-Terminal.
 
-### Marktbild & Sentiment
+## Marktbild & Sentiment
 
-Die US-Aktienlage ist **gemischt bis vorsichtig negativ**. Der zentrale Trigger: Die USA haben im Mai **172.000 neue Stellen** geschaffen, deutlich über den erwarteten rund **85.000**, während die Arbeitslosen
+Die US-Aktienlage ist **gemischt bis vorsichtig negativ**. Der zentrale Trigger: Die USA haben im Mai **172.000 neue Stellen** geschaffen, deutlich über den erwarteten rund **85.000**, während die Arbeitslosenquote bei **4,3 %** blieb. Das ist konjunkturell stark, aber für Tech-Multiples unangenehm, weil höhere Renditen und hawkischere Fed-Erwartungen wieder auf den Tisch kommen
