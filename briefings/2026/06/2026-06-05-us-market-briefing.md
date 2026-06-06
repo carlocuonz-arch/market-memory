@@ -4,4 +4,4 @@ Heute ist ein **normaler US-Handelstag**, aber kein normaler Makrotag. Der Arbei
 
 ## Marktbild & Sentiment
 
-Die US-Aktienlage ist **gemischt bis vorsichtig negativ**.
+Die US-Aktienlage ist **gemischt bis vorsichtig negativ**. Der zentrale Trigger: Die USA haben im Mai **172
