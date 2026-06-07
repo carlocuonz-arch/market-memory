@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "shared-context",
+  "market_status": "normal",
+  "headline": "US-Märkte gemischt; AI-/Halbleiter-Schwäche nach Broadcom belastet Tech, während Health Care nach oben rotiert.",
+  "market_regime": "Neutral mit negativer Tech-Neigung; Rotation statt Panik.",
+  "market_moves": {
+    "SPY": { "value": 754.24, "change_pct": -0.73, "unit": "USD", "note": null },
+    "QQQ": { "value": 744.21, "change_pct": -0.25, "unit": "USD", "note": null },
+    "IWM": { "value": 287.67, "change_pct": -1.37, "unit": "USD", "note": null },
+    "XLK": { "value": 196.23, "change_pct": -0.99, "unit": "USD", "note": null },
+    "XLV": { "value": 147.55, "change_pct": 0.76, "unit": "USD", "note": null },
+    "BTC": { "value": 64058, "change_pct": -4.20, "unit": "USD", "note": null }
+  },
+  "scorecard": {
+    "europe_tech": { "score": null, "interpretation": "Nicht bewertet (US-Briefing)." },
+    "us_tech": { "score": -1, "interpretation": "Broadcom belastet AI/Semis; XLK und QQQ schwach. Kein Crash, aber Momentum-Delle." },
+    "health_rotation": { "score": 1, "interpretation": "XLV grün, Health Care als defensiver Gewinner und Arbeitsmarkt-Stütze." },
+    "risk_sentiment": { "score": -1, "interpretation": "Kein breiter Abverkauf, aber Small Caps und Crypto schwach. Vorsicht vor Jobs Report." },
+    "volatility": { "score": 0, "interpretation": "Nervosität erhöht, aber eher rotationsgetrieben als voller Risk-Off." },
+    "rates": { "score": null, "interpretation": "Nicht separat bewertet; NFP/CPI/Treasury-Auktionen als Treiber gelistet." },
+    "crypto_liquidity": { "score": null, "interpretation": "BTC -4.2 %, als High-Beta-Risiko beschrieben, aber nicht als Score quantifiziert." }
+  },
+  "top_themes": [
+    { "rank": 1, "theme": "Broadcom enttäuscht die AI-Euphorie", "mechanism": "Trotz starker AI-Langfriststory kein ausreichender Guidance-Boost → Semis abgestraft (Qualcomm/AMD/Micron/Marvell vorbörslich schwach)", "beneficiaries": [], "losers": ["Semiconductors", "AI-Infrastruktur", "Nasdaq/QQQ"] },
+    { "rank": 2, "theme": "Arbeitsmarkt vor offiziellem Jobs Report im Fokus", "mechanism": "NFP Mai am 05.06. 08:30 ET; Prognose ~85k Jobs, Quote 4.3 %; ADP zuvor +122k (gesundheitslastig)", "beneficiaries": [], "losers": [] },
+    { "rank": 3, "theme": "Geopolitik und Öl als latenter Inflationsfaktor", "mechanism": "Iran-/Nahost-Risiken vs. Waffenruhe-Narrativ; sinkendes Öl stützt nicht-techlastige Aktien", "beneficiaries": ["Konsum"], "losers": [] }
+  ],
+  "portfolio_themes": {
+    "etfs": "SPY halten/selektiv akkumulieren wenn NFP nicht hawkish; QQQ/XLK nur gestaffelt vor NFP/CPI; IWM abwarten.",
+    "health_ai": "Health Care als Stabilisator attraktiv; Health+AI interessant wo reale Effizienz statt PowerPoint.",
+    "tech": "Langfristig stark, kurzfristig überhitzt; AI-Exposure qualitätsgefiltert (Cashflow, Margen, realistische Guidance).",
+    "crypto": "BTC ~64'058 USD (-4.2 %); als Beta behandeln, kein sicherer Hafen, Positionsdisziplin.",
+    "quality": null,
+    "cash": "Cash-Reserve für nach Jobs Report/CPI sinnvoller als FOMO."
+  },
+  "trigger_calendar": [
+    { "date": "2026-06-05", "time_et": "08:30", "time_zurich": "14:30", "event": "US Employment Situation / Nonfarm Payrolls Mai", "impact": 5, "scenario_hotter": "Renditen hoch, Fed weniger dovish, Tech/QQQ belastet.", "scenario_cooler": "Zinssenkungsfantasie hilft Duration-Tech; zu schwach triggert Rezessionsangst." },
+    { "date": "2026-06-09", "time_et": null, "time_zurich": null, "event": "3-Year Treasury Note Auction", "impact": 3, "scenario_hotter": "Schwache Nachfrage: Yields höher, Druck auf Growth.", "scenario_cooler": "Starke Nachfrage: Entlastung für Multiples." },
+    { "date": "2026-06-10", "time_et": "08:30", "time_zurich": "14:30", "event": "US CPI Mai", "impact": 5, "scenario_hotter": "Fed-Hawkish, USD/Yields hoch, Tech negativ.", "scenario_cooler": "Risk-on, QQQ/Long-Duration profitieren." },
+    { "date": "2026-06-10", "time_et": null, "time_zurich": null, "event": "10-Year Treasury Note Auction", "impact": 4, "scenario_hotter": "Tail/schwach: Nasdaq belastet.", "scenario_cooler": "Stop-through/stark: Growth-Unterstützung." },
+    { "date": "2026-06-11", "time_et": null, "time_zurich": null, "event": "30-Year Treasury Bond Auction", "impact": 4, "scenario_hotter": "Schwach: Long-End-Yields hoch, Risk Assets unter Druck.", "scenario_cooler": "Stark: Entlastung für Wachstumsaktien." },
+    { "date": "2026-06-16", "time_et": null, "time_zurich": null, "event": "FOMC Meeting (16.–17. Juni)", "impact": 5, "scenario_hotter": "Hawkish: Bewertungsdruck, USD stärker.", "scenario_cooler": "Dovish: Rally-Chance, besonders Tech/Small Caps." }
+  ],
+  "positioning": {
+    "stance": "defensiv-neutral",
+    "overweight": ["Health Care/XLV (leicht)"],
+    "neutral": ["SPY halten/selektiv akkumulieren"],
+    "underweight": ["aggressive AI-/Semi-Nachkäufe vor NFP/CPI", "IWM bis Klarheit"],
+    "what_not_to_do": "AI/Semis nicht aggressiv hinterherkaufen vor NFP und CPI; keine panische Komplettamputation."
+  },
+  "confidence": {
+    "level_pct": 70,
+    "uncertainty_vectors": ["NFP am 05.06.", "CPI am 10.06.", "kann heutige Interpretation schnell überschreiben"]
+  },
+  "source": {
+    "created_by": "ChatGPT",
+    "engine": "market-memory-v1",
+    "data_sources": ["Reuters", "MarketWatch", "WSJ", "BLS", "Treasury", "Federal Reserve"],
+    "note": "Migriert aus briefings/2026/06/2026-06-04-us-market-briefing.json (v1). Konfidenz 7/10 → 70 %. created_by ChatGPT, nicht unabhängig verifiziert → shared-context."
+  }
+}

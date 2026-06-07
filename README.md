@@ -1,35 +1,23 @@
 # Market Memory
 
-Persönliches Marktjournal für tägliche US-Marktbriefings.
+Persönliches Marktjournal: pro Briefing ein lesbarer Markdown-Bericht **und** ein strukturierter JSON-Snapshot, plus eine fortlaufende Scorecard-History für schnelle Auswertung.
 
-Ziel: Jeden Handelstag als Markdown-Datei für Menschen und als JSON-Datei für Maschinen ablegen.
+Verbindliche Regeln stehen in **[CONVENTION.md](CONVENTION.md)** (v2.0). Diese README ist die Kurzfassung.
 
 ## Struktur
 
 ```text
-briefings/
-  YYYY/
-    MM/
-      YYYY-MM-DD.md
-json/
-  YYYY/
-    MM/
-      YYYY-MM-DD.json
-scorecards/
-  market_score_history.jsonl
-templates/
-  daily_briefing_template.md
-  daily_scorecard_schema.json
+briefings/YYYY/MM/YYYY-MM-DD_<type>.md     # menschlich lesbar
+briefings/YYYY/MM/YYYY-MM-DD_<type>.json   # maschinenlesbar (Schema v2.0)
+scorecards/market_score_history.jsonl      # eine Zeile pro Briefing
+templates/                                 # Vorlage + JSON-Schema
+_legacy/                                    # eingefrorene Alt-/Defekt-Einträge
+CONVENTION.md                              # verbindliche Konvention
 ```
 
-## Grundprinzip
+`<type>` = `europe_daily` | `us_daily` | `weekend`.
 
-- `briefings/` enthält lesbare Tagesberichte.
-- `json/` enthält strukturierte Tagesdaten.
-- `scorecards/market_score_history.jsonl` enthält eine Zeile pro Markttag für schnelle Auswertung.
-- `templates/` definiert das Standardformat.
-
-## Score-Skala
+## Scorecard-Skala
 
 | Score | Bedeutung |
 |---:|---|
@@ -39,16 +27,16 @@ templates/
 | -1 | vorsichtig / negativ |
 | -2 | stark negativ |
 
-## Haupt-Scores
+## Scorecard-Dimensionen (fix)
 
-- US Tech Momentum
-- Health Rotation
-- Risk Sentiment
-- Volatility
-- Bond Pressure
-- Oil / Inflation Risk
-- Crypto Tone
+`europe_tech` · `us_tech` · `health_rotation` · `risk_sentiment` · `volatility` · `rates` · `crypto_liquidity`
+
+## Grundprinzipien
+
+- **Deutsch**, Finanzdeutsch. Keine erfundenen Werte — fehlt etwas, ist es `null` / `N/A`.
+- Jeder Eintrag ist als `verified-live` oder `shared-context` klassifiziert. *Plausible is not verified.*
+- Export schreibt den **vollständigen** Text — keine Kürzung, kein `part_xx`.
 
 ## Workflow
 
-Täglich wird ein Briefing als Markdown gespeichert und parallel ein JSON-Snapshot erzeugt. Später kann daraus ein Friday-/Market-Memory-Agent, ein Dashboard oder eine Vektor-Datenbank gebaut werden.
+Briefing wird erzeugt → als `.md` gespeichert → paralleler `.json`-Snapshot (Schema v2.0) → eine Zeile an `market_score_history.jsonl` angehängt. Daraus lassen sich später Dashboard, Agent oder Vektor-DB bauen.

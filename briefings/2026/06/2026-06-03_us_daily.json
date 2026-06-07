@@ -1,0 +1,64 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-03",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "shared-context",
+  "market_status": "normal",
+  "headline": "AI-/Chip-Euphorie hält den Markt nahe Rekord, während Öl Richtung 100 USD und höhere Renditen das Risk Sentiment fragiler machen.",
+  "market_regime": "Konstruktiv, aber fragil; AI-Führung intakt, Öl/Renditen/Geopolitik belasten.",
+  "market_moves": {
+    "SP500": { "value": null, "change_pct": null, "unit": "index", "note": "leicht negativ, Rally pausiert (qualitativ)" },
+    "Nasdaq": { "value": null, "change_pct": null, "unit": "index", "note": "leicht negativ, Chips relativ stark" },
+    "Dow": { "value": null, "change_pct": null, "unit": "index", "note": "schwächer" },
+    "Brent": { "value": 99.0, "change_pct": null, "unit": "USD", "note": "ca. 98–100 USD" },
+    "US10Y": { "value": 4.48, "change_pct": null, "unit": "percent", "note": "ca. 4.48–4.49 %" },
+    "BTC": { "value": 67000, "change_pct": null, "unit": "USD", "note": "stabil bis leicht positiv, ca. 67k" }
+  },
+  "scorecard": {
+    "europe_tech": { "score": null, "interpretation": "Nicht bewertet (US-Briefing)." },
+    "us_tech": { "score": 2, "interpretation": "AI/Chips bleiben Marktführer, Marvell/Broadcom treiben Fantasie." },
+    "health_rotation": { "score": 1, "interpretation": "Defensive Qualität bleibt sinnvoll, Medtech zeigt relative Stärke." },
+    "risk_sentiment": { "score": 0, "interpretation": "Nicht panisch, aber Rally nimmt wegen Öl/Renditen Risiko heraus." },
+    "volatility": { "score": -1, "interpretation": "Geopolitik + Öl + Daten erhöhen Eventrisiko." },
+    "rates": { "score": -1, "interpretation": "10Y nahe 4.5 % bleibt Gegenwind; Öl nahe 100 USD verschärft Inflations-/Zinsdruck (vormals oil_inflation_risk -2)." },
+    "crypto_liquidity": { "score": 0, "interpretation": "Bitcoin stabilisiert, aber Renditen/Geopolitik bremsen." }
+  },
+  "top_themes": [
+    { "rank": 1, "theme": "Öl nahe 100 USD wegen Iran-/Golf-Eskalation", "mechanism": "Öl ↑ → Inflationserwartungen ↑ → Renditen ↑ → Bewertungsdruck für Growth/Tech ↑", "beneficiaries": ["Energie"], "losers": ["Growth", "Tech"] },
+    { "rank": 2, "theme": "AI-Chips bleiben stark — Broadcom heute Abend im Fokus", "mechanism": "Hyperscaler-Capex + Custom Silicon treiben Semis; SOX +5 % am Vortag", "beneficiaries": ["Semiconductors", "Networking"], "losers": [] },
+    { "rank": 3, "theme": "ISM Services: Wachstum mit Inflationsdruck", "mechanism": "Prices-Komponente auf 71.3 (höchster Stand seit ~4 Jahren), Beschäftigung schwächer", "beneficiaries": [], "losers": ["Duration/Growth"] }
+  ],
+  "portfolio_themes": {
+    "etfs": "Nasdaq-100/Quality Tech und Semis bevorzugt; S&P breiter Kern, aber nicht überhebeln; Vorsicht bei Small Caps und zinssensitivem Growth.",
+    "health_ai": "Positiv (+1): defensiver Cashflow, weniger Öl-/Rendite-Sensitivität, AI-Produktivität; Medtronic +4.8 %.",
+    "tech": "Stark (+2), aber selektiver: AI-Chips/Networking/Datacenter/Custom Silicon führend; überzogene Software anfällig.",
+    "crypto": "Neutral (0): BTC ~67k stabilisiert, gedeckelt durch Renditen, USD und Geopolitik.",
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [
+    { "date": "2026-06-03", "time_et": "10:00", "time_zurich": null, "event": "ISM Services PMI", "impact": 4, "scenario_hotter": "Renditen ↑, USD ↑, Growth/Tech unter Druck, Fed-Hawkish-Risiko ↑.", "scenario_cooler": "Renditen ↓, Tech/Growth gestützt; bei zu schwach Wachstumssorgen." },
+    { "date": "2026-06-03", "time_et": "14:00", "time_zurich": null, "event": "Fed Beige Book", "impact": 3, "scenario_hotter": "Mehr Preisdruck → Renditen ↑, Fed restriktiver, Risk Assets belastet.", "scenario_cooler": "Mehr Abkühlung → Renditen ↓, Growth gestützt." },
+    { "date": "2026-06-03", "time_et": "After close", "time_zurich": null, "event": "Broadcom Earnings", "impact": 5, "scenario_hotter": "Starke Zahlen/Guidance → Semis ↑, Nasdaq ↑, AI-Rally bestätigt.", "scenario_cooler": "Enttäuschung/Margendruck → Gewinnmitnahmen im AI-Semi-Komplex." },
+    { "date": "2026-06-05", "time_et": "08:30", "time_zurich": null, "event": "Nonfarm Payrolls", "impact": 5, "scenario_hotter": "Renditen ↑, Fed-Hawkish-Risiko ↑, Growth/Tech belastet, Banken besser.", "scenario_cooler": "Renditen ↓, Zinshoffnung ↑, Tech/Small Caps/Crypto profitieren; bei zu schwach Rezessionsangst." }
+  ],
+  "positioning": {
+    "stance": "neutral bis leicht konstruktiv, weniger aggressiv als am Vortag",
+    "overweight": ["AI-Infrastruktur", "Quality Tech", "Halbleiter-Leader", "Healthcare/Medtech"],
+    "neutral": ["breite Index-ETFs", "Equal Weight"],
+    "underweight": ["hochverschuldete Small Caps", "unprofitable Growth", "reine AI-Narrative ohne Umsatz/Marge", "zinssensitive Langläufer-Aktien"],
+    "what_not_to_do": "Nicht blind AI-Exposure nachkaufen vor Broadcom/Payrolls."
+  },
+  "confidence": {
+    "level_pct": 88,
+    "uncertainty_vectors": ["Öl bricht über 100 USD aus", "Broadcom enttäuscht nach Börsenschluss", "10Y über 4.5 %", "Beige Book bestätigt Preisdruck", "Payrolls zu stark → Fed-Stress"]
+  },
+  "source": {
+    "created_by": "ChatGPT",
+    "engine": "market-memory-v1",
+    "data_sources": ["Reuters", "AP", "MarketWatch"],
+    "note": "Migriert aus json/2026/06/2026-06-03.json (v1). Indexwerte qualitativ/approximativ, daher shared-context."
+  }
+}

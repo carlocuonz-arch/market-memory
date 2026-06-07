@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "shared-context",
+  "market_status": "normal",
+  "headline": "Europa stabilisiert sich nach Vortagesschwäche, aber Öl/Geopolitik, EZB-Hike-Erwartung und Private-Market-Stress halten den Risikoappetit vorsichtig.",
+  "market_regime": "Neutral bis vorsichtig.",
+  "market_moves": {
+    "STOXX600": { "value": 621.20, "change_pct": null, "unit": "index", "note": "nahe Vortagesschluss nach ~-0.7 % am Vortag (621.19)" },
+    "FEZ": { "value": null, "change_pct": -1.26, "unit": "USD", "note": "letzte verfügbare US-Session" },
+    "VGK": { "value": null, "change_pct": -1.17, "unit": "USD", "note": "letzte verfügbare US-Session" },
+    "EZU": { "value": null, "change_pct": -1.17, "unit": "USD", "note": "letzte verfügbare US-Session" },
+    "QQQ": { "value": null, "change_pct": -0.25, "unit": "USD", "note": "US-Tech-Proxy" },
+    "XLV": { "value": null, "change_pct": 0.76, "unit": "USD", "note": "Health-Proxy" },
+    "BTC": { "value": 63719, "change_pct": -4.9, "unit": "USD", "note": "ggü. vorherigem Schluss" }
+  },
+  "scorecard": {
+    "europe_tech": { "score": 1, "interpretation": "AI-/Halbleiter-Stärke bleibt intakt, aber Makro bremst." },
+    "us_tech": { "score": 0, "interpretation": "QQQ leicht schwächer; kein Bruch, aber kein Rückenwind." },
+    "health_rotation": { "score": 1, "interpretation": "Health zeigt relative Stärke und defensives Qualitätsprofil." },
+    "risk_sentiment": { "score": -1, "interpretation": "Nahost, Öl, EZB-Hike und Bitcoin-Schwäche belasten Risikoappetit." },
+    "volatility": { "score": -1, "interpretation": "Keine Panik, aber Event-Risiken nehmen zu." },
+    "rates": { "score": null, "interpretation": "Nicht separat bewertet; EZB-Hike auf 2.25 % als zentraler Treiber genannt." },
+    "crypto_liquidity": { "score": null, "interpretation": "BTC -4.9 %, als Warnsignal beschrieben, aber nicht als Score quantifiziert." }
+  },
+  "top_themes": [
+    { "rank": 1, "theme": "EZB-Hike wird zunehmend eingepreist", "mechanism": "Reuters-Umfrage: Hike am 11.06. auf 2.25 % wahrscheinlich; Eurozonen-Inflation Mai 3.2 %, Kern 2.5 %", "beneficiaries": ["Banken"], "losers": ["Growth", "Tech", "Duration"] },
+    { "rank": 2, "theme": "Nahost-/Ölrisiko als zentraler Makro-Stressor", "mechanism": "Höhere Ölpreise wirken in Europa direkt auf Inflation, Margen, Konsum", "beneficiaries": ["Energie", "Defense"], "losers": ["Airlines", "Chemie", "Konsum", "Zykliker"] },
+    { "rank": 3, "theme": "Private-Market-Stress trifft Finanzwerte", "mechanism": "Partners Group -16.3 % nach Rücknahme-Beschränkungen → Sorge um illiquide Private-Market-Exposures", "beneficiaries": [], "losers": ["Finanzdienstleister", "Asset Manager"] }
+  ],
+  "portfolio_themes": {
+    "etfs": "Europa-ETFs (FEZ/VGK/EZU) taktisch interessant, aber gestaffelt kaufen statt All-in; Europa relativ günstiger, Zinspfad bissiger.",
+    "health_ai": "Attraktiv als Qualitäts-/Defensiv-Bucket; Roche, Novartis, AstraZeneca als STOXX-600-Schwergewichte; XLV relativ stark.",
+    "tech": "Selektiv: AI-Infrastruktur ja (STM/Infineon/Schneider, Tech-Subindex +3.4 %), teure Stories ohne Cashflow nein.",
+    "crypto": "Vorsichtig: BTC klar schwächer, keine Panikkäufe; Liquiditäts-/Sentiment-Sensor 'orange'.",
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [
+    { "date": "2026-06-11", "time_et": null, "time_zurich": null, "event": "EZB-Zinsentscheid", "impact": 5, "scenario_hotter": "Hawkisher Ton/höhere Inflation: Druck auf Tech, Immobilien, Duration; Banken besser.", "scenario_cooler": "Dovishe Überraschung: Rally in Growth/Tech, Euro schwächer, Bonds stärker." },
+    { "date": "2026-06-16", "time_et": null, "time_zurich": null, "event": "BoJ-Entscheid", "impact": 3, "scenario_hotter": "Hike/hawkish: Yen stärker, Carry-Trade-Stress, global risk-off möglich.", "scenario_cooler": "Kein Hike/dovish: Entlastung für globale Liquidität und Growth." },
+    { "date": "2026-06-18", "time_et": null, "time_zurich": null, "event": "SNB Monetary Policy Assessment", "impact": 3, "scenario_hotter": "Hawkish/stärkerer CHF: Druck auf Schweizer Exporte.", "scenario_cooler": "Dovish/schwächerer CHF: Rückenwind für Exportwerte." },
+    { "date": "2026-06-18", "time_et": null, "time_zurich": null, "event": "BoE MPC Summary & Minutes", "impact": 4, "scenario_hotter": "Hawkish: GBP stärker, UK-Immobilien/Konsum unter Druck, Banken besser.", "scenario_cooler": "Dovish: UK-Midcaps, Immobilien, Konsum atmen auf." },
+    { "date": "ongoing", "time_et": null, "time_zurich": null, "event": "Nahost / Strait of Hormuz / Ölpreise", "impact": 5, "scenario_hotter": "Eskalation: Energie hoch, Inflationserwartungen hoch, Europa risk-off.", "scenario_cooler": "Deeskalation: Öl runter, Airlines/Chemie/Konsum profitieren, EZB-Druck sinkt." }
+  ],
+  "positioning": {
+    "stance": "leicht defensiv-neutral",
+    "overweight": ["Quality Health", "selektive AI-Infrastruktur/Halbleiter-Zulieferer", "solide Dividenden-/Cashflow-Titel"],
+    "neutral": ["bestehende Europa-ETF-Positionen halten"],
+    "underweight": ["hochverschuldete Zykliker", "zinssensitive Immobilien", "schwache Konsumstories", "Private-Market-Liquidity-Stories"],
+    "what_not_to_do": "Keine neuen Käufe ungestaffelt; nicht mit der Kreditkarte des Imperiums nachkaufen."
+  },
+  "confidence": {
+    "level_pct": 72,
+    "uncertainty_vectors": ["Öl/Nahost-Eskalation", "EZB-Reaktion 11.06.", "Bitcoin-Schwäche als Sentiment-Signal"]
+  },
+  "source": {
+    "created_by": "ChatGPT",
+    "engine": "market-memory-v1",
+    "data_sources": ["Reuters"],
+    "note": "Migriert aus briefings/2026/06/04/europe_market_briefing.json (v1). Zitate im Snapshot nicht erhalten → shared-context."
+  }
+}
