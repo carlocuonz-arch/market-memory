@@ -1,0 +1,96 @@
+{
+  "schema": "market-memory-index/1.0",
+  "count": 4,
+  "scorecard_dims": [
+    "europe_tech",
+    "us_tech",
+    "health_rotation",
+    "risk_sentiment",
+    "volatility",
+    "rates",
+    "crypto_liquidity"
+  ],
+  "history_file": "scorecards/market_score_history.jsonl",
+  "entries": [
+    {
+      "date": "2026-06-03",
+      "briefing_type": "us_daily",
+      "data_classification": "shared-context",
+      "market_regime": "Konstruktiv, aber fragil; AI-Führung intakt, Öl/Renditen/Geopolitik belasten.",
+      "conviction_pct": 88,
+      "conviction_direction": null,
+      "data_quality_pct": null,
+      "scores": {
+        "europe_tech": null,
+        "us_tech": 2,
+        "health_rotation": 1,
+        "risk_sentiment": 0,
+        "volatility": -1,
+        "rates": -1,
+        "crypto_liquidity": 0
+      },
+      "md": "briefings/2026/06/2026-06-03_us_daily.md",
+      "json": "briefings/2026/06/2026-06-03_us_daily.json"
+    },
+    {
+      "date": "2026-06-04",
+      "briefing_type": "europe_daily",
+      "data_classification": "shared-context",
+      "market_regime": "Neutral bis vorsichtig.",
+      "conviction_pct": 72,
+      "conviction_direction": null,
+      "data_quality_pct": null,
+      "scores": {
+        "europe_tech": 1,
+        "us_tech": 0,
+        "health_rotation": 1,
+        "risk_sentiment": -1,
+        "volatility": -1,
+        "rates": null,
+        "crypto_liquidity": null
+      },
+      "md": "briefings/2026/06/2026-06-04_europe_daily.md",
+      "json": "briefings/2026/06/2026-06-04_europe_daily.json"
+    },
+    {
+      "date": "2026-06-04",
+      "briefing_type": "us_daily",
+      "data_classification": "shared-context",
+      "market_regime": "Neutral mit negativer Tech-Neigung; Rotation statt Panik.",
+      "conviction_pct": 70,
+      "conviction_direction": null,
+      "data_quality_pct": null,
+      "scores": {
+        "europe_tech": null,
+        "us_tech": -1,
+        "health_rotation": 1,
+        "risk_sentiment": -1,
+        "volatility": 0,
+        "rates": null,
+        "crypto_liquidity": null
+      },
+      "md": "briefings/2026/06/2026-06-04_us_daily.md",
+      "json": "briefings/2026/06/2026-06-04_us_daily.json"
+    },
+    {
+      "date": "2026-06-07",
+      "briefing_type": "us_daily",
+      "data_classification": "verified-live",
+      "market_regime": "Risk-off / Repricing (Renditedruck)",
+      "conviction_pct": 40,
+      "conviction_direction": "bearish",
+      "data_quality_pct": 100,
+      "scores": {
+        "europe_tech": -1,
+        "us_tech": -2,
+        "health_rotation": null,
+        "risk_sentiment": -2,
+        "volatility": null,
+        "rates": -1,
+        "crypto_liquidity": 2
+      },
+      "md": "briefings/2026/06/2026-06-07_us_daily.md",
+      "json": "briefings/2026/06/2026-06-07_us_daily.json"
+    }
+  ]
+}

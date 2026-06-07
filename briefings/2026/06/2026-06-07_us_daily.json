@@ -6,8 +6,8 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der Markt verzeichnet einen signifikanten Verkaufsdruck mit einem deutlichen Rückgang des S&P 500 (-2.64%) und insbesondere des Nasdaq100 (-4.77%). Das dominante Makro-Regime ist durch eine spürbare R",
-  "market_regime": "",
+  "headline": "Der Markt operiert in einem klaren Risiko-Off-Regime, was sich an den signifikanten Verkaufsdrucken bei Tech-Titeln (-4.77% Nasdaq100) und allgemeinen Indizes wie dem S&P 500 (-2.64%) manifestiert. Di",
+  "market_regime": "Risk-off / Repricing (Renditedruck)",
   "market_moves": {
     "DAX": {
       "value": 24759.0508,
@@ -82,14 +82,14 @@
       "note": null
     },
     "BTC": {
-      "value": 62603.1289,
-      "change_pct": 2.85,
+      "value": 62114.6484,
+      "change_pct": 2.05,
       "unit": null,
       "note": null
     },
     "ETH": {
-      "value": 1630.17,
-      "change_pct": 3.91,
+      "value": 1615.89,
+      "change_pct": 3.0,
       "unit": null,
       "note": null
     }
@@ -121,32 +121,30 @@
     },
     "crypto_liquidity": {
       "score": 2,
-      "interpretation": "BTC +2.85%."
+      "interpretation": "BTC +2.05%."
     }
   },
   "top_themes": [
     {
       "rank": 1,
-      "theme": "Prediction: Micron Technology Stock Could Go Parabolic After June 24. Here's Why.",
-      "mechanism": "Micron stock is likely to get a big boost following the release of its upcoming quarterly report.",
-      "beneficiaries": [
-        "MU"
-      ],
+      "theme": "More sanctions could be imposed on Israeli settlers in ’coming days’, France says",
+      "mechanism": "",
+      "beneficiaries": [],
       "losers": []
     },
     {
       "rank": 2,
-      "theme": "Is the euro area facing a significant economic slowdown in 2026?",
+      "theme": "Israel kills five in Gaza as Egypt hosts new ceasefire talks",
       "mechanism": "",
       "beneficiaries": [],
       "losers": []
     },
     {
       "rank": 3,
-      "theme": "InvestingPro’s fair value models spotted Kodiak AI’s 40% decline",
-      "mechanism": "",
+      "theme": "Prediction: Micron Technology Stock Could Go Parabolic After June 24. Here's Why.",
+      "mechanism": "Micron stock is likely to get a big boost following the release of its upcoming quarterly report.",
       "beneficiaries": [
-        "null"
+        "MU"
       ],
       "losers": []
     }
@@ -166,7 +164,7 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "Hypothetische Einschätzung: **Übergewichten** sollten relative Value Plays und Assets mit hoher Krypto-Liquidiät (crypto_liquidity: 2) betrachtet werden. **Untergewichten** sind breit gestreute, zinssensible Technologiepositionen sowie traditionelle Rohstoffe aufgrund des Verkaufsdrucks. Was NICHT getan werden sollte, ist eine Allokation in Sektoren, die stark von der aktuellen Zinsdynamik und dem allgemeinen Risiko-Sentiment abhängen."
+    "narrative": "Hypothetisch sind traditionelle Technologie-Sektoren sowie zyklische Anlagen Untergewichtet (-2/ -1). Aufgrund der Liquiditätszuflüsse und der Performance-Diskrepanz ist eine Übergewichtung von Krypto-Assets (BTC, ETH) zu beobachten. Die Positionierung sollte defensiv bleiben, wobei die Kurse von Rohstoffen (WTI: -2.69%, Gold: -2.47%) auf anhaltende Abschwächungen hindeuten. **Was NICHT getan werden sollte:** Exponierte Wetten auf Sektoren mit hohem geopolitischem oder makroökonomischem Risiko, insbesondere im Kontext steigender US-Zinsen und negativer Nachrichtenflüsse."
   },
   "confidence": {
     "level_pct": 40,
