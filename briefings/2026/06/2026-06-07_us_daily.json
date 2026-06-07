@@ -1,0 +1,184 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-07",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt verzeichnet einen deutlichen Risiko-Abverkauf, was sich in den Performance-Daten des S&P 500 (-2.64%) und insbesondere des Nasdaq100 (-4.77%) widerspiegelt. Das dominante Makro-Regime wird v",
+  "market_regime": "",
+  "market_moves": {
+    "DAX": {
+      "value": 24759.0508,
+      "change_pct": -0.75,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6062.0698,
+      "change_pct": -0.68,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7383.7402,
+      "change_pct": -2.64,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28957.5996,
+      "change_pct": -4.77,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 50866.7812,
+      "change_pct": -1.35,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.536,
+      "change_pct": 1.32,
+      "unit": "percent",
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1527,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9173,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.07,
+      "change_pct": 0.66,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4365.2998,
+      "change_pct": -2.47,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 93.09,
+      "change_pct": -2.04,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 90.54,
+      "change_pct": -2.69,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62574.7891,
+      "change_pct": 2.81,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1629.1,
+      "change_pct": 3.85,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.75% / ESTX50 -0.68%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -4.77%."
+    },
+    "health_rotation": {
+      "score": null,
+      "interpretation": "Kein Health-Proxy (z.B. XLV) im Snapshot."
+    },
+    "risk_sentiment": {
+      "score": -2,
+      "interpretation": "S&P 500 -2.64%."
+    },
+    "volatility": {
+      "score": null,
+      "interpretation": "Kein VIX im Snapshot."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.32% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +2.81%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Prediction: Micron Technology Stock Could Go Parabolic After June 24. Here's Why.",
+      "mechanism": "Micron stock is likely to get a big boost following the release of its upcoming quarterly report.",
+      "beneficiaries": [
+        "MU"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Is the euro area facing a significant economic slowdown in 2026?",
+      "mechanism": "",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "InvestingPro’s fair value models spotted Kodiak AI’s 40% decline",
+      "mechanism": "",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "portfolio_themes": {
+    "etfs": null,
+    "health_ai": null,
+    "tech": null,
+    "crypto": null,
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund des divergierenden Marktumfelds ist eine **selektiv übergewichtete** Positionierung ratsam. Man sollte Assets mit starkem Momentum und geringer Korrelation zum allgemeinen Markt (z.B. BTC) favorisieren, während breite Technologie-Expositionen (Nasdaq100 -4.77%) temporär untergewichtet betrachtet werden sollten. **Was NICHT tun:** Nicht die allgemeine Marktschwäche des S&P 500 (-2.64%) als Indikator für eine globale Korrektur interpretieren, da der relative Ausbruch des Kryptomarktes ein starkes Signal für alternative Kapitalzuflüsse darstellt."
+  },
+  "confidence": {
+    "level_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "jarvis-gemma4:latest",
+    "engine": "ct106-briefing-orchestrator",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via lokalem Ollama. Prosa ok."
+  }
+}
