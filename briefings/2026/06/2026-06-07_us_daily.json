@@ -6,7 +6,7 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der Markt verzeichnet einen deutlichen Risiko-Abverkauf, was sich in den Performance-Daten des S&P 500 (-2.64%) und insbesondere des Nasdaq100 (-4.77%) widerspiegelt. Das dominante Makro-Regime wird v",
+  "headline": "Der Markt verzeichnet einen signifikanten Verkaufsdruck mit einem deutlichen Rückgang des S&P 500 (-2.64%) und insbesondere des Nasdaq100 (-4.77%). Das dominante Makro-Regime ist durch eine spürbare R",
   "market_regime": "",
   "market_moves": {
     "DAX": {
@@ -82,14 +82,14 @@
       "note": null
     },
     "BTC": {
-      "value": 62574.7891,
-      "change_pct": 2.81,
+      "value": 62603.1289,
+      "change_pct": 2.85,
       "unit": null,
       "note": null
     },
     "ETH": {
-      "value": 1629.1,
-      "change_pct": 3.85,
+      "value": 1630.17,
+      "change_pct": 3.91,
       "unit": null,
       "note": null
     }
@@ -121,7 +121,7 @@
     },
     "crypto_liquidity": {
       "score": 2,
-      "interpretation": "BTC +2.81%."
+      "interpretation": "BTC +2.85%."
     }
   },
   "top_themes": [
@@ -166,10 +166,13 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "*Hypothetische Einschätzung:* Aufgrund des divergierenden Marktumfelds ist eine **selektiv übergewichtete** Positionierung ratsam. Man sollte Assets mit starkem Momentum und geringer Korrelation zum allgemeinen Markt (z.B. BTC) favorisieren, während breite Technologie-Expositionen (Nasdaq100 -4.77%) temporär untergewichtet betrachtet werden sollten. **Was NICHT tun:** Nicht die allgemeine Marktschwäche des S&P 500 (-2.64%) als Indikator für eine globale Korrektur interpretieren, da der relative Ausbruch des Kryptomarktes ein starkes Signal für alternative Kapitalzuflüsse darstellt."
+    "narrative": "Hypothetische Einschätzung: **Übergewichten** sollten relative Value Plays und Assets mit hoher Krypto-Liquidiät (crypto_liquidity: 2) betrachtet werden. **Untergewichten** sind breit gestreute, zinssensible Technologiepositionen sowie traditionelle Rohstoffe aufgrund des Verkaufsdrucks. Was NICHT getan werden sollte, ist eine Allokation in Sektoren, die stark von der aktuellen Zinsdynamik und dem allgemeinen Risiko-Sentiment abhängen."
   },
   "confidence": {
-    "level_pct": 100,
+    "level_pct": 40,
+    "conviction_pct": 40,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
     "uncertainty_vectors": []
   },
   "source": {
