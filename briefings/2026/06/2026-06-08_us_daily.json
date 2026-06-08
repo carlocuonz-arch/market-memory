@@ -1,0 +1,185 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-08",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt zeigte eine deutliche Divergenz: Während der Nasdaq100 mit +1.58% die Performance anführte und US-Tech weiterhin das dominante Makro-Regime darstellt, verzeichneten europäische Indizes wie d",
+  "market_regime": "Risk-on / Goldilocks",
+  "market_moves": {
+    "DAX": {
+      "value": 24616.2207,
+      "change_pct": -0.58,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6062.29,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7405.73,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29414.2578,
+      "change_pct": 1.58,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 50786.0117,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.552,
+      "change_pct": 0.35,
+      "unit": "percent",
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1535,
+      "change_pct": -0.67,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9201,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.016,
+      "change_pct": -0.05,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4353.5,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 94.2,
+      "change_pct": 1.19,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 91.26,
+      "change_pct": 0.8,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63224.7383,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1682.66,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.58% / ESTX50 +0.00%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.58%."
+    },
+    "health_rotation": {
+      "score": null,
+      "interpretation": "Kein Health-Proxy (z.B. XLV) im Snapshot."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.30%."
+    },
+    "volatility": {
+      "score": null,
+      "interpretation": "Kein VIX im Snapshot."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.35% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.02%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "US Equity Indexes Mixed as Big-Tech Marches Higher, Trump Engineers Halt to Iran-Israel's Exchange of Strikes",
+      "mechanism": "US equity indexes traded mixed as technology topped sector charts, while President Donald Trump's ef",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Trump approval stays near record low as most Americans expect higher gas prices",
+      "mechanism": "",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Iran urged to resume nuclear site inspections after bombings",
+      "mechanism": "",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "portfolio_themes": {
+    "etfs": null,
+    "health_ai": null,
+    "tech": null,
+    "crypto": null,
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch ist eine Übergewichtung von US Large-Cap Tech und Rohstoff-Exposures ratsam. Aufgrund der Divergenz sollten europäische Positionierungen (DAX -0.58%) untergewichtet betrachtet werden, während die steigenden Zinsen bei gleichzeitiger Inflationswarnung ein erhöhtes Vorsichtsniveau für traditionelle Anleihen implizieren. Was NICHT getan werden sollte, ist eine Überbetonung von zyklischen europäischen Sektoren oder eine Vernachlässigung des fundamentalen Rohstoff-Carrytrades zugunsten reiner Aktienexposition."
+  },
+  "confidence": {
+    "level_pct": 20,
+    "conviction_pct": 20,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "jarvis-gemma4:latest",
+    "engine": "ct106-briefing-orchestrator",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via lokalem Ollama. Prosa ok."
+  }
+}
