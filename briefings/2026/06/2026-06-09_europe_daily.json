@@ -1,0 +1,189 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die globale Marktstruktur zeigt eine deutliche Divergenz zwischen den US-Technologie-Sektoren und europäischen Indizes; der Nasdaq100 (+1.58%) outperformt dabei signifikant das DAX (-0.58%). Makroökon",
+  "market_regime": "Risk-on / Goldilocks",
+  "market_moves": {
+    "DAX": {
+      "value": 24616.2207,
+      "change_pct": -0.58,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6062.29,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7405.73,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29414.2598,
+      "change_pct": 1.58,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 50786.0117,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.552,
+      "change_pct": 0.35,
+      "unit": "percent",
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1546,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9196,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.935,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4358.1001,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 93.45,
+      "change_pct": -0.85,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 90.19,
+      "change_pct": -1.22,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63282.0117,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1687.12,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.58% / ESTX50 +0.00%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.58%."
+    },
+    "health_rotation": {
+      "score": null,
+      "interpretation": "Kein Health-Proxy (z.B. XLV) im Snapshot."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.30%."
+    },
+    "volatility": {
+      "score": null,
+      "interpretation": "Kein VIX im Snapshot."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.35% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.07%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "New Balance’s India partner Brandman to expand fivefold, add global brands, exec says",
+      "mechanism": "",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Iraq and UAE race to establish alternative oil pipelines as exports through Hormuz dry up",
+      "mechanism": "Last week, the Iraqi cabinet approved plans to accelerate crude exports through the Kurdistan-Turkey pipeline network.",
+      "beneficiaries": [
+        "UAE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Defiance Launches MUZ: The First 2X Short ETF for Micron Technology, Inc.",
+      "mechanism": "Defiance Launches MUZ: The First 2X Short ETF for Micron Technology, Inc. Defiance ETFs is proud to announce the launch of the Defiance Daily Target 2X Short MU ETF (Ticker: MUZ), the newest addition to its growing suite of single-stock leveraged and inverse ETFs. MIAMI, June 09, 2026 (GLOBE NEWSWIRE) -- Defiance ETFs is proud to announce the launch of the Defiance Daily Target 2X Short MU ETF (Ticker: MUZ), the newest addition to its growing suite of single-stock leveraged and inverse ETFs. MUZ",
+      "beneficiaries": [
+        "MUZ"
+      ],
+      "losers": []
+    }
+  ],
+  "portfolio_themes": {
+    "etfs": null,
+    "health_ai": null,
+    "tech": null,
+    "crypto": null,
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten Sie technologiegetriebene Nischenpositionen mit klarem Wachstumspfad, da die Performance-Daten (`us_tech: 2`) dies stützen. Neutral bis leicht untergewichten sollten breite europäische oder zyklische Rohstoffexposures aufgrund der aktuellen Divergenz und des steigenden Zinsdrucks. **Was NICHT tun:** Vermeiden Sie generelle Allokationen in Sektoren, die stark von globalen Energiezyklen abhängen, da diese aktuell unter Druck stehen."
+  },
+  "confidence": {
+    "level_pct": 20,
+    "conviction_pct": 20,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "jarvis-gemma4:latest",
+    "engine": "ct106-briefing-orchestrator",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via lokalem Ollama. Prosa ok."
+  }
+}
