@@ -1,0 +1,189 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-10",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die globale Marktstimmung präsentiert sich hochgradig divergent: Der US Tech Sektor, gemessen am Nasdaq100 (+1.58%), fungiert als klarer Ankerpunkt und zieht Kapital an. Dieses Momentum steht im schar",
+  "market_regime": "Risk-on / Goldilocks",
+  "market_moves": {
+    "DAX": {
+      "value": 24616.2207,
+      "change_pct": -0.58,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6062.29,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7405.73,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29414.2598,
+      "change_pct": 1.58,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 50786.0117,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.552,
+      "change_pct": 0.35,
+      "unit": "percent",
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1555,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9217,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.861,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4230.8999,
+      "change_pct": -0.68,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 91.31,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 88.09,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61403.25,
+      "change_pct": -0.39,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1630.1899,
+      "change_pct": -0.46,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.58% / ESTX50 +0.00%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.58%."
+    },
+    "health_rotation": {
+      "score": null,
+      "interpretation": "Kein Health-Proxy (z.B. XLV) im Snapshot."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.30%."
+    },
+    "volatility": {
+      "score": null,
+      "interpretation": "Kein VIX im Snapshot."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.35% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.39%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Sanofi stops phase 3 trial of riliprubart in CIDP patients",
+      "mechanism": "",
+      "beneficiaries": [
+        "CIDP"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Analysis-China Inc deploys ’quiet’ layoffs as Beijing promotes AI adoption",
+      "mechanism": "",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Bitcoin falls to $61k on US-Iran escalation; ETF outflows cool further",
+      "mechanism": "",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "portfolio_themes": {
+    "etfs": null,
+    "health_ai": null,
+    "tech": null,
+    "crypto": null,
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetische Einschätzung: Tech-Sektoren sind Uebergewichtet aufgrund der klaren Performance des Nasdaq100; alle anderen breiten Marktpositionen sollten neutral bis untergewichtet gehalten werden, um die Divergenz zu nutzen. Was NICHT getan werden sollte, ist eine gleichmäßige Allokation über verschiedene geografische oder sektorale Märkte hinweg, da das Risiko einer unkoordinierten Globalisierung der Rendite-Verluste erhöht."
+  },
+  "confidence": {
+    "level_pct": 20,
+    "conviction_pct": 20,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "jarvis-gemma4:latest (mini)",
+    "engine": "ct106-briefing-orchestrator",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via mini (jarvis-gemma4:latest). Prosa ok."
+  }
+}
