@@ -6,18 +6,18 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Die globale Marktstimmung präsentiert sich hochgradig divergent: Der US Tech Sektor, gemessen am Nasdaq100 (+1.58%), fungiert als klarer Ankerpunkt und zieht Kapital an. Dieses Momentum steht im schar",
+  "headline": "Der Markt zeigt eine deutliche sektorale Divergenz: Der US-Technosektor ist mit einem Anstieg von +1.58% am Nasdaq100 der dominante Treiber, während europäische Indizes gemischt reagieren (DAX -0.56%)",
   "market_regime": "Risk-on / Goldilocks",
   "market_moves": {
     "DAX": {
-      "value": 24616.2207,
-      "change_pct": -0.58,
+      "value": 24479.0,
+      "change_pct": -0.56,
       "unit": null,
       "note": null
     },
     "ESTX50": {
-      "value": 6062.29,
-      "change_pct": 0.0,
+      "value": 6064.3999,
+      "change_pct": 0.03,
       "unit": null,
       "note": null
     },
@@ -46,50 +46,50 @@
       "note": null
     },
     "EURUSD": {
-      "value": 1.1555,
-      "change_pct": 0.23,
+      "value": 1.1557,
+      "change_pct": 0.24,
       "unit": null,
       "note": null
     },
     "EURCHF": {
-      "value": 0.9217,
-      "change_pct": 0.18,
+      "value": 0.9223,
+      "change_pct": 0.23,
       "unit": null,
       "note": null
     },
     "DXY": {
-      "value": 99.861,
+      "value": 99.86,
       "change_pct": -0.19,
       "unit": null,
       "note": null
     },
     "Gold": {
-      "value": 4230.8999,
-      "change_pct": -0.68,
+      "value": 4221.8999,
+      "change_pct": -0.89,
       "unit": null,
       "note": null
     },
     "Brent": {
-      "value": 91.31,
-      "change_pct": -0.15,
-      "unit": null,
-      "note": null
-    },
-    "WTI": {
-      "value": 88.09,
-      "change_pct": -0.12,
-      "unit": null,
-      "note": null
-    },
-    "BTC": {
-      "value": 61403.25,
+      "value": 91.09,
       "change_pct": -0.39,
       "unit": null,
       "note": null
     },
+    "WTI": {
+      "value": 87.84,
+      "change_pct": -0.41,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61593.3906,
+      "change_pct": -0.08,
+      "unit": null,
+      "note": null
+    },
     "ETH": {
-      "value": 1630.1899,
-      "change_pct": -0.46,
+      "value": 1635.37,
+      "change_pct": -0.14,
       "unit": null,
       "note": null
     }
@@ -97,7 +97,7 @@
   "scorecard": {
     "europe_tech": {
       "score": 0,
-      "interpretation": "DAX -0.58% / ESTX50 +0.00%."
+      "interpretation": "DAX -0.56% / ESTX50 +0.03%."
     },
     "us_tech": {
       "score": 2,
@@ -121,34 +121,32 @@
     },
     "crypto_liquidity": {
       "score": 0,
-      "interpretation": "BTC -0.39%."
+      "interpretation": "BTC -0.08%."
     }
   },
   "top_themes": [
     {
       "rank": 1,
-      "theme": "Sanofi stops phase 3 trial of riliprubart in CIDP patients",
+      "theme": "Retail investors hit borrowing limits at South Korean brokerages, think tank says",
       "mechanism": "",
-      "beneficiaries": [
-        "CIDP"
-      ],
+      "beneficiaries": [],
       "losers": []
     },
     {
       "rank": 2,
-      "theme": "Analysis-China Inc deploys ’quiet’ layoffs as Beijing promotes AI adoption",
+      "theme": "FTSE 100 today: Stocks rise as deal optimism steadies nerves",
       "mechanism": "",
       "beneficiaries": [
-        "null"
+        "FTSE"
       ],
       "losers": []
     },
     {
       "rank": 3,
-      "theme": "Bitcoin falls to $61k on US-Iran escalation; ETF outflows cool further",
+      "theme": "RBC Capital upgrades Adidas stock rating on revenue growth",
       "mechanism": "",
       "beneficiaries": [
-        "null"
+        "RBC"
       ],
       "losers": []
     }
@@ -168,7 +166,7 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "Hypothetische Einschätzung: Tech-Sektoren sind Uebergewichtet aufgrund der klaren Performance des Nasdaq100; alle anderen breiten Marktpositionen sollten neutral bis untergewichtet gehalten werden, um die Divergenz zu nutzen. Was NICHT getan werden sollte, ist eine gleichmäßige Allokation über verschiedene geografische oder sektorale Märkte hinweg, da das Risiko einer unkoordinierten Globalisierung der Rendite-Verluste erhöht."
+    "narrative": "(Hypothetische Einschätzung) **Übergewichten** sollten US-Tech-Wachstumsaktien (Nasdaq100 Performance). **Untergewichten** sind Rohstoffe und Gold, aufgrund des deutlichen Rückgangs von -0.89% bzw. den Ölpreisen. Man sollte nicht übermäßige Allokationen in traditionelle Value-Sektoren oder Commodities vornehmen, solange der Zinsanstieg (US10Y +0.35%) anhält."
   },
   "confidence": {
     "level_pct": 20,
