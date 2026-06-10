@@ -4,7 +4,7 @@
 **Regime:** Risk-on / Goldilocks
 
 ## Executive Summary
-Der Markt präsentiert sich heute von einer signifikanten Divergenz geprägt: Während der Nasdaq100 mit +1.58% eine klare Führung im Technologie-Sektor demonstriert, verzeichnen europäische Indizes wie der DAX einen Rückgang von -0.58%. Das dominante Makro-Regime ist durch die anhaltende Konzentration auf KI-Infrastruktur (OpenAI/Nvidia) getragen, was sich in den Bewegungen des US-Tech-Sektors manifestiert. Kernrisiken bleiben geopolitische Spannungen (US-Iran) und der steigende Zinsdruck, wie er durch den Anstieg der US10Y-Rendite (+0.35%) signalisiert wird. Die primäre Chance liegt in der fortlaufenden Kapitalallokation in die KI-Wertschöpfungskette.
+Die globale Marktstimmung ist stark divergierend; während der US Tech Sektor mit einem Anstieg von +1.58% die Führung übernimmt, verzeichnen europäische Indizes wie der DAX einen Rückgang von -0.58%. Das dominierende Makro-Regime wird durch steigende Renditen (US10Y: +0.35%) und den gleichzeitigen Druck auf Commodities (Brent/WTI: ca. -0.54%) charakterisiert, was auf eine anhaltend vorsichtige Risikobewertung hindeutet. Das Kernrisiko bleibt die geopolitische Fragmentierung, wie durch Nachrichten zu Taiwan oder dem Iran belegt wird, während die primäre Chance in der weiterhin robusten Nachfrage nach AI-Chips (TSMC Sales: +30% y/y) liegt.
 
 ## Marktbewegungen
 | Instrument | Stand | Veränderung |
@@ -15,17 +15,17 @@ Der Markt präsentiert sich heute von einer signifikanten Divergenz geprägt: W�
 | Nasdaq100 | 29414.2598 | +1.58% |
 | Dow | 50786.0117 | -0.16% |
 | US10Y | 4.552 | +0.35% |
-| EURUSD | 1.1553 | +0.21% |
-| EURCHF | 0.9224 | +0.25% |
-| DXY | 99.944 | -0.11% |
-| Gold | 4199.5 | -1.42% |
-| Brent | 91.67 | +0.24% |
-| WTI | 88.46 | +0.29% |
-| BTC | 61212.6992 | -2.98% |
-| ETH | 1624.99 | -3.86% |
+| EURUSD | 1.1558 | +0.26% |
+| EURCHF | 0.9221 | +0.22% |
+| DXY | 99.865 | -0.18% |
+| Gold | 4237.2002 | -0.54% |
+| Brent | 90.98 | -0.51% |
+| WTI | 87.72 | -0.54% |
+| BTC | 61295.6211 | -0.56% |
+| ETH | 1627.21 | -0.64% |
 
 ## Top Themen
-Die Tech-Dominanz bleibt das zentrale Thema: Der starke Aufwärtstrend des Nasdaq100 (Score 2) und die KOSPI-Reaktion auf den AI Chip Rally unterstreichen die strukturelle Überbetonung von Halbleiterkapazitäten. Ein zweites kritisches Thema ist die volatile Risikostimmung, erkennbar an der deutlichen Abwertung von Kryptowährungen (BTC -2.98%, ETH -3.86%) und Gold (-1.42%), während Rohstoffe wie Brent (+0.24%) und WTI (+0.29%) zulegen. Ein dritter Faktor ist die geopolitische Unsicherheit, welche sich in den negativen Nachrichten zu US-Iran Spannungen sowie der zunehmenden AI-Spionage aus Peking widerspiegelt.
+Die Überlegenheit des US Tech Sektors bleibt das markttreibende Thema schlechthin, was durch den deutlichen Anstieg des Nasdaq100 (+1.58%) unterstrichen wird und sich von der Stagnation im ESTX50 (+0.00%) abgrenzt. Ein sekundäres Thema ist die Akkumulation geopolitischer Risiken; dies manifestiert sich in Nachrichten wie den Angriffen des Iran oder dem Verfall an den Taiwan-Aktien (-3.48%). Drittens signalisiert der Rückgang bei Commodities (Gold: -0.54%, Brent: -0.51%) und Kryptowährungen (BTC: -0.56%) eine anhaltende Liquiditätskompression oder ein erhöhtes Risiko-Verhalten.
 
 ## Market Scorecard
 | Faktor | Score | Interpretation |
@@ -36,11 +36,11 @@ Die Tech-Dominanz bleibt das zentrale Thema: Der starke Aufwärtstrend des Nasda
 | risk_sentiment | +0 | S&P 500 +0.30%. |
 | volatility | N/A | Kein VIX im Snapshot. |
 | rates | +0 | US10Y +0.35% (steigende Rendite = Gegenwind). |
-| crypto_liquidity | -2 | BTC -2.98%. |
+| crypto_liquidity | -1 | BTC -0.56%. |
 
 ## Hypothetische Positionierung
-Hypothetisch sind wir *Übergewichtet* im globalen Technologie-Sektor (us_tech Score 2). Die anhaltende Stärke des Tech-Sektors rechtfertigt eine positive Gewichtung von Infrastruktur- und KI-Enablern. Wir empfehlen jedoch, die Allokation in rein spekulative oder zyklisch überhitzte Assets zu reduzieren. **Was NICHT getan werden sollte:** Eine Überbetonung auf volatile Anlagen wie Kryptowährungen (BTC -2.98%) oder eine Vernachlässigung der Zinssensitivität durch steigende US10Y-Renditen (+0.35%).
+Hypothetisch sollte der Tech Sektor weiterhin übergewichtet bleiben, um von der AI-getriebenen Nachfrage zu profitieren; die allgemeine Konjunktur ist jedoch durch steigende US10Y Renditen (Gegenwind) gedämpft. Wir empfehlen eine neutrale Haltung bei Commodities und Kryptowährungen, da deren Rückgang auf strukturelle Makrorisiken hindeutet. **Was NICHT tun:** Es ist zu vermeiden, spekulative Wetten in Sektoren mit hohem geopolitischem oder makroökonomischem Unsicherheitsgrad (z.B. Gold oder BTC) einzugehen, solange die Divergenz zwischen US- und EU-Performance anhält.
 
 ## Konfidenz
-**Überzeugung:** 0 % (neutral) — wie stark/einheitlich die Scorecard lehnt.  
+**Überzeugung:** 10 % (neutral) — wie stark/einheitlich die Scorecard lehnt.  
 **Datenqualität:** 100 % — Vollständigkeit der Quellen.

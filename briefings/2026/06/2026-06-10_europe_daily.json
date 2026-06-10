@@ -6,7 +6,7 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der Markt präsentiert sich heute von einer signifikanten Divergenz geprägt: Während der Nasdaq100 mit +1.58% eine klare Führung im Technologie-Sektor demonstriert, verzeichnen europäische Indizes wie ",
+  "headline": "Die globale Marktstimmung ist stark divergierend; während der US Tech Sektor mit einem Anstieg von +1.58% die Führung übernimmt, verzeichnen europäische Indizes wie der DAX einen Rückgang von -0.58%. ",
   "market_regime": "Risk-on / Goldilocks",
   "market_moves": {
     "DAX": {
@@ -46,50 +46,50 @@
       "note": null
     },
     "EURUSD": {
-      "value": 1.1553,
-      "change_pct": 0.21,
+      "value": 1.1558,
+      "change_pct": 0.26,
       "unit": null,
       "note": null
     },
     "EURCHF": {
-      "value": 0.9224,
-      "change_pct": 0.25,
+      "value": 0.9221,
+      "change_pct": 0.22,
       "unit": null,
       "note": null
     },
     "DXY": {
-      "value": 99.944,
-      "change_pct": -0.11,
+      "value": 99.865,
+      "change_pct": -0.18,
       "unit": null,
       "note": null
     },
     "Gold": {
-      "value": 4199.5,
-      "change_pct": -1.42,
+      "value": 4237.2002,
+      "change_pct": -0.54,
       "unit": null,
       "note": null
     },
     "Brent": {
-      "value": 91.67,
-      "change_pct": 0.24,
+      "value": 90.98,
+      "change_pct": -0.51,
       "unit": null,
       "note": null
     },
     "WTI": {
-      "value": 88.46,
-      "change_pct": 0.29,
+      "value": 87.72,
+      "change_pct": -0.54,
       "unit": null,
       "note": null
     },
     "BTC": {
-      "value": 61212.6992,
-      "change_pct": -2.98,
+      "value": 61295.6211,
+      "change_pct": -0.56,
       "unit": null,
       "note": null
     },
     "ETH": {
-      "value": 1624.99,
-      "change_pct": -3.86,
+      "value": 1627.21,
+      "change_pct": -0.64,
       "unit": null,
       "note": null
     }
@@ -120,33 +120,33 @@
       "interpretation": "US10Y +0.35% (steigende Rendite = Gegenwind)."
     },
     "crypto_liquidity": {
-      "score": -2,
-      "interpretation": "BTC -2.98%."
+      "score": -1,
+      "interpretation": "BTC -0.56%."
     }
   },
   "top_themes": [
     {
       "rank": 1,
-      "theme": "South Korea’s Top Stock Index Crashes, Then Surges on AI Chip Rally",
-      "mechanism": "KOSPI swung 16% in 48 hours. Samsung and SK Hynix drove it. Wall Street says nothing fundamental changed and remains positive.",
+      "theme": "SoftBank sinks 10% as Asia tech stocks tumble, tracking Wall Street losses",
+      "mechanism": "Asian semiconductor and technology stocks fell on Wednesday, tracking overnight losses on Wall Street.",
       "beneficiaries": [
-        "KOSPI"
+        "null"
       ],
       "losers": []
     },
     {
       "rank": 2,
-      "theme": "Rescuers race to reach trapped after powerful quake in southern Philippines",
+      "theme": "Exclusive-Dollar demand estimated at $1.5 billion cleared in South Korea -source",
       "mechanism": "",
       "beneficiaries": [],
       "losers": []
     },
     {
       "rank": 3,
-      "theme": "Asia FX, dollar steady as US-Iran tensions intensify; CPI data ahead",
+      "theme": "Thames Water creditors seek control in £749 million deal - report",
       "mechanism": "",
       "beneficiaries": [
-        "FX"
+        "null"
       ],
       "losers": []
     }
@@ -166,11 +166,11 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "Hypothetisch sind wir *Übergewichtet* im globalen Technologie-Sektor (us_tech Score 2). Die anhaltende Stärke des Tech-Sektors rechtfertigt eine positive Gewichtung von Infrastruktur- und KI-Enablern. Wir empfehlen jedoch, die Allokation in rein spekulative oder zyklisch überhitzte Assets zu reduzieren. **Was NICHT getan werden sollte:** Eine Überbetonung auf volatile Anlagen wie Kryptowährungen (BTC -2.98%) oder eine Vernachlässigung der Zinssensitivität durch steigende US10Y-Renditen (+0.35%)."
+    "narrative": "Hypothetisch sollte der Tech Sektor weiterhin übergewichtet bleiben, um von der AI-getriebenen Nachfrage zu profitieren; die allgemeine Konjunktur ist jedoch durch steigende US10Y Renditen (Gegenwind) gedämpft. Wir empfehlen eine neutrale Haltung bei Commodities und Kryptowährungen, da deren Rückgang auf strukturelle Makrorisiken hindeutet. **Was NICHT tun:** Es ist zu vermeiden, spekulative Wetten in Sektoren mit hohem geopolitischem oder makroökonomischem Unsicherheitsgrad (z.B. Gold oder BTC) einzugehen, solange die Divergenz zwischen US- und EU-Performance anhält."
   },
   "confidence": {
-    "level_pct": 0,
-    "conviction_pct": 0,
+    "level_pct": 10,
+    "conviction_pct": 10,
     "conviction_direction": "neutral",
     "data_quality_pct": 100,
     "uncertainty_vectors": []

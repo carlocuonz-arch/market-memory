@@ -177,7 +177,7 @@
       "briefing_type": "europe_daily",
       "data_classification": "verified-live",
       "market_regime": "Risk-on / Goldilocks",
-      "conviction_pct": 0,
+      "conviction_pct": 10,
       "conviction_direction": "neutral",
       "data_quality_pct": 100,
       "scores": {
@@ -187,7 +187,7 @@
         "risk_sentiment": 0,
         "volatility": null,
         "rates": 0,
-        "crypto_liquidity": -2
+        "crypto_liquidity": -1
       },
       "md": "briefings/2026/06/2026-06-10_europe_daily.md",
       "json": "briefings/2026/06/2026-06-10_europe_daily.json"
