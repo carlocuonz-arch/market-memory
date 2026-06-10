@@ -6,18 +6,18 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der US-Markt zeigt eine deutliche Divergenz zwischen Tech-Outperformance und breiterer Schwäche. Während der Nasdaq100 mit +1,58 % kräftig ausbricht, verharrt der Dow Jones im Minus und die US10Y-Rend",
+  "headline": "Der globale Markt präsentiert sich heute stark divergierend, wobei die US-Technologie klar dominiert und den Nasdaq100 mit +1.58% anführte. Das dominante Makro-Regime ist ein Tech-getriebener Risikoki",
   "market_regime": "Risk-on / Goldilocks",
   "market_moves": {
     "DAX": {
-      "value": 24450.5391,
-      "change_pct": -0.67,
+      "value": 24432.6992,
+      "change_pct": -0.75,
       "unit": null,
       "note": null
     },
     "ESTX50": {
-      "value": 6065.3501,
-      "change_pct": 0.05,
+      "value": 6062.2202,
+      "change_pct": -0.0,
       "unit": null,
       "note": null
     },
@@ -52,44 +52,44 @@
       "note": null
     },
     "EURCHF": {
-      "value": 0.9225,
-      "change_pct": 0.26,
+      "value": 0.9226,
+      "change_pct": 0.27,
       "unit": null,
       "note": null
     },
     "DXY": {
-      "value": 99.89,
+      "value": 99.889,
       "change_pct": -0.16,
       "unit": null,
       "note": null
     },
     "Gold": {
-      "value": 4217.1001,
-      "change_pct": -1.01,
+      "value": 4216.6001,
+      "change_pct": -1.02,
       "unit": null,
       "note": null
     },
     "Brent": {
-      "value": 91.35,
-      "change_pct": -0.11,
+      "value": 91.82,
+      "change_pct": 0.4,
       "unit": null,
       "note": null
     },
     "WTI": {
-      "value": 88.02,
-      "change_pct": -0.2,
+      "value": 88.41,
+      "change_pct": 0.24,
       "unit": null,
       "note": null
     },
     "BTC": {
-      "value": 61718.2109,
-      "change_pct": 0.12,
+      "value": 61655.5508,
+      "change_pct": 0.02,
       "unit": null,
       "note": null
     },
     "ETH": {
-      "value": 1641.75,
-      "change_pct": 0.25,
+      "value": 1639.13,
+      "change_pct": 0.09,
       "unit": null,
       "note": null
     }
@@ -97,7 +97,7 @@
   "scorecard": {
     "europe_tech": {
       "score": 0,
-      "interpretation": "DAX -0.67% / ESTX50 +0.05%."
+      "interpretation": "DAX -0.75% / ESTX50 -0.00%."
     },
     "us_tech": {
       "score": 2,
@@ -121,32 +121,32 @@
     },
     "crypto_liquidity": {
       "score": 0,
-      "interpretation": "BTC +0.12%."
+      "interpretation": "BTC +0.02%."
     }
   },
   "top_themes": [
     {
       "rank": 1,
-      "theme": "PCIe Benefits From AI, Despite Scaling Protocols",
-      "mechanism": "<p>CXL is also gaining traction in AI processing, while MIPI and others are growing at the edge.</p>\n<p>The post <a href=\"https://semiengineering.com/pcie-benefits-from-ai-despite-scaling-protocols/\">PCIe Benefits From AI, Despite Scaling Protocols</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
-      "beneficiaries": [
-        "CXL"
-      ],
-      "losers": []
-    },
-    {
-      "rank": 2,
-      "theme": "Retail investors hit borrowing limits at South Korean brokerages, think tank says",
+      "theme": "Macron to chair video call involving G7 and China over trade imbalances",
       "mechanism": "",
       "beneficiaries": [],
       "losers": []
     },
     {
+      "rank": 2,
+      "theme": "CPO Will Dominate Scale-Up: Link Budgets For dB And $ Are Key",
+      "mechanism": "<p>Optical interconnects are needed to boost GPU throughput and utilization.</p>\n<p>The post <a href=\"https://semiengineering.com/cpo-will-dominate-scale-up-link-budgets-for-db-and-are-key/\">CPO Will Dominate Scale-Up: Link Budgets For dB And $ Are Key</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
+      "beneficiaries": [
+        "CPO"
+      ],
+      "losers": []
+    },
+    {
       "rank": 3,
-      "theme": "FTSE 100 today: Stocks rise as deal optimism steadies nerves",
+      "theme": "WeRide plans autonomous vehicle deployment in Slovakia",
       "mechanism": "",
       "beneficiaries": [
-        "FTSE"
+        "null"
       ],
       "losers": []
     }
@@ -166,7 +166,7 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "(Hypothetische Einschätzung): Übergewichten von US-Tech-Werten bei gleichzeitiger Neutralität gegenüber Rohstoffen.\nRegel: KEINE Long-Positionen in Gold oder WTI bei steigenden US10Y-Renditen und schwachem DXY-Momentum."
+    "narrative": "**Hypothetische Einschätzung:** Uebergewichtet in US-Tech und AI-Infrastruktur (z.B. PCIe, CPO). Neutral bis untergewichtet gegenüber europäischen oder rein defensiven Positionen. **Was NICHT tun:** Nicht auf die breite europäische Indexallokation setzen; der signifikante Performance-Gap zwischen Nasdaq100 (+1.58%) und DAX (-0.75%) rechtfertigt dies nicht."
   },
   "confidence": {
     "level_pct": 20,
@@ -176,12 +176,12 @@
     "uncertainty_vectors": []
   },
   "source": {
-    "created_by": "ollama/gemma4:26b (aihub)",
+    "created_by": "jarvis-gemma4:latest (mini)",
     "engine": "ct106-briefing-orchestrator",
     "data_sources": [
       "FRIDAY",
       "yfinance"
     ],
-    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via aihub (ollama/gemma4:26b). Prosa ok."
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via mini (jarvis-gemma4:latest). Prosa ok."
   }
 }
