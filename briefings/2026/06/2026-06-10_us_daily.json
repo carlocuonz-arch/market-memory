@@ -6,18 +6,18 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der US-Markt zeigt eine deutliche Divergenz zwischen Tech-Outperformance und breiterer Schwäche. Während der Nasdaq100 mit +1,58% ein starkes Momentum aufweist, verharren der Dow und der S&P 500 in ei",
+  "headline": "Der US-Markt zeigt eine divergente Dynamik, wobei der Nasdaq100 mit +1,58 % die Performance anführt, während der Dow Jones leicht unter Druck bleibt. Das aktuelle Regime ist von einer Outperformance d",
   "market_regime": "Risk-on / Goldilocks",
   "market_moves": {
     "DAX": {
-      "value": 24429.8594,
-      "change_pct": -0.76,
+      "value": 24423.3809,
+      "change_pct": -0.78,
       "unit": null,
       "note": null
     },
     "ESTX50": {
-      "value": 6059.3101,
-      "change_pct": -0.05,
+      "value": 6055.8799,
+      "change_pct": -0.11,
       "unit": null,
       "note": null
     },
@@ -46,50 +46,50 @@
       "note": null
     },
     "EURUSD": {
-      "value": 1.1557,
-      "change_pct": 0.24,
+      "value": 1.1554,
+      "change_pct": 0.22,
       "unit": null,
       "note": null
     },
     "EURCHF": {
-      "value": 0.9226,
-      "change_pct": 0.27,
+      "value": 0.9224,
+      "change_pct": 0.25,
       "unit": null,
       "note": null
     },
     "DXY": {
-      "value": 99.883,
-      "change_pct": -0.17,
+      "value": 99.908,
+      "change_pct": -0.14,
       "unit": null,
       "note": null
     },
     "Gold": {
-      "value": 4215.1001,
-      "change_pct": -1.05,
+      "value": 4194.2002,
+      "change_pct": -1.54,
       "unit": null,
       "note": null
     },
     "Brent": {
-      "value": 91.7,
-      "change_pct": 0.27,
+      "value": 91.79,
+      "change_pct": 0.37,
       "unit": null,
       "note": null
     },
     "WTI": {
-      "value": 88.31,
-      "change_pct": 0.12,
+      "value": 88.33,
+      "change_pct": 0.15,
       "unit": null,
       "note": null
     },
     "BTC": {
-      "value": 61655.8984,
-      "change_pct": 0.02,
+      "value": 61564.3789,
+      "change_pct": -0.13,
       "unit": null,
       "note": null
     },
     "ETH": {
-      "value": 1638.96,
-      "change_pct": 0.08,
+      "value": 1635.08,
+      "change_pct": -0.16,
       "unit": null,
       "note": null
     }
@@ -97,7 +97,7 @@
   "scorecard": {
     "europe_tech": {
       "score": 0,
-      "interpretation": "DAX -0.76% / ESTX50 -0.05%."
+      "interpretation": "DAX -0.78% / ESTX50 -0.11%."
     },
     "us_tech": {
       "score": 2,
@@ -121,32 +121,34 @@
     },
     "crypto_liquidity": {
       "score": 0,
-      "interpretation": "BTC +0.02%."
+      "interpretation": "BTC -0.13%."
     }
   },
   "top_themes": [
     {
       "rank": 1,
-      "theme": "Macron to chair video call involving G7 and China over trade imbalances",
-      "mechanism": "",
-      "beneficiaries": [],
+      "theme": "The SpaceX IPO could lead to 8% of America’s current-account deficit being refinanced in single day",
+      "mechanism": "A remarkable back-of-the-envelope calculation from a currency strategist shows just how big SpaceX’s initial public offering could reverberate in global markets.",
+      "beneficiaries": [
+        "null"
+      ],
       "losers": []
     },
     {
       "rank": 2,
-      "theme": "CPO Will Dominate Scale-Up: Link Budgets For dB And $ Are Key",
-      "mechanism": "<p>Optical interconnects are needed to boost GPU throughput and utilization.</p>\n<p>The post <a href=\"https://semiengineering.com/cpo-will-dominate-scale-up-link-budgets-for-db-and-are-key/\">CPO Will Dominate Scale-Up: Link Budgets For dB And $ Are Key</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
+      "theme": "Heidelberg Druckmaschinen warns of loss ahead after FY25-26 profit surge",
+      "mechanism": "",
       "beneficiaries": [
-        "CPO"
+        "null"
       ],
       "losers": []
     },
     {
       "rank": 3,
-      "theme": "WeRide plans autonomous vehicle deployment in Slovakia",
+      "theme": "U.S., Iran exchange strikes; CPI ahead; Oracle to report - what’s moving markets",
       "mechanism": "",
       "beneficiaries": [
-        "null"
+        "CPI"
       ],
       "losers": []
     }
@@ -166,7 +168,7 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "(Hypothetische Einschätzung): Übergewichten von US-Tech-Werten bei gleichzeitiger Neutralität in breiteren Indizes.\n**Was NICHT tun:** Keine Long-Positionen in Gold oder Rohstoffen bei steigendem Zinsumfeld und sinkenden Goldkursen (-1,05%) eingehen."
+    "narrative": "(Hypothetische Einschätzung): Übergewichten von US-Tech-Werten bei gleichzeitiger Neutralität gegenüber breiteren Marktindizes. Regel: Keine Long-Positionen in Rohstoffen wie Gold, angesichts der aktuellen Korrektur von -1,54 %."
   },
   "confidence": {
     "level_pct": 20,
