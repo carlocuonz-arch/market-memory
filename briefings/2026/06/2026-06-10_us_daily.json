@@ -6,18 +6,18 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der Markt zeigt eine deutliche sektorale Divergenz: Der US-Technosektor ist mit einem Anstieg von +1.58% am Nasdaq100 der dominante Treiber, während europäische Indizes gemischt reagieren (DAX -0.56%)",
+  "headline": "Der Markt präsentiert sich in einem klaren Divergenz-Regime: Während der Nasdaq 100 mit +1.58% eine signifikante Überperformance verzeichnet, fallen traditionelle Märkte wie DAX (-0.70%) und Gold (-0.",
   "market_regime": "Risk-on / Goldilocks",
   "market_moves": {
     "DAX": {
-      "value": 24479.0,
-      "change_pct": -0.56,
+      "value": 24444.0,
+      "change_pct": -0.7,
       "unit": null,
       "note": null
     },
     "ESTX50": {
-      "value": 6064.3999,
-      "change_pct": 0.03,
+      "value": 6061.6699,
+      "change_pct": -0.01,
       "unit": null,
       "note": null
     },
@@ -46,50 +46,50 @@
       "note": null
     },
     "EURUSD": {
-      "value": 1.1557,
-      "change_pct": 0.24,
+      "value": 1.1558,
+      "change_pct": 0.26,
       "unit": null,
       "note": null
     },
     "EURCHF": {
-      "value": 0.9223,
-      "change_pct": 0.23,
+      "value": 0.9225,
+      "change_pct": 0.26,
       "unit": null,
       "note": null
     },
     "DXY": {
-      "value": 99.86,
-      "change_pct": -0.19,
+      "value": 99.887,
+      "change_pct": -0.16,
       "unit": null,
       "note": null
     },
     "Gold": {
-      "value": 4221.8999,
-      "change_pct": -0.89,
+      "value": 4219.3999,
+      "change_pct": -0.95,
       "unit": null,
       "note": null
     },
     "Brent": {
-      "value": 91.09,
-      "change_pct": -0.39,
+      "value": 91.16,
+      "change_pct": -0.32,
       "unit": null,
       "note": null
     },
     "WTI": {
-      "value": 87.84,
-      "change_pct": -0.41,
+      "value": 87.9,
+      "change_pct": -0.34,
       "unit": null,
       "note": null
     },
     "BTC": {
-      "value": 61593.3906,
-      "change_pct": -0.08,
+      "value": 61692.4102,
+      "change_pct": 0.08,
       "unit": null,
       "note": null
     },
     "ETH": {
-      "value": 1635.37,
-      "change_pct": -0.14,
+      "value": 1640.21,
+      "change_pct": 0.15,
       "unit": null,
       "note": null
     }
@@ -97,7 +97,7 @@
   "scorecard": {
     "europe_tech": {
       "score": 0,
-      "interpretation": "DAX -0.56% / ESTX50 +0.03%."
+      "interpretation": "DAX -0.70% / ESTX50 -0.01%."
     },
     "us_tech": {
       "score": 2,
@@ -121,32 +121,32 @@
     },
     "crypto_liquidity": {
       "score": 0,
-      "interpretation": "BTC -0.08%."
+      "interpretation": "BTC +0.08%."
     }
   },
   "top_themes": [
     {
       "rank": 1,
+      "theme": "PCIe Benefits From AI, Despite Scaling Protocols",
+      "mechanism": "<p>CXL is also gaining traction in AI processing, while MIPI and others are growing at the edge.</p>\n<p>The post <a href=\"https://semiengineering.com/pcie-benefits-from-ai-despite-scaling-protocols/\">PCIe Benefits From AI, Despite Scaling Protocols</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
+      "beneficiaries": [
+        "CXL"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
       "theme": "Retail investors hit borrowing limits at South Korean brokerages, think tank says",
       "mechanism": "",
       "beneficiaries": [],
       "losers": []
     },
     {
-      "rank": 2,
+      "rank": 3,
       "theme": "FTSE 100 today: Stocks rise as deal optimism steadies nerves",
       "mechanism": "",
       "beneficiaries": [
         "FTSE"
-      ],
-      "losers": []
-    },
-    {
-      "rank": 3,
-      "theme": "RBC Capital upgrades Adidas stock rating on revenue growth",
-      "mechanism": "",
-      "beneficiaries": [
-        "RBC"
       ],
       "losers": []
     }
@@ -166,7 +166,7 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "(Hypothetische Einschätzung) **Übergewichten** sollten US-Tech-Wachstumsaktien (Nasdaq100 Performance). **Untergewichten** sind Rohstoffe und Gold, aufgrund des deutlichen Rückgangs von -0.89% bzw. den Ölpreisen. Man sollte nicht übermäßige Allokationen in traditionelle Value-Sektoren oder Commodities vornehmen, solange der Zinsanstieg (US10Y +0.35%) anhält."
+    "narrative": "Hypothetisch empfehlen wir eine klare Uebergewichtung von US Technology und High-Growth-Sektoren, da deren Momentum (Nasdaq 100 +1.58%) das Gesamtmarktbild dominiert. Wir sehen die Notwendigkeit, auf defensive oder zyklische Assets zu reduzieren. Was NICHT getan werden sollte: Die Allokation in traditionelle Rohstoffe und Gold aufgrund des negativen Trends (-0.95% bei Gold; -0.34% bei WTI) sowie der steigenden Zinskurve (US10Y +0.35%) zu erhöhen."
   },
   "confidence": {
     "level_pct": 20,
