@@ -6,18 +6,18 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der globale Markt präsentiert sich heute stark divergierend, wobei die US-Technologie klar dominiert und den Nasdaq100 mit +1.58% anführte. Das dominante Makro-Regime ist ein Tech-getriebener Risikoki",
+  "headline": "Der US-Markt zeigt eine deutliche Divergenz zwischen Tech-Outperformance und breiterer Schwäche. Während der Nasdaq100 mit +1,58% ein starkes Momentum aufweist, verharren der Dow und der S&P 500 in ei",
   "market_regime": "Risk-on / Goldilocks",
   "market_moves": {
     "DAX": {
-      "value": 24432.6992,
-      "change_pct": -0.75,
+      "value": 24429.8594,
+      "change_pct": -0.76,
       "unit": null,
       "note": null
     },
     "ESTX50": {
-      "value": 6062.2202,
-      "change_pct": -0.0,
+      "value": 6059.3101,
+      "change_pct": -0.05,
       "unit": null,
       "note": null
     },
@@ -58,38 +58,38 @@
       "note": null
     },
     "DXY": {
-      "value": 99.889,
-      "change_pct": -0.16,
+      "value": 99.883,
+      "change_pct": -0.17,
       "unit": null,
       "note": null
     },
     "Gold": {
-      "value": 4216.6001,
-      "change_pct": -1.02,
+      "value": 4215.1001,
+      "change_pct": -1.05,
       "unit": null,
       "note": null
     },
     "Brent": {
-      "value": 91.82,
-      "change_pct": 0.4,
+      "value": 91.7,
+      "change_pct": 0.27,
       "unit": null,
       "note": null
     },
     "WTI": {
-      "value": 88.41,
-      "change_pct": 0.24,
+      "value": 88.31,
+      "change_pct": 0.12,
       "unit": null,
       "note": null
     },
     "BTC": {
-      "value": 61655.5508,
+      "value": 61655.8984,
       "change_pct": 0.02,
       "unit": null,
       "note": null
     },
     "ETH": {
-      "value": 1639.13,
-      "change_pct": 0.09,
+      "value": 1638.96,
+      "change_pct": 0.08,
       "unit": null,
       "note": null
     }
@@ -97,7 +97,7 @@
   "scorecard": {
     "europe_tech": {
       "score": 0,
-      "interpretation": "DAX -0.75% / ESTX50 -0.00%."
+      "interpretation": "DAX -0.76% / ESTX50 -0.05%."
     },
     "us_tech": {
       "score": 2,
@@ -166,7 +166,7 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "**Hypothetische Einschätzung:** Uebergewichtet in US-Tech und AI-Infrastruktur (z.B. PCIe, CPO). Neutral bis untergewichtet gegenüber europäischen oder rein defensiven Positionen. **Was NICHT tun:** Nicht auf die breite europäische Indexallokation setzen; der signifikante Performance-Gap zwischen Nasdaq100 (+1.58%) und DAX (-0.75%) rechtfertigt dies nicht."
+    "narrative": "(Hypothetische Einschätzung): Übergewichten von US-Tech-Werten bei gleichzeitiger Neutralität in breiteren Indizes.\n**Was NICHT tun:** Keine Long-Positionen in Gold oder Rohstoffen bei steigendem Zinsumfeld und sinkenden Goldkursen (-1,05%) eingehen."
   },
   "confidence": {
     "level_pct": 20,
@@ -176,12 +176,12 @@
     "uncertainty_vectors": []
   },
   "source": {
-    "created_by": "jarvis-gemma4:latest (mini)",
+    "created_by": "ollama/gemma4:26b (aihub)",
     "engine": "ct106-briefing-orchestrator",
     "data_sources": [
       "FRIDAY",
       "yfinance"
     ],
-    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via mini (jarvis-gemma4:latest). Prosa ok."
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via aihub (ollama/gemma4:26b). Prosa ok."
   }
 }
