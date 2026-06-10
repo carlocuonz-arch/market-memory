@@ -1,6 +1,6 @@
 {
   "schema": "market-memory-index/1.0",
-  "count": 8,
+  "count": 9,
   "scorecard_dims": [
     "europe_tech",
     "us_tech",
@@ -171,6 +171,26 @@
       },
       "md": "briefings/2026/06/2026-06-09_us_daily.md",
       "json": "briefings/2026/06/2026-06-09_us_daily.json"
+    },
+    {
+      "date": "2026-06-10",
+      "briefing_type": "europe_daily",
+      "data_classification": "verified-live",
+      "market_regime": "Risk-on / Goldilocks",
+      "conviction_pct": 0,
+      "conviction_direction": "neutral",
+      "data_quality_pct": 100,
+      "scores": {
+        "europe_tech": 0,
+        "us_tech": 2,
+        "health_rotation": null,
+        "risk_sentiment": 0,
+        "volatility": null,
+        "rates": 0,
+        "crypto_liquidity": -2
+      },
+      "md": "briefings/2026/06/2026-06-10_europe_daily.md",
+      "json": "briefings/2026/06/2026-06-10_europe_daily.json"
     }
   ]
 }
