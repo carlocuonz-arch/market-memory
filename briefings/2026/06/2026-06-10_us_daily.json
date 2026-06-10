@@ -6,7 +6,7 @@
   "timezone": "Europe/Zurich",
   "data_classification": "verified-live",
   "market_status": "normal",
-  "headline": "Der Markt präsentiert sich in einem klaren Divergenz-Regime: Während der Nasdaq 100 mit +1.58% eine signifikante Überperformance verzeichnet, fallen traditionelle Märkte wie DAX (-0.70%) und Gold (-0.",
+  "headline": "Der Markt präsentiert sich in einem stark divergierenden Regime, dominiert durch die Performance des US-Tech-Sektors, welcher mit +1.58% im Nasdaq100 signifikant outperformt. Während europäische Indiz",
   "market_regime": "Risk-on / Goldilocks",
   "market_moves": {
     "DAX": {
@@ -166,7 +166,7 @@
     "neutral": [],
     "underweight": [],
     "what_not_to_do": null,
-    "narrative": "Hypothetisch empfehlen wir eine klare Uebergewichtung von US Technology und High-Growth-Sektoren, da deren Momentum (Nasdaq 100 +1.58%) das Gesamtmarktbild dominiert. Wir sehen die Notwendigkeit, auf defensive oder zyklische Assets zu reduzieren. Was NICHT getan werden sollte: Die Allokation in traditionelle Rohstoffe und Gold aufgrund des negativen Trends (-0.95% bei Gold; -0.34% bei WTI) sowie der steigenden Zinskurve (US10Y +0.35%) zu erhöhen."
+    "narrative": "Hypothetisch: Uebergewichtet US Tech und Sektoren, die von AI profitieren; Untergewichtet traditionelle europäische Werte und Gold. Man sollte nicht auf eine breite Marktkorrektur setzen, sondern selektiv nach sektoralen Alpha-Quellen suchen. Was NICHT tun: Die Divergenz zwischen den starken Nasdaq100 Bewegungen (+1.58%) und der Schwäche des DAX (-0.70%) als Indiz für einen allgemeinen Marktverfall interpretieren."
   },
   "confidence": {
     "level_pct": 20,
