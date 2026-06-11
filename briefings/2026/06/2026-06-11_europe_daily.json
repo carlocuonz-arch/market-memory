@@ -1,0 +1,189 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-11",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der europäische Markt zeigt sich unter Druck, angeführt von einem deutlichen Rückgang des DAX (-0,74%). Das aktuelle Makro-Regime ist von einer Divergenz geprägt: Während US-Tech-Werte (Nasdaq100 -1,1",
+  "market_regime": "Neutral / gemischt",
+  "market_moves": {
+    "DAX": {
+      "value": 24433.0605,
+      "change_pct": -0.74,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6049.7402,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7386.6499,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29084.5,
+      "change_pct": -1.12,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 50872.1094,
+      "change_pct": 0.17,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.528,
+      "change_pct": -0.53,
+      "unit": "percent",
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1547,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9221,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.965,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4106.8999,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 93.62,
+      "change_pct": 0.56,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 90.75,
+      "change_pct": 0.8,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62799.6992,
+      "change_pct": 2.2,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1657.04,
+      "change_pct": 2.28,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.74% / ESTX50 -0.21%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.12%."
+    },
+    "health_rotation": {
+      "score": null,
+      "interpretation": "Kein Health-Proxy (z.B. XLV) im Snapshot."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.26%."
+    },
+    "volatility": {
+      "score": null,
+      "interpretation": "Kein VIX im Snapshot."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.53% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +2.20%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Evaxion presents preclinical data for AML vaccine candidate",
+      "mechanism": "",
+      "beneficiaries": [
+        "AML"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Tesla gets go-ahead to sell self-driving technology in Belgium",
+      "mechanism": "",
+      "beneficiaries": [
+        "TSLA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Palace Capital schedules vote on takeover code waiver for June 29",
+      "mechanism": "",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "portfolio_themes": {
+    "etfs": null,
+    "health_ai": null,
+    "tech": null,
+    "crypto": null,
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*\n**Neutral bis leicht untergewichtet** im Bereich US-Tech, bei gleichzeitiger **Übergewichtung** von Krypto-Assets und Healthcare-Proxies. \n**Was NICHT tun:** Keine Long-Positionen in Tech-Werten eröffnen, solange der Nasdaq100 keine Bodenbildung signalisiert."
+  },
+  "confidence": {
+    "level_pct": 20,
+    "conviction_pct": 20,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "ollama/gemma4:26b (aihub)",
+    "engine": "ct106-briefing-orchestrator",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via aihub (ollama/gemma4:26b). Prosa ok."
+  }
+}
