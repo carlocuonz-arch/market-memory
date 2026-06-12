@@ -1,0 +1,189 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-12",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der europäische Markt zeigt sich in einer Seitwärtsbewegung (DAX +0.06%), während der US-Tech-Sektor (Nasdaq100 +3.29%) massiven Auftrieb liefert. Das aktuelle Makro-Regime ist durch eine starke Diver",
+  "market_regime": "Risk-on / Goldilocks",
+  "market_moves": {
+    "DAX": {
+      "value": 24209.7109,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6056.96,
+      "change_pct": 0.78,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7394.2998,
+      "change_pct": 1.75,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29446.1797,
+      "change_pct": 3.29,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 50848.75,
+      "change_pct": 1.86,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.463,
+      "change_pct": -1.74,
+      "unit": "percent",
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.157,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9207,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.808,
+      "change_pct": -0.05,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4202.5,
+      "change_pct": 2.74,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.54,
+      "change_pct": -2.04,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 86.07,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63069.4609,
+      "change_pct": -0.77,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1658.02,
+      "change_pct": -0.85,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.06% / ESTX50 +0.78%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +3.29%."
+    },
+    "health_rotation": {
+      "score": null,
+      "interpretation": "Kein Health-Proxy (z.B. XLV) im Snapshot."
+    },
+    "risk_sentiment": {
+      "score": 2,
+      "interpretation": "S&P 500 +1.75%."
+    },
+    "volatility": {
+      "score": null,
+      "interpretation": "Kein VIX im Snapshot."
+    },
+    "rates": {
+      "score": 2,
+      "interpretation": "US10Y -1.74% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.77%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "KeyBanc initiates Phinia stock coverage with overweight rating",
+      "mechanism": "",
+      "beneficiaries": [
+        "PHIN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "S.Korea’s Hanmi Semicon says it will invest $33 mln in SpaceX, shares surge",
+      "mechanism": "",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Jefferies Names its Top Pick in China Internet Sector",
+      "mechanism": "",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "portfolio_themes": {
+    "etfs": null,
+    "health_ai": null,
+    "tech": null,
+    "crypto": null,
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung): Übergewichten von US-Tech-Werten bei gleichzeitiger Neutralität in europäischen Blue Chips.\n**Was NICHT tun:** Keine Long-Positionen in europäischen Verteidigungsaktien auf Basis der aktuellen NATO-Berichterstattung eingehen."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "ollama/gemma4:26b (aihub)",
+    "engine": "ct106-briefing-orchestrator",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via aihub (ollama/gemma4:26b). Prosa ok."
+  }
+}
