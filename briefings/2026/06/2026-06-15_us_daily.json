@@ -1,0 +1,187 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-15",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt zeigt eine divergente Dynamik: Während europäische Indizes (DAX +1,71%) und Krypto-Assets (BTC +2,32%) deutliche Gewinne verbuchen, zeigt sich der US-Markt mit dem S&P 500 (+0,50%) moderater",
+  "market_regime": "Risk-on (zinssensitiv)",
+  "market_moves": {
+    "DAX": {
+      "value": 25055.4707,
+      "change_pct": 1.71,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6286.8101,
+      "change_pct": 1.6,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7431.46,
+      "change_pct": 0.5,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29635.9492,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51202.2617,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.487,
+      "change_pct": 0.54,
+      "unit": "percent",
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1612,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9206,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.523,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4335.1001,
+      "change_pct": 2.85,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 83.03,
+      "change_pct": -4.92,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.14,
+      "change_pct": -5.58,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65917.3594,
+      "change_pct": 2.32,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1720.7,
+      "change_pct": 2.41,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 2,
+      "interpretation": "DAX +1.71% / ESTX50 +1.60%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.64%."
+    },
+    "health_rotation": {
+      "score": null,
+      "interpretation": "Kein Health-Proxy (z.B. XLV) im Snapshot."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.50%."
+    },
+    "volatility": {
+      "score": null,
+      "interpretation": "Kein VIX im Snapshot."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.54% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +2.32%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Scania launches Protected Cab at Eurosatory 2026",
+      "mechanism": "<p>SÖDERTÄLJE, Sweden, June 15, 2026 /PRNewswire/ -- Scania strengthens its defence offering with the introduction of a modular protected cab at Eurosatory 2026. Developed for resilient and mission-critical defence logistics, the protected cab combines crew protection, mobility and...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Ampace Unveils 'Meet All, Green More' Vision at Intersolar Europe 2026",
+      "mechanism": "<p>Newly Launched UniC AG440 and PR-S3 Elite to Provide Full-Scenario Energy Storage Across C&amp;l and Residential Applications MUNICH, June 15, 2026 /PRNewswire/ -- Ampace, a globally leading premium lithium-ion battery supplier, will participate in Intersolar Europe 2026, taking place from 23...</p>",
+      "beneficiaries": [
+        "PR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "VERI Investors Have Opportunity to Lead Veritone, Inc. Securities Fraud Lawsuit with the Schall Law Firm",
+      "mechanism": "<p>LOS ANGELES, June 15, 2026 /PRNewswire/ -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Veritone, Inc. (\"Veritone\" or \"the Company\") (NASDAQ: VERI) for violations of §§10(b) and 20(a) of the Securities Exchange Act...</p>",
+      "beneficiaries": [
+        "VERI"
+      ],
+      "losers": []
+    }
+  ],
+  "portfolio_themes": {
+    "etfs": null,
+    "health_ai": null,
+    "tech": null,
+    "crypto": null,
+    "quality": null,
+    "cash": null
+  },
+  "trigger_calendar": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung): Übergewichten von Krypto-Assets und Gold bei gleichzeitiger Neutralität gegenüber US-Tech aufgrund der steigenden 10Y-Renditen. Untergewichten von Energie-Exponierung.\nRegel: KEINE Long-Positionen in Öl-Proxies, solange der Abwärtstrend bei WTI/Brent nicht gebrochen ist."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "ollama/gemma4:26b (aihub)",
+    "engine": "ct106-briefing-orchestrator",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard deterministisch, Prosa via aihub (ollama/gemma4:26b). Prosa ok."
+  }
+}
