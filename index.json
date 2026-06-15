@@ -316,18 +316,18 @@
       "date": "2026-06-15",
       "briefing_type": "us_daily",
       "data_classification": "verified-live",
-      "market_regime": "Risk-on (zinssensitiv)",
-      "conviction_pct": 50,
+      "market_regime": "Risk-on / ruhig (VIX 16.7)",
+      "conviction_pct": 36,
       "conviction_direction": "bullish",
       "data_quality_pct": 100,
       "scores": {
-        "europe_tech": 2,
+        "europe_tech": 1,
         "us_tech": 1,
-        "health_rotation": null,
+        "health_rotation": 0,
         "risk_sentiment": 1,
-        "volatility": null,
+        "volatility": 2,
         "rates": -1,
-        "crypto_liquidity": 2
+        "crypto_liquidity": 1
       },
       "md": "briefings/2026/06/2026-06-15_us_daily.md",
       "json": "briefings/2026/06/2026-06-15_us_daily.json"
