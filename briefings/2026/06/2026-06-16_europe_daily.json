@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-16",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt befindet sich in einem stabilen Risk-on-Regime bei sinkender Volatilität (VIX -9,05%). Europäische Indizes führen die Rallye mit deutlichen Gewinnen im DAX (+1,76%) und ESTX50 (+2,16%) an. D",
+  "market_regime": "Risk-on / ruhig (VIX 17.7)",
+  "regime_detail": {
+    "vix": 17.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7431.5,
+    "sma200": 6882.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24635.3008,
+      "change_pct": 1.76,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6187.6299,
+      "change_pct": 2.16,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7431.46,
+      "change_pct": 0.5,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29635.9492,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51202.2617,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.487,
+      "change_pct": 0.54,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.68,
+      "change_pct": -9.05,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 153.81,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1582,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9211,
+      "change_pct": -0.0,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.781,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4338.5,
+      "change_pct": 0.24,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 82.77,
+      "change_pct": -0.48,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.51,
+      "change_pct": -0.3,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 66306.0,
+      "change_pct": 0.91,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1767.3,
+      "change_pct": 2.48,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 2,
+      "interpretation": "DAX +1.76% / ESTX50 +2.16%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.64%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.18%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.50%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -9.05% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.54% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.91%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Saab receives order for anti-tank weapon NLAW from France",
+      "mechanism": "<p>STOCKHOLM, June 16, 2026 /PRNewswire/ -- Saab and the French General Directorate of Armaments, Direction générale de l'Armement, have signed a contract regarding Saab's NLAW (Next Generation Light Anti-tank Weapon). Deliveries are scheduled 2026-2030. The order includes NLAW weapons as...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "STMicroelectronics announces (i) a US$1.5 billion dual-tranche offering of New Convertible Bonds and (ii) the early redemption of its 2027 Convertible Bonds",
+      "mechanism": "<p align=\"justify\"><b>PR N°C3397C</b></p>",
+      "beneficiaries": [
+        "PR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Equinor ASA: Tilbakekjøp av egne aksjer – andre transje for 2026",
+      "mechanism": "<p><strong>Nedenfor følger informasjon om transaksjoner foretatt under andre transje av Equinor ASAs (OSE:EQNR, NYSE:EQNR, CEUX:EQNRO, TQEX:EQNRO) tilbakekjøpsprogram for 2026.</strong></p>",
+      "beneficiaries": [
+        "ASA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung): Übergewichten von europäischem Tech und Krypto-Assets bei gleichzeitiger Neutralität gegenüber dem Gesundheitssektor. \n**Was NICHT tun:** Keine Long-Positionen in Sektoren mit negativer Dynamik wie Health bei steigendem Zinsdruck eingehen."
+  },
+  "confidence": {
+    "level_pct": 43,
+    "conviction_pct": 43,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
