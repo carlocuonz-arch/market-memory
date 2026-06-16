@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-16",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt befindet sich in einem stabilen Risk-on-Regime bei sinkender Volatilität (VIX -8,88%). Europäische Indizes wie der DAX (+1,39%) führen die aktuelle Rallye an, während die US-Märkte moderat z",
+  "market_regime": "Risk-on / ruhig (VIX 16.1)",
+  "regime_detail": {
+    "vix": 16.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7431.5,
+    "sma200": 6882.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24977.9395,
+      "change_pct": 1.39,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6267.0098,
+      "change_pct": 1.28,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7431.46,
+      "change_pct": 0.5,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29635.9492,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51202.2617,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.445,
+      "change_pct": -0.94,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.11,
+      "change_pct": -8.88,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 153.81,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1601,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9226,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.634,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4361.6001,
+      "change_pct": 0.78,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 80.5,
+      "change_pct": -3.21,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 76.66,
+      "change_pct": -5.07,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65975.8125,
+      "change_pct": -0.47,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1800.51,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +1.39% / ESTX50 +1.28%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.64%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.18%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.50%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -8.88% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.94% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.47%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Defiance Launches SPCU, Delivering 2X Long Exposure to SpaceX in Its First Full Week of Trading",
+      "mechanism": "<p>MIAMI, June  16, 2026  (GLOBE NEWSWIRE) -- Defiance ETFs today announced the launch of the <a href=\"https://www.globenewswire.com/Tracker?data=dQK4rIk-k7siU8BlitMqozWXp5XjDYqBHS_L51fdMALDX_6ysLn1ymrZTKtAouP5-cnip2LIYRkdJgywCO7ar3KQ6f6ieLUMbbfHBchZzBBMaq5QIUo1LRkROyW4XBALRsKHU1a2to8_-DE4IBnkPw==\" rel=\"nofollow\" target=\"_blank\" title=\"Defiance Daily Target 2X Long SpaceX ETF (Cboe: SPCU)\">Defiance Daily Target 2X Long SpaceX ETF (Cboe: SPCU)</a>. SPCU begins trading today at 4am ET and seeks daily investment results, before fees and expenses, equal to 200% of the daily performance of SpaceX Class A common stock (NASDAQ: SPCX).</p>",
+      "beneficiaries": [
+        "SPCU"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Globex Mining Enterprises Inc. Reports High-Grade Gold Intersections at Duquesne West",
+      "mechanism": "<p align=\"justify\">TORONTO, June  16, 2026  (GLOBE NEWSWIRE) -- <strong>GLOBEX MINING ENTERPRISES INC. (GMX – Toronto Stock Exchange, G1MN – Frankfurt, Stuttgart, Berlin, Munich, </strong><strong>Tradegate, Lang &amp; Schwarz, LS Exchange, TTMzero, Düsseldorf and Quotrix Düsseldorf Stock Exch</strong><strong>anges</strong> <strong>and GLBXF – OTCQX International in the US) </strong>is pleased to inform shareholders that <strong>Emperor Metals Inc.</strong> (CSE: AUOZ, OTCQB: EMAUF, FSE: 9NH) has reported continued intersections of high-grade gold across significant widths on the <strong>Duquesne West</strong> gold property located in the Abitibi of Quebec under option from Duparquet Assets Ltd. 50% owned by Globex.</p>",
+      "beneficiaries": [
+        "GLBXF"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "ディファイアンス、SPCUをローンチ、スペースXの取引開始後初の1週間で、同株への2倍ロングエクスポージャーを提供",
+      "mechanism": "<p align=\"left\">マイアミ発 , June  16, 2026  (GLOBE NEWSWIRE) -- ディファイアンスETFs (Defiance ETFs) は本日、<a href=\"https://www.globenewswire.com/Tracker?data=bE_PtHsq4fSfjEeUusy2EbOu0lK-iUMriA3bgYjvKvv21oevCtZBPYV3HaUP_Wp55C5if2XDp-oMZwL0U-p5dHHWf_lTIAmugLUxFsDu7CGI_E8jIIkpmoSVKWbzIUG_1-oM7PzDx2N8DF77iyJdBvkDQqsKWhzHMpkS4VRVoV8fz6VLtGYa-tUVroY6rPwPT8tJYOkkaTsEiiXb9mOta9KjmNZQRvjOSUK4DPUOZ1AVvM5fJZCgvnIi43HG1k4caJGh-Dlq7mWlATNic-GxDQ==\" rel=\"nofollow\" target=\"_blank\" title=\"\"><u>ディファイアンス・デイリー・ターゲット2Xロング・スペースX ETF (Defiance Daily Target 2X Long SpaceX ETF) (Cboe: SPCU)</u></a> のローンチを発表した。SPCUは本日、東部時間午前4時に取引を開始し、手数料および諸経費控除前の日次投資成果として、スペースX (SpaceX) クラスA普通株 (NASDAQ: SPCX) の日次パフォーマンスの200%に相当するリターンを目指す。</p>",
+      "beneficiaries": [
+        "SPCU"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung): Übergewichten von europäischen Aktien und Gold bei gleichzeitigem Neutral-Status im US-Tech-Bereich. \n**Was NICHT tun:** Keine Long-Positionen in Öl-Assets eingehen, solange der Abwärtstrend bei WTI und Brent anhält."
+  },
+  "confidence": {
+    "level_pct": 43,
+    "conviction_pct": 43,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
