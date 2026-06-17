@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-17",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Regime präsentiert sich trotz eines nominellen Risk-on-Status (VIX 16.4) zunehmend fragil. Während Europa (ESTX50 +0.45%) stabil bleibt, zeigt der US-Tech-Sektor mit dem Nasdaq100 (-1.89%) deutlic",
+  "market_regime": "Risk-on / ruhig (VIX 16.4)",
+  "regime_detail": {
+    "vix": 16.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7511.4,
+    "sma200": 6892.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24910.4102,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6257.4199,
+      "change_pct": 0.45,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7511.3501,
+      "change_pct": -0.57,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29968.1309,
+      "change_pct": -1.89,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51999.6719,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.487,
+      "change_pct": 0.54,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.41,
+      "change_pct": 1.3,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 152.94,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1609,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9194,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.537,
+      "change_pct": -0.0,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4343.7998,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 79.08,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 75.49,
+      "change_pct": -0.74,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65593.6406,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1787.45,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.07% / ESTX50 +0.45%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.89%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.03%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.57%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +1.30% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.54% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.01%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Letter to the Shareholders of Workspace Group plc",
+      "mechanism": "<p>NEW YORK, June 17, 2026 /PRNewswire/ -- Dear Fellow Shareholders of Workspace Group plc: We are writing today to provide an update on our campaign to maximise the value of Workspace Group plc (the \"Company\" or \"Workspace\") for all shareholders. Saba Capital Management L.P. is the...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Klient Launches MCP Servers for Salesforce PSA -- Letting Any AI Run Real Work Inside Your Salesforce Org",
+      "mechanism": "<p>Claude, Cursor, and Copilot can now create projects, log time, onboard people, and manage knowledge directly in a company's Klient PSA org — under the user's own permissions, fully auditable in Salesforce. MONTREAL, June 17, 2026 /PRNewswire/ - Klient, the Salesforce PSA, today launched...</p>",
+      "beneficiaries": [
+        "PSA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Frederik Vandepitte démissionne de ses fonctions de CEO du groupe Cera",
+      "mechanism": "<p><i>Information réglementée, information privilégiée, Leuven, 17 juin 2026 (08:15 CEST)</i></p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung): Neutral bis leicht untergewichtet in US-Wachstumstiteln; Fokus auf europäische Stabilität.\n**Was NICHT tun:** Keine Long-Positionen in US-Tech-Werten eingehen, solange der Nasdaq100 unter Druck steht und die US-Renditen steigen."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
