@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-17",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "US-Tech unter Druck bei stabilem Risk-on-Regime: Nasdaq100 -1.89%, S&P 500 -0.57%, während VIX bei 16.08 ruhig bleibt und Renditen (US10Y -1.23%) fallen. Europa zeigt Divergenz (ESTX50 +0.33% vs. DAX ",
+  "market_regime": "Risk-on / ruhig (VIX 16.0)",
+  "regime_detail": {
+    "vix": 16.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7511.4,
+    "sma200": 6892.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24858.1895,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6278.0601,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7511.3501,
+      "change_pct": -0.57,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29968.1309,
+      "change_pct": -1.89,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51999.6719,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.432,
+      "change_pct": -1.23,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.08,
+      "change_pct": -2.01,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 152.94,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1602,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9196,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.6,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4351.7002,
+      "change_pct": 0.48,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 79.66,
+      "change_pct": 0.89,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 75.87,
+      "change_pct": -0.24,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64851.8594,
+      "change_pct": -1.14,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1757.37,
+      "change_pct": -1.84,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.21% / ESTX50 +0.33%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.89%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.03%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.57%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.01% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.23% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.14%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Echo Global Logistics Expands Service Portfolio with Comprehensive Intra-Mexico Transportation Solutions",
+      "mechanism": "<p>Echo adds domestic Mexican transport capabilities to its existing cross-border, customs brokerage, and warehousing network to deliver a true end-to-end solution CHICAGO, June 17, 2026 /PRNewswire/ -- Echo Global Logistics, Inc. (\"Echo\"), a leading provider of technology-enabled...</p>",
+      "beneficiaries": [
+        "ECHO"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "DFIN Named #1 Most Loved Workplace on the 2026 Global 100 Most Loved Workplaces®, Published in The Economist",
+      "mechanism": "<p>NEW YORK, June 17, 2026 /PRNewswire/ -- Donnelley Financial Solutions (NYSE: DFIN), a leading global provider of financial regulatory and compliance solutions and the top SEC filing agent, has been named the #1 Most Loved Workplace on the 2026 Global 100 Most Loved Workplaces®, published...</p>",
+      "beneficiaries": [
+        "DFIN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "PAYO Alert: Monsey Firm of Wohl & Fruchter Investigating Fairness of the Proposed Sale of Payoneer Global to Nuvei",
+      "mechanism": "We are investigating the fairness of the proposed sale of Payoneer to Nuvei for $7.40 per share in cash.",
+      "beneficiaries": [
+        "PAYO"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "**Hypothetische Einschätzung:** \n- **Übergewichten:** Defensive Rotation (VHT, SDZ, ONON als Consum-Hedge); Infrastruktur/Energie (EQNR bei +0.89% Brent).  \n- **Neutral:** ORCL, GOOGL (Tech-Schwäche, aber Quality-Anker).  \n- **Untergewichten:** MU, IBB (Semiconductor/Biotech im Nasdaq-Sog).\n\n**Was NICHT tun:** Nicht gegen den Rendite-Rückgang long gehen (US10Y-Rückgang = Wachstums-Sorge); nicht auf VIX-Stabilität als Kaufsignal für Growth vertrauen – das ist Liquiditäts-Illusion, keine Risikoappetit."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "claude",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via claude. Prosa ok."
+  }
+}
