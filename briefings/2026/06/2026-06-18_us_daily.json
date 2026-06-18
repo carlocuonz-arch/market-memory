@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-18",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist nominell als \"Risk-on\" klassifiziert (VIX 17.0), doch die Kursentwicklung der großen Indizes – insbesondere SP500 (-1.21%) und Nasdaq100 (-0.99%) – signalisiert eine si",
+  "market_regime": "Risk-on / ruhig (VIX 17.0)",
+  "regime_detail": {
+    "vix": 17.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7420.1,
+    "sma200": 6897.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25029.8691,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6326.0098,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7420.1001,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29670.9492,
+      "change_pct": -0.99,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51492.5508,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.443,
+      "change_pct": -0.98,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.01,
+      "change_pct": -7.75,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 150.71,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1474,
+      "change_pct": -1.17,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9219,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.691,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4277.3999,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 78.02,
+      "change_pct": -1.92,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 74.04,
+      "change_pct": -3.58,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64290.0508,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1748.1,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.38% / ESTX50 +0.41%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.99%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.46%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -7.75% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.98% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.20%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Deliverect Partners with 5&amp;5 to Help Restaurant Brands Scale Their Digital Ordering Ecosystem",
+      "mechanism": "<p>New partnership combines Deliverect's ordering technology with 5&5's restaurant technology expertise and managed services model NEW YORK, June 18, 2026 /PRNewswire/ -- Deliverect, the global restaurant technology company powering digital ordering for more than 80,000 locations worldwide,...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $472 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Over 283 Million WLD Tokens",
+      "mechanism": "<p>Eightco treasury composition as of June 18, 2026: $90M OpenAI equity (indirect), $18M Beast Industries equity, 16,278 ETH, 283 million WLD holdings, and $149M cash and equivalents, totaling approximately $472 million OpenAI recently announced that it submitted a confidential S-1, setting...</p>",
+      "beneficiaries": [
+        "ORBS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Lion Group Holding Ltd. Signs Non-Binding Memorandum of Understanding to Acquire Aquila Hash, Inc.",
+      "mechanism": "<p>SINGAPORE, June 18, 2026 /PRNewswire/ -- Lion Group Holding Ltd. (NASDAQ: LGHL) (\"Lion Group\" or the \"Company\"), today announced that it has entered into a non-binding memorandum of understanding (\"MOU\") with Aquila Hash, Inc. (\"Aquila Hash\"), a U.S.-headquartered global AI infrastructure...</p>",
+      "beneficiaries": [
+        "LGHL"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund der Divergenz und des erhöhten Makro-Risikos ist eine neutrale Haltung gegenüber breiten Indizes ratsam. Übergewichtet sollten Sektoren bleiben, die von klaren digitalen Transformationszyklen profitieren (Tech/AI), während Rohstoffpositionen aufgrund des Verkaufsdrucks untergewichtet sind. Was NICHT zu tun ist: Eine Überbetonung globaler Makro-Trades oder eine Gleichsetzung des \"Risk-on\" Regimes mit der aktuellen Performance der US-Indexkurse."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
