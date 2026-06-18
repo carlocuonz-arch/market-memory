@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-18",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Automatischer Faktenstand (europe_daily). Größte Bewegungen: VIX +12.37%; WTI -4.18%; ETH -3.46%. (LLM-Prosa nicht verfügbar — deterministischer Notausgang.)",
+  "market_regime": "Risk-on / ruhig (VIX 18.4)",
+  "regime_detail": {
+    "vix": 18.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7420.1,
+    "sma200": 6897.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24934.6699,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6300.0698,
+      "change_pct": 0.68,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7420.1001,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29670.9492,
+      "change_pct": -0.99,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51492.5508,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.487,
+      "change_pct": 0.54,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.44,
+      "change_pct": 12.37,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 150.71,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.153,
+      "change_pct": -0.69,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9204,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.264,
+      "change_pct": 0.17,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4319.0,
+      "change_pct": -0.92,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 77.22,
+      "change_pct": -2.93,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 73.58,
+      "change_pct": -4.18,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63918.0,
+      "change_pct": -2.56,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1728.4,
+      "change_pct": -3.46,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.10% / ESTX50 +0.68%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.99%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.46%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.37% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.54% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.56%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "AB Akola Group notification on transactions in the Company's securities by the person discharging managerial responsibilities",
+      "mechanism": "<p>AB Akola Group, ISIN code LT0000128092, (hereinafter - the Company), has received a notification from the person discharging managerial responsibilities regarding the transactions in the Company's securities (enclosed).</p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "SkiStar AB delårsrapport september 2025-maj 2026",
+      "mechanism": "<p align=\"justify\"><b>STABIL UTVECKLING I OSÄKER OMVÄRLD</b></p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "NSTC TTA Marks 8th VivaTech Appearance, Showcasing Taiwan Innovation under AI Taiwan Initiative",
+      "mechanism": "<p>PARIS, June 17, 2026 /PRNewswire/ -- The National Science and Technology Council (NSTC), together with the Small and Medium Enterprise and Startup Administration (SMESA) and the Department of Industrial Technology (DOIT) under the Ministry of Economic Affairs (MOEA), is once again leading...</p>",
+      "beneficiaries": [
+        "NSTC"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch: ohne LLM-Einordnung keine narrative Positionierung. Was NICHT tun: keine Trades allein auf diesen Notausgang stützen."
+  },
+  "confidence": {
+    "level_pct": 57,
+    "conviction_pct": 57,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": [
+      "Prosa-Fallback: Modell-Output ohne erwartete Abschnitte"
+    ]
+  },
+  "source": {
+    "created_by": "deterministic-fallback",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via ?. Prosa-Fehler: Modell-Output ohne erwartete Abschnitte"
+  }
+}
