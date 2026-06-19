@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das europäische Kapital zeigt eine relative Stärke mit einem Anstieg des ESTX50 (+0.68%), während die US-Indizes wie der S&P 500 (-1.21%) und Nasdaq100 (-0.99%) deutlichen Verkaufsdruck verzeichnen. T",
+  "market_regime": "Risk-on / ruhig (VIX 18.4)",
+  "regime_detail": {
+    "vix": 18.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7420.1,
+    "sma200": 6897.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24934.6699,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6300.0698,
+      "change_pct": 0.68,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7420.1001,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29670.9492,
+      "change_pct": -0.99,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51492.5508,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.487,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.44,
+      "change_pct": 12.37,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 150.71,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1442,
+      "change_pct": -0.57,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.923,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.971,
+      "change_pct": 0.88,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4159.2998,
+      "change_pct": -1.53,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 80.36,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 76.44,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62778.4609,
+      "change_pct": -2.55,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1699.72,
+      "change_pct": -2.76,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.10% / ESTX50 +0.68%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.99%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.46%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.37% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.55%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Evermos Partners with the International Labour Organisation (ILO) to Deliver Entrepreneurship Training for Indonesia's Vulnerable Groups",
+      "mechanism": "<p>BANDUNG, Indonesia, June 19, 2026 /PRNewswire/ -- Evermos, a Bandung-based reseller platform focused on MSME empowerment, sees significant potential for vulnerable groups to achieve economic empowerment through digital business. According to Statistics Indonesia (BPS), the labour force...</p>",
+      "beneficiaries": [
+        "ILO"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Ascom schliesst Aktienrückkaufprogramm erfolgreich ab",
+      "mechanism": "<p><b>Ad hoc-Mitteilung gemäss Art. 53 KR</b><br />Baar, Schweiz, 19. Juni 2026</p>",
+      "beneficiaries": [
+        "KR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "DFSK Accelerates Global Expansion with Debut of the Right-Hand-Drive E5 PLUS in Hong Kong",
+      "mechanism": "<p>HONG KONG, June 19, 2026 /PRNewswire/ -- DFSK, the new energy vehicle brand under SERES Group (HKEX: 09927), today unveiled the right-hand-drive (RHD) version of the E5 PLUS at the 2026 International Automotive & Supply Chain Expo (Hong Kong), marking a major milestone in the brand's...</p>",
+      "beneficiaries": [
+        "RHD"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir argumentieren mit einer Übergewichtung defensiver oder regional überperformender Sektoren (z.B. europäisches Tech, da `europe_tech` 0 ist). Die Positionierung sollte spekulative Assets und US-Tech-Wetten untergewichten (`us_tech`: -1; `crypto_liquidity`: -2), was die erhöhte Volatilität widerspiegelt. **Was NICHT zu tun ist:** Eine Allokation in rein spekulativen Anlagen oder eine Überbetonung von Technologiepositionen, deren Performance im US-Raum derzeit unter Druck steht."
+  },
+  "confidence": {
+    "level_pct": 58,
+    "conviction_pct": 58,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
