@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Markt zeigt ein gespaltenes Bild: Europa (DAX, ESTX50) steigt leicht, während US-Indizes (S&P 500, Nasdaq 100, Dow) deutlich fallen – trotz kanonisch „Risk-on“-Regime bei niedriger Volatilität (VIX 17",
+  "market_regime": "Risk-on / ruhig (VIX 17.2)",
+  "regime_detail": {
+    "vix": 17.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7420.1,
+    "sma200": 6897.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25043.6895,
+      "change_pct": 0.44,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6317.6001,
+      "change_pct": 0.28,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7420.1001,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29670.9492,
+      "change_pct": -0.99,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51492.5508,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.451,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.86,
+      "change_pct": -8.57,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 150.71,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1467,
+      "change_pct": -0.35,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9254,
+      "change_pct": 0.61,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.798,
+      "change_pct": 0.71,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4182.2002,
+      "change_pct": -0.99,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 79.41,
+      "change_pct": -0.55,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 75.68,
+      "change_pct": -1.2,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62732.8906,
+      "change_pct": -2.62,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1689.84,
+      "change_pct": -3.32,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.44% / ESTX50 +0.28%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.99%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.46%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -8.57% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.62%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Wix.com (WIX) 27% Drop Prompts Investor Scrutiny - HBSS Investigating Unanticipated Spike in Operating Expenses",
+      "mechanism": "<p>SAN FRANCISCO, June 19, 2026 /PRNewswire/ -- Investors in Wix.com Ltd. (NASDAQ: WIX) saw the price of their shares tank $20.56 (-27%) on May 13, 2026, wiping out over $1.1 billion of the company's market capitalization, after Wix announced its Q1 2026 financial results and a massive 46%...</p>",
+      "beneficiaries": [
+        "WIX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Решение Geely Farizon Green Smart Mobility дебютирует на выставке Hong Kong Expo 2026",
+      "mechanism": "<p>ГОНКОНГ, 19 июня 2026 г. /PRNewswire/ -- 18 июня 2026 года на AsiaWorld-Expo в Гонконге официально стартовала Международная выставка International Automotive and Supply Chain Expo (Hong Kong). Являясь мировым лидером в области коммерческих автомобилей на новых источниках энергии, компания...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "SIFF startet „AI BACKLOT\": Eine neue Ära der Zusammenarbeit zwischen KI und Film",
+      "mechanism": "<p>SHANGHAI, 19. Juni 2026 /PRNewswire/ -- Das 28. Internationale Filmfestival von Shanghai (SIFF) hat „AI BACKLOT\" vorgestellt, eine wegweisende Initiative, die sich mit der Integration künstlicher Intelligenz in die Filmproduktion befasst. Das gemeinsam vom SIFF und Hailuo AI (MiniMax) ins...</p>",
+      "beneficiaries": [
+        "SIFF"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung*: **Untergewichten von US-Tech und Health**, Neutral gegenüber europäischem Equity (vor allem DAX), Übergewicht in Energy (EQNR) und selectiven Industrials (ORTCL, ORCL).  \n**Was NICHT tun**: Keine neuen Long-Positionen in US-Tech oder Health aufbauen, solange Nasdaq 100 unter 30.000 bleibt und XLV unter 152 liegt – auch keine Crypto-Exposition erhöhen, solange BTC unter 63.000 notiert."
+  },
+  "confidence": {
+    "level_pct": 25,
+    "conviction_pct": 25,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
