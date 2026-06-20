@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-20",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die Marktlandschaft präsentiert sich hochgradig divergent: Während der DAX mit +0.21% eine positive Tönung aufweist, verzeichnen die US-Indizes signifikante Verluste (-1.21% S&P 500; -0.99% Nasdaq100)",
+  "market_regime": "Risk-on / ruhig (VIX 18.4)",
+  "regime_detail": {
+    "vix": 18.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7420.1,
+    "sma200": 6897.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24985.8203,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6293.1299,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7420.1001,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29670.9492,
+      "change_pct": -0.99,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51492.5508,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.451,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.44,
+      "change_pct": 12.37,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 149.4,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1469,
+      "change_pct": -0.33,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9252,
+      "change_pct": 0.58,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.849,
+      "change_pct": 0.76,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4172.8999,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 80.59,
+      "change_pct": 0.93,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 76.54,
+      "change_pct": -0.08,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63679.7812,
+      "change_pct": 0.22,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1725.98,
+      "change_pct": 0.88,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.21% / ESTX50 -0.11%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.99%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.87%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.37% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.22%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Eightco Holdings (NASDAQ: ORBS) meldt totale activa van ongeveer 472 miljoen dollar, waaronder belangen in OpenAI, Beast Industries, meer dan 16.000 ETH en meer dan 283 miljoen WLD-tokens",
+      "mechanism": "<p>Samenstelling van de kas van Eightco op 18 juni 2026: 90 miljoen dollar aan OpenAI-aandelen (indirect), 18 miljoen dollar aan aandelen in Beast Industries, 16.278 ETH, 283 miljoen WLD-activa en 149 miljoen dollar aan liquide middelen en kasequivalenten, goed voor een totale waarde van...</p>",
+      "beneficiaries": [
+        "ORBS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Conifex Announces Voting Results",
+      "mechanism": "<p align=\"justify\">VANCOUVER, British Columbia, June  19, 2026  (GLOBE NEWSWIRE) -- Conifex Timber Inc. (“<strong>Conifex</strong>” or the \"<strong>Company</strong>\") (TSX: CFF) announced today that at its annual general meeting of shareholders held on June 19, 2026, all management nominees were elected as directors of the Company.</p>",
+      "beneficiaries": [
+        "CFF"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Phreesia Deadline: PHR Investors with Losses in Excess of $100K Have Opportunity to Lead Phreesia, Inc. Securities Fraud Lawsuit",
+      "mechanism": "<p>NEW YORK, June 19, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Phreesia, Inc. (NYSE: PHR) between May 8, 2025 and March 30, 2026, inclusive (the \"Class Period\"), of the important July 13, 2026 lead plaintiff deadline....</p>",
+      "beneficiaries": [
+        "PHR"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Aufgrund der signifikanten Volatilitätszunahme (`volatility: -2`) und der klaren Schwäche im US-Tech-Sektor wird eine Untergewichtung des breiten Aktienmarktes (insbesondere US) empfohlen. Wir sehen daher eine Neutralität bei den meisten traditionellen Positionen, mit einer leichten Übergewichtung von liquiden, dezentralisierten Assets wie ETH/BTC. **Was NICHT tun:** Man darf sich nicht auf die nominale \"Risk-on\"-Klassifizierung verlassen und sollte keine übermäßigen Long-Positionen im breiten Aktienmarkt eingehen, solange der VIX diesen Anstieg beibehält."
+  },
+  "confidence": {
+    "level_pct": 42,
+    "conviction_pct": 42,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
