@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-22",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die europäischen Aktienmärkte zeigen leichte Schwäche (DAX ‑0,16 %, ESTX50 ‑0,48 %), während US‑Tech stark steigt (+2,48 % Nasdaq). Das makroökonomische Umfeld ist ein ruhiges Risk‑On‑Regime (VIX 16,4",
+  "market_regime": "Risk-on / ruhig (VIX 16.4)",
+  "regime_detail": {
+    "vix": 16.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7500.6,
+    "sma200": 6902.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24985.8203,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6293.1299,
+      "change_pct": -0.48,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7500.5801,
+      "change_pct": 1.08,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30406.1895,
+      "change_pct": 2.48,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51564.6992,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.451,
+      "change_pct": -0.27,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.4,
+      "change_pct": -11.06,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 149.4,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1461,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9257,
+      "change_pct": 0.37,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.91,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4215.5,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 78.95,
+      "change_pct": -1.13,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 75.23,
+      "change_pct": -1.79,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64036.3711,
+      "change_pct": -0.32,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1734.34,
+      "change_pct": -0.29,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.16% / ESTX50 -0.48%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +2.48%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.87%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +1.08%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -11.06% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.27% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.32%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Rock Tech Lithium Expands Made-in-Ontario Lithium Supply Chain with Strategic Acquisition of Victory Project",
+      "mechanism": "<p>High-grade spodumene occurrences strategically located near Trans-Canada Highway, CPKC rail, and power infrastructure adds potential feedstock opportunity for Rock Tech's Ontario mine-to-converter platform, linking Northwestern Ontario resources with the proposed Red Rock Converter. Rock...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "FORTESCUE AND CMB.TECH SIGN MILESTONE AGREEMENT FOR 12 AMMONIA BULKERS TO ACCELERATE ZERO-EMISSIONS SHIPPING",
+      "mechanism": "<p align=\"left\" style=\"padding-left: 0px;\">Antwerp, June  22, 2026  (GLOBE NEWSWIRE) -- <b>CMB.TECH NV (“CMBT”, “CMB.TECH” or “the company”) (NYSE: CMBT, Euronext Brussels: CMBT and Euronext Oslo </b><b>Børs</b><b>: CMBTO) </b><b>and Fortescue have</b><b> signed </b><b>a milestone agreement</b> <b>for the charter of </b><b>up </b><b>to</b> <b>12 ammonia-capable vessels, marking a significant step towards decarbonising global shipping and advancing the adoption of ammonia as a shipping fuel</b><b>.</b></p>",
+      "beneficiaries": [
+        "CMBT"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "BioArctic and Lilly sign research and collaboration agreement combining Lilly compound with BioArctic's BrainTransporter™ technology",
+      "mechanism": "<p>STOCKHOLM, June 22, 2026 /PRNewswire/ -- BioArctic AB (publ) (NASDAQ STOCKHOLM: BIOA B) today announced that the company has entered into a research and collaboration agreement with Eli Lilly and Company regarding a potential new treatment combining BioArctic's proprietary...</p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "- **Übergewichtung** von US‑Tech‑ und Clean‑Tech‑Aktien (z. B. Nasdaq‑Exposures, Lithium‑ und Ammoniak‑Supply‑Chain‑Unternehmen).  \n- **Neutral** gegenüber europäischen Technologiewerten, da das aktuelle Scorecard‑Rating (0) keine klare Richtung vorgibt.  \n- **Untergewichtung** des Gesundheitssektors, bis sich das Momentum erholt.  \n\n**Was NICHT tun:** Nicht in riskante Volatilitäts‑Spikes investieren (z. B. kurzfristige Leveraged‑Positionen), solange das VIX‑Level noch niedrig ist."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
