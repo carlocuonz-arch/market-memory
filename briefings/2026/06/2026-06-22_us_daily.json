@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-22",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt befindet sich in einem grundsätzlich ruhigen Risk‑on‑Regime, jedoch steigt die Volatilität (VIX +2,8 %). US‑Technologie treibt die Stimmung voran (Nasdaq +2,48 %, Score +2), während steigend",
+  "market_regime": "Risk-on / ruhig (VIX 17.1)",
+  "regime_detail": {
+    "vix": 17.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7500.6,
+    "sma200": 6902.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25049.3398,
+      "change_pct": 0.25,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6318.8901,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7500.5801,
+      "change_pct": 1.08,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30406.1895,
+      "change_pct": 2.48,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51564.6992,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.493,
+      "change_pct": 0.94,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.86,
+      "change_pct": 2.8,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 149.4,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1439,
+      "change_pct": -0.17,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9255,
+      "change_pct": 0.35,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.93,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4214.2998,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 78.64,
+      "change_pct": -1.52,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 74.53,
+      "change_pct": -2.7,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64917.9688,
+      "change_pct": 2.66,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1762.3,
+      "change_pct": 3.39,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.25% / ESTX50 +0.41%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +2.48%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.87%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +1.08%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +2.80% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.94% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +2.66%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Creative Medical Technology Holdings Expands ADAPT Trial Under New FDA Clearance and Rapidly Advances Toward Phase 3 Planning for Olastrocel in Chronic Lower Back Pain",
+      "mechanism": "<p>PHOENIX, June  22, 2026  (GLOBE NEWSWIRE) -- <strong>Creative Medical Technology Holdings, Inc. (NASDAQ: CELZ) (\"Creative Medical\" or the \"Company\")</strong>, a clinical-stage biotechnology company advancing regenerative medicine solutions, today announced that the U.S. Food and Drug Administration (FDA) has cleared an expansion of the Company’s FDA-cleared ADAPT clinical trial evaluating CELZ-201 (Olastrocel) for chronic lower back pain associated with degenerative disc disease.</p>",
+      "beneficiaries": [
+        "CELZ"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Supermicro Delivers NVIDIA Vera Rubin NVL4 End-to-End DCBBS Blueprint with Native FP64 Performance for Converged HPC and AI Infrastructure",
+      "mechanism": "<p>Total solution includes up to 1,152 NVIDIA Rubin GPUs and 576 NVIDIA Vera CPUs in liquid-cooled racks—3.2MW Scalable Unit delivers next-generation performance for AI workloads and FP64 simulation, scalable to research clusters of any size DLC-2 Direct Liquid Cooling supports 362 kW per...</p>",
+      "beneficiaries": [
+        "SUPER"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "FORT Robotics extends its Trust Layer for Physical AI by adding Outside-In Safety in collaboration with NVIDIA Halos for Robotics",
+      "mechanism": "<p>Extends robot perception beyond on-board sensors by including external sensors to dynamically control robot behavior and perform at maximum efficiency PHILADELPHIA, June 22, 2026 /PRNewswire/ -- FORT Robotics, the Trust Layer for physical AI, today announced joining the NVIDIA Halos for...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* **US‑Tech übergewichten**, **Europa neutral**, **Zins‑ und Volatilitäts‑exponierte Sektoren untergewichten**.  \n**Was NICHT tun:** Keine zusätzliche Long‑Position in rendite‑sensiblen Bereichen (z. B. Energie, Versorger oder stark zinssensible Finanzwerte) eröffnen, solange die Renditen weiter steigen und die Volatilität hoch bleibt."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
