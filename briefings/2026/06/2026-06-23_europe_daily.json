@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-23",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die europäischen Indizes (DAX +0,62 %, ESTX50 +0,29 %) steigen, während die US‑Märkte leicht rückläufig sind. Das makroökonomische Regime ist „Risk‑on“ bei gleichzeitig steigender Volatilität (VIX +5,",
+  "market_regime": "Risk-on / ruhig (VIX 17.3)",
+  "regime_detail": {
+    "vix": 17.3,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7472.8,
+    "sma200": 6907.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25139.6895,
+      "change_pct": 0.62,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6311.3198,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7472.79,
+      "change_pct": -0.37,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30347.0801,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51712.7109,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.451,
+      "change_pct": -0.27,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.28,
+      "change_pct": 5.37,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 150.06,
+      "change_pct": 0.44,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.143,
+      "change_pct": -0.29,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9241,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.044,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4140.2002,
+      "change_pct": -1.0,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 76.81,
+      "change_pct": -1.4,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 72.96,
+      "change_pct": -2.49,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62693.2305,
+      "change_pct": -1.97,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1685.46,
+      "change_pct": -2.38,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.62% / ESTX50 +0.29%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.19%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.44%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.37%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +5.37% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.27% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.97%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "FirstCash to Acquire Ramsdens, a Leading Pawn, Retail and Financial Services Operator in the United Kingdom",
+      "mechanism": "<p align=\"center\"><strong><em>Expands presence in the U.K. market through the addition of 174 pawn locations with strong brand;</em></strong><br /><strong><em>Further enhances FirstCash’s global leadership positioning and long-term growth platform;</em></strong><br /><strong><em>Expected to be accretive to EBITDA and EPS</em></strong><br /><strong> _________________________________________________________</strong></p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Bouygues Telecom Enhances Quality-of-Experience for Millions of French Broadband Subscribers with AI-Driven Expresse from AXON Networks",
+      "mechanism": "<p>Leading French service provider upgrades broadband service assurance capabilities with advanced AI solution delivering enhanced network visibility and a superior customer experience MEUDON LA FORÊT, France and IRVINE, Calif., June 23, 2026 /PRNewswire/ -- Bouygues Telecom, a leading...</p>",
+      "beneficiaries": [
+        "AXON"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Omnicom Launches Acxiom Fan Graph to Give Brands a More Complete View of Sports Fandom",
+      "mechanism": "<p>New sports marketing intelligence solution unifies fan data across media, commerce, and consumer engagement PARIS, June 23, 2026 /PRNewswire/ -- Omnicom (NYSE: OMC) today announced the launch of Acxiom Fan Graph, a new sports marketing intelligence solution anchored by Real ID™. The...</p>",
+      "beneficiaries": [
+        "OMC"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "**Hypothetische Einschätzung:**  \n- **Übergewichten**: Europäische Large‑Cap‑Aktien (z. B. DAX‑Komponenten).  \n- **Neutral**: US‑Technologie‑Aktien (Nasdaq‑Exposure).  \n- **Untergewichten**: Kryptowährungen (BTC, ETH).  \n\n**Was NICHT tun:** Erhöhen Sie nicht die Allokation in Kryptowährungen, solange die Volatilität weiter steigt und die Liquidität schwach bleibt."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
