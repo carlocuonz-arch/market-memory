@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-23",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Trotz eines nominal \"Risk-on\" Regimes signalisieren die Kursdaten einen tiefgreifenden Stresszustand, der durch eine massive Volatilitätszunahme bestätigt wird (VIX +16.38%). Der Markt navigiert in ei",
+  "market_regime": "Risk-on / Stress (VIX 20.2)",
+  "regime_detail": {
+    "vix": 20.2,
+    "vol": "stress",
+    "trend": "bull",
+    "spx": 7472.8,
+    "sma200": 6907.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24882.0996,
+      "change_pct": -1.02,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6229.48,
+      "change_pct": -1.3,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7472.79,
+      "change_pct": -0.37,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30347.0801,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51712.7109,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.493,
+      "change_pct": 0.94,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 20.11,
+      "change_pct": 16.38,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 150.06,
+      "change_pct": 0.44,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1393,
+      "change_pct": -0.6,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9214,
+      "change_pct": -0.52,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.308,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4124.5,
+      "change_pct": -1.37,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 77.09,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 73.37,
+      "change_pct": -1.94,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61968.5703,
+      "change_pct": -3.1,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1647.2,
+      "change_pct": -4.59,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -1.02% / ESTX50 -1.30%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.19%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.44%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.37%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +16.38% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.94% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -3.10%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "CARNIVAL CORPORATION DELIVERS RECORD SECOND QUARTER REVENUES, NET YIELDS AND ADJUSTED NET INCOME",
+      "mechanism": "<p>Accelerates shareholder returns, surpassing $450 million in stock repurchases MIAMI, June 23, 2026 /PRNewswire/ -- Carnival Corporation (NYSE: CCL) announced financial results for the second quarter 2026 and provided an updated outlook. Net income1 of $537 million with record adjusted net...</p>",
+      "beneficiaries": [
+        "CCL"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "kos.ai Announces General Availability of Same-Day Pay Application Reviews Powered by Kos, the Virtual Finance Employee, Following $12M Inception Financing",
+      "mechanism": "<p>Company also appoints digital infrastructure leader David Ferdman to its Board of Advisors SAN FRANCISCO, June 23, 2026 /PRNewswire/ -- kos.ai, the leading Virtual Finance Employee startup for data center companies, today announced the general availability of same-day pay application...</p>",
+      "beneficiaries": [
+        "SAN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "BALLARD ANNOUNCES ACQUISITION OF UK-BASED GEOPURA, POWERING FUTURE GROWTH AND TRANSFORMING BALLARD INTO AN INTEGRATED HYDROGEN ECOSYSTEM PROVIDER",
+      "mechanism": "<p>Transformative acquisition of a rapidly growing market leader of large-scale zero-emission hydrogen-based stationary power solutions Expands Ballard's business model to include an energy-as-a-service solution with a bundled offering combining hydrogen production, distribution, logistics,...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund des extremen Volatilitäts-Signals (-2) und der negativen Rate-Bewertung (-1) ist ein defensiver Bias geboten. Wir sehen daher eine Untergewichtung von breit gestreuten Risikoanlagen (z.B. ESTX50 -1.30%) zugunsten sektorspezifischer, resilienter Positionen.\n*Was NICHT tun:* Der Versuch, kurzfristige Momentum-Spiele in stark liquiditätsabhängigen, volatilen Märkten wie Kryptowährungen zu betreiben (BTC -3.10%), ist aufgrund des aktuellen Stresslevels hochriskant und zu vermeiden."
+  },
+  "confidence": {
+    "level_pct": 43,
+    "conviction_pct": 43,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
