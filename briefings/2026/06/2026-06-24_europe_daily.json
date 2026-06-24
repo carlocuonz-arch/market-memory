@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-24",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt ist in einem risk-on-Regime, wobei das VIX bei 19.49 anzeigt. Das Kernrisiko liegt im steigenden Volatilitätsschrecken, während die Hauptchance im Gesundheitssektor zu finden ist.",
+  "market_regime": "Risk-on / ruhig (VIX 19.5)",
+  "regime_detail": {
+    "vix": 19.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7365.5,
+    "sma200": 6912.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24893.5801,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6230.5498,
+      "change_pct": -1.28,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7365.46,
+      "change_pct": -1.44,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29347.2695,
+      "change_pct": -3.29,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51666.8398,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.451,
+      "change_pct": -0.27,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 19.49,
+      "change_pct": 12.79,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 152.18,
+      "change_pct": 1.41,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1368,
+      "change_pct": -0.52,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9222,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.47,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4104.0,
+      "change_pct": -0.63,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 76.55,
+      "change_pct": -0.69,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 72.74,
+      "change_pct": -0.64,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62758.7617,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1672.72,
+      "change_pct": -3.12,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.98% / ESTX50 -1.28%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -3.29%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.41%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.44%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.79% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.27% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.87%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "LONGi Tops Wood Mackenzie's Global Solar PV Module Manufacturer Ranking, Earns \"Grade A\" Highest Rating",
+      "mechanism": "<p>XI'AN, China, June 24, 2026 /PRNewswire/ -- On June 2, Wood Mackenzie, one of the world's most authoritative energy consultancies, officially released its 2026 Global Solar PV Module Manufacturer Ranking (based on 2025 operational data) and Supplier Qualification Program results. Driven...</p>",
+      "beneficiaries": [
+        "LONGi"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Voltage Energy Highlights Pre-Assembled Wiring Solutions at Intersolar Europe 2026",
+      "mechanism": "<p>Featuring LYNX PLUS and IBEX PLUS, the solutions demonstrate a system-level EBOS solution for faster, simpler, and more efficient utility-scale solar deployment CHAPEL HILL, N.C., June 24, 2026 /PRNewswire/ -- From June 23 to 25, Voltage Energy Group (\"Voltage Energy\"), a leading global...</p>",
+      "beneficiaries": [
+        "PLUS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "LONGi Awarded \"2026 Climate Lighthouse\" Outstanding Case of 2026 Shanghai Climate Week: Zero-Carbon Technology Leads Green Transition",
+      "mechanism": "<p>SHANGHAI, June 24, 2026 /PRNewswire/ -- The \"2026 Climate Lighthouse\" Conference, themed \"Chain the Future, Co-create a New Climate Lighthouse Paradigm\", was held during the Shanghai Climate Week. LONGi Green Energy Technology Co., Ltd. was recognized as an Outstanding Case of the \"2026...</p>",
+      "beneficiaries": [
+        "LONG"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch übergewichtig, da das Regime risk-on ist, aber aufgrund des steigenden Volatilitätsschreckens vorsichtig zu sein. NICHT unternehmen: Verkauf von Aktien mit hoher Sensitivität gegenüber Volatilität, wie Nasdaq100-Positionen."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
