@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-25",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime wird als Risk-on/ruhig klassifiziert, was sich in der signifikanten Performance des DAX (+1.00%) und ESTX50 (+0.93%) widerspiegelt. Die US-Tech-Performance (Nasdaq100 -0.43%) bildet d",
+  "market_regime": "Risk-on / ruhig (VIX 17.9)",
+  "regime_detail": {
+    "vix": 17.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7358.2,
+    "sma200": 6916.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24987.4805,
+      "change_pct": 1.0,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6272.3198,
+      "change_pct": 0.93,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7358.2202,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29220.0605,
+      "change_pct": -0.43,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51848.8984,
+      "change_pct": 0.35,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.386,
+      "change_pct": -1.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.89,
+      "change_pct": -3.97,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 153.35,
+      "change_pct": 0.77,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1369,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9218,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.573,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4038.2,
+      "change_pct": 1.2,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 73.82,
+      "change_pct": 0.11,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 70.16,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61138.0195,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1631.58,
+      "change_pct": 0.72,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +1.00% / ESTX50 +0.93%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.43%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.77%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.10%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -3.97% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.23%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "NeuroSense Reports Positive Biomarker Findings from Phase 2 RoAD Proof-of-Concept Study of PrimeC in Alzheimer's Disease",
+      "mechanism": "<p>PrimeC was associated with changes across multiple biomarkers spanning key neurodegenerative disease pathways, providing early biological evidence consistent with potential target engagement Findings support continued development of PrimeC's multi-target approach in Alzheimer's disease...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "In HelloNation, Commercial Roofing Expert Hayden Humphrey Breaks Down Commercial Flat Roof Repair Costs",
+      "mechanism": "<p>The article outlines how material type, damage extent, and access influence overall repair cost for business properties CHEYENNE, Wyo., June 25, 2026 /PRNewswire/ -- What factors determine the repair cost of a commercial flat roof in Cheyenne, WY? HelloNation has published the answer in...</p>",
+      "beneficiaries": [
+        "WY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "MasterClass Launches Certificate Course to Help Professionals Speak Up, Stand Out, and Lead With Influence",
+      "mechanism": "<p>Led by Stanford Graduate School of Business lecturer, podcast host, and bestselling author Matt Abrahams, the course teaches professionals how to turn communication and influence into their greatest career assets SAN FRANCISCO, June 25, 2026 /PRNewswire/ -- MasterClass, the personalized...</p>",
+      "beneficiaries": [
+        "SAN"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch ist eine Übergewichtung von europäischen Industriestrukturen und defensiven Sektoren (Health) ratsam, da diese die stärksten relativen Gewinner waren. Neutral bleibt der breite US-Markt aufgrund der gemischten Signale zwischen DAX/ESTX50 und Nasdaq100. **Was NICHT zu tun ist:** Eine Überbetonung von breit gestreuten US-Tech-Positionen (Nasdaq100 -0.43%) bei gleichzeitiger Ignoranz des Goldtrends (+1.20%)."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
