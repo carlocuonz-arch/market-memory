@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-25",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist formal als 'Risk-on' und ruhig eingestuft (VIX bei 18.63). Die tatsächliche Marktdynamik jedoch zeichnet sich durch eine signifikante Divergenz aus: Während traditionel",
+  "market_regime": "Risk-on / ruhig (VIX 18.6)",
+  "regime_detail": {
+    "vix": 18.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7358.2,
+    "sma200": 6916.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24740.3594,
+      "change_pct": -0.62,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6214.7002,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7358.2202,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29220.0605,
+      "change_pct": -0.43,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51848.8984,
+      "change_pct": 0.35,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.451,
+      "change_pct": -0.27,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.63,
+      "change_pct": -4.41,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 153.35,
+      "change_pct": 0.77,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1366,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9223,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.544,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 3991.0,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 72.59,
+      "change_pct": -1.56,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 69.46,
+      "change_pct": -1.25,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61571.9297,
+      "change_pct": 0.95,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1645.74,
+      "change_pct": 1.59,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.62% / ESTX50 -0.25%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.43%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.77%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.10%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -4.41% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.27% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.95%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ビットゲット、パーソナライズされたリスクコントロール機能を導入し、CFDコピートレードをアップグレード",
+      "mechanism": "<p>セーシェル共和国ビクトリア発, June  25, 2026  (GLOBE NEWSWIRE) -- 世界最大のユニバーサル取引所 (UEX) である<a href=\"https://www.globenewswire.com/Tracker?data=pbo_kWyEg4JcA4HdY4X5n_XwbtiycDTAz8lO10d9LlFxnfSfjVH0ai5u-zFA_QRyqciatngpohiOnsz7KsfXW8oxNVO_SHLEYGtylYGOrVM=\" rel=\"nofollow\" target=\"_blank\" title=\"\"><u>ビットゲット (Bitget)</u></a> は、CFDコピートレーディング (CFD Copy Trading) システムに大幅な機能強化を導入し、フォロワーは新しいポジションサイジングモデル、独立した利益確定・損切り設定、高度なエクスポージャー管理を通じて、リスク管理をより細かくコントロールできるようになった。</p>",
+      "beneficiaries": [
+        "UEX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Bitget Atualiza CFD Copy Trading Com Controles de Risco Personalizados",
+      "mechanism": "<p>VICTORIA, Seychelles, June  25, 2026  (GLOBE NEWSWIRE) -- <a href=\"https://www.globenewswire.com/Tracker?data=kHpuJk6MGDXVvubgpfw1o0YPIeyJ2iwLa6QHKECfe94IYzg6rQ0V2pObZk8z2f-Us1P5bQ0kTY0LUMwmG_Aviw==\" rel=\"nofollow\" target=\"_blank\" title=\"\"><u>Bitget</u></a>, a maior Universal Exchange (UEX) do mundo, introduziu grandes atualizações do seu sistema CFD Copy Trading, dando aos seguidores maior controle sobre o gerenciamento de risco por meio de novos modelos de dimensionamento de posições, configurações independentes de take-profit e stop-loss e controles avançados de exposição.</p>",
+      "beneficiaries": [
+        "UEX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "METLEN weiht die vierte Produktionsanlage des M-Technologies-Zentrums in Volos ein und eröffnet damit ein neues Kapitel für die griechische und europäische Verteidigungsindustrie",
+      "mechanism": "<p>ATHEN, Griechenland, und LONDON, 25. Juni 2026 /PRNewswire/ -- METLEN (LSE: MTLN) (RIC: MTLN.L) (Bloomberg: MTLN.LN) (Athen: MTLN) (RIC: MTLNr.AT) (Bloomberg: MTLN.GA) (ADR: MYTHY US) hat heute die neue Produktionsanlage von M Technologies in Volos eingeweiht und damit eine bedeutende...</p>",
+      "beneficiaries": [
+        "MTLN"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen eine Übergewichtung des Health-Sektors (XLV +0.77%) sowie der Kryptowährungen (BTC/ETH) aufgrund ihres nachweisbaren Momentum und ihrer Resilienz. Im Gegenzug ist eine klare Untergewichtung energieintensiver Positionen zu empfehlen, bedingt durch die signifikanten Rückgänge bei Brent (-1.56%) und WTI (-1.25%). **Was NICHT getan werden sollte:** Ein rein auf der Erholung breiter Tech-Indizes basierendes Long-Play ist aufgrund des negativen Drucks im DAX (-0.62%) und Nasdaq100 (-0.43%) zu riskant."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
