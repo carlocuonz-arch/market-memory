@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-26",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime präsentiert sich als ein Spannungsfeld zwischen einem nominalen „Risk-on“-Label und signifikant steigender Volatilität (VIX +7.36% auf 20.28). Der Kernstatus ist von einer klaren Dive",
+  "market_regime": "Risk-on / Stress (VIX 20.3)",
+  "regime_detail": {
+    "vix": 20.3,
+    "vol": "stress",
+    "trend": "bull",
+    "spx": 7357.5,
+    "sma200": 6920.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24624.8008,
+      "change_pct": -1.48,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6198.7598,
+      "change_pct": -1.1,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7357.4902,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29440.3203,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51920.6211,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.398,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 20.28,
+      "change_pct": 7.36,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 155.63,
+      "change_pct": 1.49,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1426,
+      "change_pct": 0.63,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9219,
+      "change_pct": -0.07,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.156,
+      "change_pct": -0.27,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4065.2,
+      "change_pct": 0.86,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 73.47,
+      "change_pct": -2.38,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 70.09,
+      "change_pct": -2.54,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 58811.9883,
+      "change_pct": -1.52,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1531.27,
+      "change_pct": -2.14,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -1.48% / ESTX50 -1.10%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.75%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.49%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.01%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +7.36% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.52%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "The Doctors Company   Completes Acquisition   of   ProAssurance Corporation",
+      "mechanism": "<p>NAPA, Calif., June 26, 2026 /PRNewswire/ -- The Doctors Company, the nation's largest physician-owned medical malpractice insurer, announced today that it has completed the acquisition of ProAssurance Corporation (NYSE: PRA), a specialty insurer with broad expertise in medical liability,...</p>",
+      "beneficiaries": [
+        "PRA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Opus Genetics Added to the Russell 3000®, Russell 2000® and Russell Microcap® Indexes",
+      "mechanism": "Opus Genetics Added to the Russell 3000®, Russell 2000® and Russell Microcap® Indexes",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Anixa Biosciences Reports Positive Data from Completed Breast Cancer Vaccine Phase 1 Trial and Positive Survival Observations from Ongoing CAR-T Phase 1 Trial at New York Academy of Sciences' Frontiers in Cancer Immunotherapy Symposium",
+      "mechanism": "<p>Breast cancer vaccine presentation includes final Phase 1 data showing all major primary endpoints were met and protocol-defined immune responses in 74% of participants Ovarian cancer CAR-T therapy, lira-cel, presentation highlights positive survival observations from ongoing Phase 1...</p>",
+      "beneficiaries": [
+        "CAR"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten US Technology und Health Rotation bleiben; Untergewichten sind europäische Breite sowie Commodities. Die Beobachtung des VIX-Anstiegs bei gleichzeitiger Tech-Stärke erfordert eine erhöhte Selektivität im Portfolio. *Was NICHT tun:* Nicht in Rohstoff- oder breit gestreute europäische Positionen investieren, solange die Volatilität hoch bleibt und der Commodities-Markt so stark fällt."
+  },
+  "confidence": {
+    "level_pct": 25,
+    "conviction_pct": 25,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
