@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-26",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist von einer latenten Divergenz geprägt: Während europäische Tech- und Leitindizes (DAX +1.03%, ESTX50 +0.85%) eine robuste Performance zeigten, blieb der S&P 500 nahezu u",
+  "market_regime": "Risk-on / ruhig (VIX 18.9)",
+  "regime_detail": {
+    "vix": 18.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7357.5,
+    "sma200": 6920.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24994.8301,
+      "change_pct": 1.03,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6267.5298,
+      "change_pct": 0.85,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7357.4902,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29440.3203,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51920.6211,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.451,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.89,
+      "change_pct": 1.4,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 155.63,
+      "change_pct": 1.49,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1382,
+      "change_pct": 0.24,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9202,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.397,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4024.1001,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 74.41,
+      "change_pct": -1.13,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 70.69,
+      "change_pct": -1.71,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 59960.6797,
+      "change_pct": 0.4,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1557.96,
+      "change_pct": -0.44,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +1.03% / ESTX50 +0.85%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.75%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.49%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.01%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +1.40% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.40%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Ease2pay N.V. business update",
+      "mechanism": "<p>Ease2pay, het intelligente activatie- en betaalplatform waarmee locaties worden omgevormd tot selfservicepunten, verwacht over de eerste helft van 2026 een groei van 70% in het aantal transacties ten opzichte van dezelfde periode in 2025. De gerapporteerde transactieaantallen zijn exclusief de van Miele appWash transacties.</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "CRRC Launches XUANKUN (VELFORCE) for Central Asia Industrial Rail at China-Eurasia Expo",
+      "mechanism": "<p>URUMQI, China, June 26, 2026 /PRNewswire/ -- At the 9th China-Eurasia Expo, CRRC Corporation Limited (CRRC) unveiled XUANKUN (VELFORCE), a serialized new-energy locomotive brand engineered for industrial rail operations across Central Asia and Belt-and-Road markets. The launch underscores...</p>",
+      "beneficiaries": [
+        "CRRC"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Smart Vehicle Chain at the 4th China International Supply Chain Expo: Making Travel More Convenient",
+      "mechanism": "<p>CATL, XPeng, SERES and other industry leaders showcase full-chain smart mobility innovations BEIJING, June 25, 2026 /PRNewswire/ -- The Smart Vehicle Chain section of the fourth China International Supply Chain Expo (CISCE) opened in Hall E2 of the China International Exhibition Center...</p>",
+      "beneficiaries": [
+        "CISCE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* **Übergewichten** Sie defensive Sektoren, insbesondere den Gesundheitsbereich (Health: +1.49%), um die Divergenz zwischen europäischen Wachstums- und defensiven Titeln auszuspielen. Die relative Stärke des Euro gegenüber dem DXY (-0.03%) unterstützt diese Positionierung zusätzlich. **Was NICHT tun:** Nicht überreagieren auf die kurzfristige positive Bewegung von Kryptowährungen (BTC +0.40%), da der Anstieg der Vola (+1.40%) ein erhöhtes Vorsichtsniveau impliziert."
+  },
+  "confidence": {
+    "level_pct": 17,
+    "conviction_pct": 17,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
