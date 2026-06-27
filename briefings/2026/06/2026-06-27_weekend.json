@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-27",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makroregime präsentiert sich formal als „Risk-on“ bei einem VIX von 18.9, doch die steigende Volatilität (+1.40%) signalisiert unter der Oberfläche eine erhöhte Vorsicht. Während DAX (+1.03%) und ",
+  "market_regime": "Risk-on / ruhig (VIX 18.9)",
+  "regime_detail": {
+    "vix": 18.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7357.5,
+    "sma200": 6920.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24994.8301,
+      "change_pct": 1.03,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6267.5298,
+      "change_pct": 0.85,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7357.4902,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29440.3203,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51920.6211,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.372,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.89,
+      "change_pct": 1.4,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 155.63,
+      "change_pct": 1.49,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.139,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9217,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.43,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4078.7,
+      "change_pct": 1.2,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 71.99,
+      "change_pct": -4.34,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 69.23,
+      "change_pct": -3.74,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 60274.1406,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1580.21,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +1.03% / ESTX50 +0.85%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.75%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.49%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.01%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +1.40% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.43%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "MoEngage adquiere Aampe para ofrecer toma de decisiones personalizada a los equipos de marketing B2C",
+      "mechanism": "<p>Esta adquisición completa la visión de MoEngage de una plataforma de interacción con el cliente basada en agentes LONDRES, 26 de junio de 2026 /PRNewswire/ -- MoEngage, la plataforma de interacción con el cliente y que está basada en agentes en la que confían más de 1.350 marcas de...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "UPDATE: Rogers Sugar Announces Extention of Collective Agreement at Taber Refinery",
+      "mechanism": "<p align=\"justify\">MONTR&#201;AL, June  26, 2026  (GLOBE NEWSWIRE) -- Rogers Sugar Inc. (the “Company” or “Rogers Sugar”) (TSX: RSI) today announced that the ‘’United Food and Commercial Workers Union’’ representing the employees at its Taber sugar beet refinery has ratified the extension of its current collective agreement to March 2032.</p>",
+      "beneficiaries": [
+        "RSI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "AeroVironment Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against AeroVironment, Inc. - AVAV",
+      "mechanism": "<p>NEW ORLEANS, June 26, 2026 /PRNewswire/ -- ClaimsFiler, a FREE shareholder information service, reminds investors that they have until July 27, 2026 to file lead plaintiff applications in a securities class action lawsuit against AeroVironment, Inc. (NasdaqGS: AVAV) (\"AeroVironment\" or...</p>",
+      "beneficiaries": [
+        "AVAV"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch sollte man defensiv-technologische Sektoren sowie den Gesundheitssektor übergewichten, da diese sektoralen Stärke zeigen (Health Rotation Score: 1). Man sollte jedoch die Positionierung in breiten US-Large-Cap-Indizes mit äußerster Skepsis betrachten und jegliche Allokation in Energieaktiva aufgrund des aktuellen Einbruchs untergewichten."
+  },
+  "confidence": {
+    "level_pct": 17,
+    "conviction_pct": 17,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
