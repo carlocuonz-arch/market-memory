@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-29",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal als „Risk-on / ruhig“ definiert (VIX 18.4), was jedoch durch signifikante Verkaufsdruck in europäischen und US-Tech-Titeln (DAX -1.29%, Nasdaq100 -1.09%) kont",
+  "market_regime": "Risk-on / ruhig (VIX 18.4)",
+  "regime_detail": {
+    "vix": 18.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7354.0,
+    "sma200": 6925.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24671.2207,
+      "change_pct": -1.29,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6221.5498,
+      "change_pct": -0.73,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7354.02,
+      "change_pct": -0.05,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29118.2402,
+      "change_pct": -1.09,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51876.1094,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.372,
+      "change_pct": -0.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.41,
+      "change_pct": -2.54,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 160.34,
+      "change_pct": 3.03,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1401,
+      "change_pct": 0.35,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9224,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.279,
+      "change_pct": -0.08,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4074.7,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 73.0,
+      "change_pct": 1.4,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 69.77,
+      "change_pct": 0.78,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 60075.9883,
+      "change_pct": 0.91,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1580.59,
+      "change_pct": 0.65,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -1.29% / ESTX50 -0.73%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.09%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +3.03%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.05%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.54% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.91%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "OCI N.V. statement on NNS",
+      "mechanism": "<p>AMSTERDAM, June 29, 2026 /PRNewswire/ -- OCI Global N.V. (\"OCI\" or the \"Company\") (Euronext: OCI) confirms that it has received the attached statement from NNS Holding (Cyprus) Limited (\"NNS\") and is publishing it for information purposes only, without comment or endorsement Important...</p>",
+      "beneficiaries": [
+        "OCI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "AB Science reports completion of the step 3 of phase 1, evaluating the combination of AB8939 with venetoclax for the treatment of refractory or relapsed AML",
+      "mechanism": "<p align=\"right\"><b>PRESS RELEASE</b></p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Bavarian Nordic Receives Health Canada Approval for Chikungunya Vaccine",
+      "mechanism": "<p align=\"justify\"><b>COPENHAGEN, Denmark, June 29, 2026</b> – Bavarian Nordic A/S (OMX: BAVA) today announced that Health Canada has approved VIMKUNYA<sup>®</sup> (recombinant, adsorbed) for immunization to prevent disease caused by chikungunya virus infection for individuals 12 years of age and older.</p>",
+      "beneficiaries": [
+        "BAVA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* **Übergewichten** sollten defensive und zyklisch stabile Sektoren wie den Gesundheitssektor (Health Rotation) sowie Rohstoff-Exponierungen sein, da diese die aktuell stärksten Performance-Treiber darstellen.\n**Was NICHT tun:** Eine Übergewichtung von Technologie- oder breiten Tech-Indizes ist zu vermeiden, solange kein klarer Trendwechsel in diesen Sektoren erkennbar ist, insbesondere angesichts der negativen Scorecard (-1) für `europe_tech` und `us_tech`."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
