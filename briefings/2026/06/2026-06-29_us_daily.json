@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-29",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal *Risk-on*, doch die Indexperformance ist von einer signifikanten Divergenz geprägt: Während europäische Märkte (+0.18%) und Rohstoffe stark zulegen, verzeichn",
+  "market_regime": "Risk-on / ruhig (VIX 18.4)",
+  "regime_detail": {
+    "vix": 18.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7354.0,
+    "sma200": 6925.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24715.3496,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6232.54,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7354.02,
+      "change_pct": -0.05,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29118.2402,
+      "change_pct": -1.09,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51876.1094,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.374,
+      "change_pct": 0.05,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.18,
+      "change_pct": -1.25,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 160.34,
+      "change_pct": 3.03,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1408,
+      "change_pct": 0.4,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9219,
+      "change_pct": 0.09,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.253,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4063.5,
+      "change_pct": -0.37,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 73.2,
+      "change_pct": 1.68,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 69.99,
+      "change_pct": 1.1,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 59901.5898,
+      "change_pct": 0.62,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1573.6899,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.18% / ESTX50 +0.18%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.09%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +3.03%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.05%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -1.25% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.05% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.62%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "EMPLOYERS Appoints Jeffrey P. Lisenby as Executive Vice President, General Counsel",
+      "mechanism": "Experienced insurance industry attorney joins EMPLOYERS executive leadership team <pre>Experienced insurance industry attorney joins EMPLOYERS executive leadership team</pre>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Emergent BioSolutions Secures Contract Modification Valued at Approximately $52.7 Million for ACAM2000® (Smallpox and Mpox (Vaccinia) Vaccine, Live) from the U.S. Government",
+      "mechanism": "<p>GAITHERSBURG, Md., June  29, 2026  (GLOBE NEWSWIRE) -- Emergent BioSolutions (NYSE:EBS) today announced it has been awarded a contract modification valued at $52.7 million from the Administration for Strategic Preparedness and Response (ASPR) at the United States Department of Health and Human Services to supply ACAM2000<sup>® </sup>(Smallpox and Mpox (Vaccinia) Vaccine, Live) vaccine, ancillaries as well as diluent replacement lots for smallpox preparedness and response needs. Deliveries are expected to begin this month.</p>",
+      "beneficiaries": [
+        "EBS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "MiniMed appoints Alcon CEO David Endicott and Linnea Burman to its Board of Directors",
+      "mechanism": "<p>David Endicott, Chief Executive Officer of Alcon, brings global healthcare leadership and public company experience; Linnea Burman adds MedTech operating depth NORTHRIDGE, Calif., June 29, 2026 /PRNewswire/ -- MiniMed (Nasdaq: MMED), a global leader in diabetes technology, today announced...</p>",
+      "beneficiaries": [
+        "MMED"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "**Hypothetische Einschätzung:** Übergewichten sollte man defensive Sektoren wie Health Care (+3.03%) sowie Energieaktien aufgrund der starken Rohstoffperformance (Brent/WTI Rallye) zuweisen. Untergewichtet ist die US-Tech-Komponente, bedingt durch den -1.09% Rückgang des Nasdaq100 und das negative Signal `us_tech` (-1). **Was NICHT tun:** Ignorieren Sie die Zinsdynamik: Der Anstieg der US10Y auf 4.374 (oder +0.05%) signalisiert einen Gegenwind, der bei überzogenen Tech-Positionen zu Lasten des Portfolios wirken kann."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
