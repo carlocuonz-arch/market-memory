@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-01",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktbild ist von einer signifikanten Divergenz geprägt: Während US-Technologie und der S&P 500 (+0.79%) eine positive Dynamik zeigen, deuten die stark steigenden Renditen des US10Y (+2.77%) und d",
+  "market_regime": "Risk-on / ruhig (VIX 16.9)",
+  "regime_detail": {
+    "vix": 16.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7499.4,
+    "sma200": 6934.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24897.0801,
+      "change_pct": -0.39,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6274.2798,
+      "change_pct": -0.85,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7499.3599,
+      "change_pct": 0.79,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30276.3496,
+      "change_pct": 1.68,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52319.1992,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.493,
+      "change_pct": 2.77,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.94,
+      "change_pct": 2.98,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 158.66,
+      "change_pct": -1.29,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1388,
+      "change_pct": -0.3,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9226,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.532,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4038.5,
+      "change_pct": 0.39,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 71.98,
+      "change_pct": -1.29,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 68.96,
+      "change_pct": -0.78,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 58740.1289,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1577.25,
+      "change_pct": 0.49,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.39% / ESTX50 -0.85%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.68%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.29%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.79%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +2.98% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -2,
+      "interpretation": "US10Y +2.77% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.31%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Hansa Biopharma announces closing of €115 million licensing transaction with SERB Pharmaceuticals for Idefirix in Europe and MENA",
+      "mechanism": "<p>SERB assumes responsibility for the commercialization of Idefirix in transplantation in the EU, UK, Switzerland, Norway, Liechtenstein, Iceland and MENA region The transaction significantly strengthens Hansa's financial position and enables a robust US launch, subject to US approval of...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "HTZ Investors Have Opportunity to Join Hertz Global Holdings, Inc. Fraud Investigation with the Schall Law Firm",
+      "mechanism": "HTZ Investors Have Opportunity to Join Hertz Global Holdings, Inc. Fraud Investigation with the Schall Law Firm",
+      "beneficiaries": [
+        "HTZ"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Hansa Biopharma announces closing of €115 million licensing transaction with SERB Pharmaceuticals for Idefirix in Europe and MENA",
+      "mechanism": "<p>SERB assumes responsibility for the commercialization of Idefirix in transplantation in the EU, UK, Switzerland, Norway, Liechtenstein, Iceland and MENA region The transaction significantly strengthens Hansa's financial position and enables a robust US launch, subject to US approval of...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir empfehlen das **Übergewichten** von US-Technologie (Nasdaq100-Exposure) und selektiv im Gesundheitssektor, wo positive Transaktionen (z.B. Hansa Biopharma) zu beobachten sind. Aufgrund der divergierenden Signale ist eine erhöhte Vorsicht geboten. *Was NICHT tun:* Wir raten dringend davon ab, europäische Indizes (DAX/ESTX50) oder Rohstoffe wie Brent und WTI (-1.29% bzw. -0.78%) als primäre Allokationsquelle zu betrachten."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
