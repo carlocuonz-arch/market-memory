@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-01",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt operiert in einem kanonisch risk-on Regime, was sich an den robusten Performance-Daten von DAX (+1.50%), ESTX50 (+1.55%) und Nasdaq100 (+1.68%) manifestiert. Die technische Überzeugung wird ",
+  "market_regime": "Risk-on / ruhig (VIX 16.5)",
+  "regime_detail": {
+    "vix": 16.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7499.4,
+    "sma200": 6934.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24995.8105,
+      "change_pct": 1.5,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6328.0898,
+      "change_pct": 1.55,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7499.3599,
+      "change_pct": 0.79,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30276.3496,
+      "change_pct": 1.68,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52319.1992,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.372,
+      "change_pct": -0.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.45,
+      "change_pct": -6.8,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 158.66,
+      "change_pct": -1.29,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1406,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9228,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.32,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 3979.2,
+      "change_pct": -1.09,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 73.06,
+      "change_pct": 0.19,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 69.6,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 58700.4492,
+      "change_pct": -2.39,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1578.49,
+      "change_pct": -1.97,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 2,
+      "interpretation": "DAX +1.50% / ESTX50 +1.55%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.68%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.29%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.79%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -6.80% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.39%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share. The Court-appointed Directors consent to the convocation of an extraordinary general meeting to submit the OCI-Orascom transaction to a shareholder vote.",
+      "mechanism": "<p>AMSTERDAM, July 1, 2026 /PRNewswire/ -- OCI Global N.V. (\"OCI\" or the \"Company\") (Euronext: OCI) announces that the Board of Directors (the \"Board\") (excluding Nassef Sawiris and Nadia Sawiris) recommends the voluntary all-cash public offer (the \"Offer\") for all issued and outstanding...</p>",
+      "beneficiaries": [
+        "OCI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Bell Integration se joindra à NiCE dans le cadre du NiCE World London, les 1er et 2 juillet 2026",
+      "mechanism": "<p>Parlons de la refonte de votre expérience client grâce à l'IA LONDRES, 1er juillet 2026 /PRNewswire/ -- Bell Integration annonce aujourd'hui son rôle de partenaire Or et de sponsor Or du NiCE World London, le rendez-vous incontournable de l'IA appliquée à l'expérience client (CX) destiné...</p>",
+      "beneficiaries": [
+        "CX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Eurobio Scientific finalizes the acquisition of CareDX’s transplant Lab Product division",
+      "mechanism": "<p align=\"center\"><b>EUROBIO SCIENTIFIC FINALIZES THE ACQUISITION OF CAREDX’s TRANSPLANT LAB PRODUCT DIVISION </b></p>",
+      "beneficiaries": [
+        "LAB"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* **Übergewichten** Sie europäische Technologieaktien (DAX/ESTX50) und Sektoren mit hohem M&A-Potenzial (Pharma, Healthcare). **Untergewichten** Sie Kryptowährungen und Value-Play-Segmenten, die keinen klaren Katalysator vorweisen.\n*Was NICHT tun:* Keine Allokation in Assets ohne klare katalytische Unterstützung; der generelle Anstieg des Risikobereitschafts-Scores darf nicht als Indikator für eine breite Marktkorrektur missinterpretiert werden, solange die Krypto-Liquidität so negativ ist."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
