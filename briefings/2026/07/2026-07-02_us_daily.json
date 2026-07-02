@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-02",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime bleibt kanonisch Risk-on, was sich in einem insgesamt ruhigen VIX-Verlauf widerspiegelt. Allerdings zeigen die Kurse eine signifikante Divergenz: Während europäische Indizes wie der D",
+  "market_regime": "Risk-on / ruhig (VIX 16.0)",
+  "regime_detail": {
+    "vix": 16.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7483.2,
+    "sma200": 6938.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25445.5508,
+      "change_pct": 1.62,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6363.6802,
+      "change_pct": 1.29,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7483.23,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29809.1309,
+      "change_pct": -1.54,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52305.2383,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.477,
+      "change_pct": 2.4,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.23,
+      "change_pct": -2.17,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 159.54,
+      "change_pct": 0.55,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1446,
+      "change_pct": 0.28,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9194,
+      "change_pct": -0.39,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.745,
+      "change_pct": -0.64,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4131.0,
+      "change_pct": 1.54,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 70.65,
+      "change_pct": -1.29,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 67.57,
+      "change_pct": -1.47,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61597.1797,
+      "change_pct": 2.66,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1680.4399,
+      "change_pct": 4.44,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +1.62% / ESTX50 +1.29%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.54%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.55%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.22%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.17% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -2,
+      "interpretation": "US10Y +2.40% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +2.66%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ADMA SHAREHOLDER ACTION REMINDER: Faruqi &amp; Faruqi, LLP Reminds ADMA Biologics Investors of Securities Class Action Lawsuit Deadline on August 10, 2026",
+      "mechanism": "<p>Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In ADMA Biologics To Contact Him Directly To Discuss Their Options If you purchased or acquired securities in ADMA Biologics between August 9, 2024 and March 25, 2026 and would...</p>",
+      "beneficiaries": [
+        "ADMA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "MacroGenics Completes Sale of GMP Manufacturing Operations to Bora Pharmaceuticals",
+      "mechanism": "<p>ROCKVILLE, MD, July  02, 2026  (GLOBE NEWSWIRE) -- MacroGenics, Inc. (NASDAQ: MGNX), a clinical-stage biopharmaceutical company focused on developing innovative antibody-based therapeutics for the treatment of cancer, and Bora Pharmaceuticals Co., Ltd. (TWSE: 6472; OTCQX: BORAY), a global leader in pharmaceutical manufacturing, today announced completion of the sale of MacroGenics’ good manufacturing practice (GMP) drug substance manufacturing operations to Bora.</p>",
+      "beneficiaries": [
+        "MGNX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "PicS (PICS) Investor Alert: Analyzing PicS N.V.'s Alleged IPO Credit Procedure Omissions and Shareholder Rights- Hagens Berman",
+      "mechanism": "<p>SAN FRANCISCO, July 2, 2026 /PRNewswire/ -- Hagens Berman, a recognized leader in securities litigation, is actively investigating claims pled in an investor class action alleging that PicS N.V. (NASDAQ: PICS) January 30, 2026, Initial Public Offering (IPO) documents contained...</p>",
+      "beneficiaries": [
+        "PICS"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten die Performance-Treiber außerhalb des US-Tech-Sektors sein: Krypto-Assets und Gold aufgrund ihres Momentum (BTC +2.66%) sowie europäische Werte, die eine relative Stabilität zeigen. Untergewichtet ist der US Technology Sektor (-2 Score) bei gleichzeitig steigendem Zinsdruck. **Was NICHT tun:** Nicht über Technologieaktien des Nasdaq100 zu gewichten, da diese durch das negative Momentum und den allgemeinen Anstieg der Renditen unter Druck geraten sind."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
