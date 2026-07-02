@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-02",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal als *Risk-on / ruhig* definiert, doch die Divergenz zwischen dem DAX (+0.18%) und der deutlichen Underperformance des Nasdaq100 (-1.54%) signalisiert eine sig",
+  "market_regime": "Risk-on / ruhig (VIX 16.6)",
+  "regime_detail": {
+    "vix": 16.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7483.2,
+    "sma200": 6938.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25040.2793,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6282.5,
+      "change_pct": -0.72,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7483.23,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29809.1309,
+      "change_pct": -1.54,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52305.2383,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.372,
+      "change_pct": -0.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.59,
+      "change_pct": 0.85,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 159.54,
+      "change_pct": 0.55,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1391,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9205,
+      "change_pct": -0.27,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.304,
+      "change_pct": -0.08,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4087.1001,
+      "change_pct": 0.46,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 70.82,
+      "change_pct": -1.05,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 67.8,
+      "change_pct": -1.14,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 60395.0,
+      "change_pct": 0.65,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1622.58,
+      "change_pct": 0.85,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.18% / ESTX50 -0.72%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.54%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.55%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.22%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +0.85% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.65%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ALSTOM S.A: Alstom awarded a new rolling stock order in the AMECA region worth around €800 million",
+      "mechanism": "<p>  </p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Qoder Introduces Time-of-Day Credits Pricing for Qwen3.7-Max and Qwen3.7-Plus",
+      "mechanism": "Qoder launches off-peak Credits pricing for Qwen3.7-Max and Plus, reducing AI coding costs across its product suite.",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "[Ad hoc announcement pursuant to Art. 53 LR] Roche’s divarasib shows superiority in head-to-head phase III trial against approved KRAS G12C inhibitors in non-small cell lung cancer",
+      "mechanism": "<p>Basel, 02 July 2026 - Roche (SIX: RO, ROP; OTCQX: RHHBY) announced today positive results from the phase III Krascendo 1 study evaluating divarasib, an investigational next-generation KRAS G12C inhibitor, against the approved, first generation KRAS G12C inhibitors sotorasib or adagrasib in patients with previously treated KRAS G12C non-small cell lung cancer (NSCLC). The study met its primary and key secondary endpoint, with divarasib achieving clinically meaningful and statistically significant improvements in both progression-free survival (PFS) and overall survival (OS). The safety profile for divarasib remained consistent with previous data, with no new findings detected and the most common treatment-related events being manageable and reversible.</p>",
+      "beneficiaries": [
+        "NSCLC"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*: Wir sehen eine Übergewichtung defensiver Sektoren und Healthcare-Titeln (`health_rotation: 1`). Gleichzeitig ist eine Untergewichtung von US-Tech-Werten ratsam, angesichts des negativen Signals im `us_tech` Score (-2) und der starken Korrektur am Nasdaq100. **Was NICHT getan werden sollte:** Die steigende Volatilität (VIX +0.85%) darf nicht ignoriert werden; sie signalisiert einen erhöhten Bedarf an Liquiditäts-Pufferung, unabhängig vom formalen *Risk-on*-Regime."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
