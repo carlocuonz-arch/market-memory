@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-03",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch als Risk-on und durch sinkende Volatilität (VIX -2.65%) gestützt, was eine grundsätzlich entspannte Stimmung signalisiert. Die Performance ist jedoch stark",
+  "market_regime": "Risk-on / ruhig (VIX 16.1)",
+  "regime_detail": {
+    "vix": 16.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7483.2,
+    "sma200": 6942.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25580.8809,
+      "change_pct": 2.16,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6360.4702,
+      "change_pct": 1.24,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7483.2402,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29329.2109,
+      "change_pct": -1.61,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52900.0703,
+      "change_pct": 1.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.372,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.15,
+      "change_pct": -2.65,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.74,
+      "change_pct": 2.63,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1457,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9183,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.667,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4178.7002,
+      "change_pct": 1.6,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 72.2,
+      "change_pct": 0.56,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 68.98,
+      "change_pct": 0.42,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61641.6211,
+      "change_pct": 2.73,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1714.74,
+      "change_pct": 6.57,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 2,
+      "interpretation": "DAX +2.16% / ESTX50 +1.24%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.61%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +2.63%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.00%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.65% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +2.73%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Enginuity Skills Awards 2026 – The ‘Oscars of Skills’",
+      "mechanism": "The Oscars of Skills showcase UK's finest",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Brødrene A. & O. Johansen A/S offentliggør et anbefalet frivilligt kontant overtagelsestilbud på NOK 22 pr. aktie til aktionærerne i Elektroimportøren AS og offentliggør tilbudsdokument; tilbudsperiodens start",
+      "mechanism": "<p><strong>Selskabsmeddelelse nr. 11 - 2026</strong><br /><strong>til Nasdaq Copenhagen<br />for Brødrene A. &amp; O. Johansen A/S<br />CVR-nr. 58 21 06 17</strong></p>",
+      "beneficiaries": [
+        "NOK"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "STMicroelectronics  annonce la date de publication et l’heure de la conférence téléphonique de ses résultats financiers du deuxième trimestre 2026",
+      "mechanism": "<p>PR N° C3399C</p>",
+      "beneficiaries": [
+        "PR"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen eine Übergewichtung defensiver Sektoren (Health) sowie alternative Anlagen wie Gold und Krypto-Assets, da deren Performance die aktuelle Marktstruktur am besten widerspiegelt. Gleichzeitig ist mit einer Untergewichtung der US Technology Exposure zu rechnen, bedingt durch den deutlichen Rückgang des Nasdaq100 (-1.61%). **Was NICHT tun:** Eine übermäßige Gewichtung von rein spekulativen oder hochvolatilen Technologie-Positionen (us_tech) sollte vermieden werden, solange die Divergenz zwischen DAX und Nasdaq anhält."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
