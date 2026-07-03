@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-03",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime bleibt formal als Risk-on / ruhig bei einem VIX von 15.9 fest verankert. Dennoch signalisiert die markthaptische Performance eine deutliche Divergenz: Während traditionelle Indizes wi",
+  "market_regime": "Risk-on / ruhig (VIX 15.9)",
+  "regime_detail": {
+    "vix": 15.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7483.2,
+    "sma200": 6942.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25753.7109,
+      "change_pct": 0.68,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6402.71,
+      "change_pct": 0.66,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7483.2402,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29329.2109,
+      "change_pct": -1.61,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52900.0703,
+      "change_pct": 1.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.372,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.95,
+      "change_pct": -1.24,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.74,
+      "change_pct": 2.63,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1447,
+      "change_pct": 0.61,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9195,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.831,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4182.0,
+      "change_pct": 1.69,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 71.87,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 68.58,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62031.1914,
+      "change_pct": 0.89,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1743.03,
+      "change_pct": 2.64,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.68% / ESTX50 +0.66%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.61%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +2.63%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.00%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -1.24% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.89%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "LEDVANCE devient le partenaire officiel du FC Bayern en matière d'éclairage",
+      "mechanism": "<p>MUNICH, 3 juillet 2026 /PRNewswire/ -- Le FC Bayern et LEDVANCE annoncent un partenariat à long terme qui s'étendra jusqu'en 2029. LEDVANCE deviendra le partenaire officiel en matière d'éclairage du FC Bayern, champion d'Allemagne en titre, et collaborera avec le club à titre exclusif...</p>",
+      "beneficiaries": [
+        "FC"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "FSI ANNOUNCES THE COMPANY HAS TRADED EQUITY IN THE FLORIDA LLC FOR EXCLUSIVE PRODUCT RIGHTS",
+      "mechanism": "<p align=\"justify\"><b>TABER, ALBERTA, July  03, 2026  (GLOBE NEWSWIRE) -- FLEXIBLE SOLUTIONS INTERNATIONAL, INC. (NYSE-AMERICAN: FSI), </b>is the developer and manufacturer of biodegradable polymers for oil extraction, detergent ingredients and water treatment as well as crop nutrient availability chemistry. Flexible Solutions also manufactures biodegradable and environmentally safe water and energy conservation technologies. In addition, FSI is increasing its presense in the food and nutrition supplement manufacturing markets. Today, the Company announces that it has traded the remaining 19.9% of the FL LLC for exclusive rights to make and sell certain agricultural products in certain markets.</p>",
+      "beneficiaries": [
+        "FSI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "DOLLARAMA ANNOUNCES RENEWAL OF NORMAL COURSE ISSUER BID",
+      "mechanism": "<p>MONTRÉAL, July 3, 2026 /PRNewswire/ - Dollarama Inc. (TSX: DOL) (\"Dollarama\" or the \"Corporation\") announced today that it received approval from the Toronto Stock Exchange (\"TSX\") to renew its normal course issuer bid (the \"NCIB\"). Pursuant to the NCIB, the Corporation may, during the...</p>",
+      "beneficiaries": [
+        "DOL"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "**Hypothetisch:** Übergewichten sollten defensive Sektoren wie Health und Gold sowie alternative Assets wie ETH/BTC gegenüber der breiten Technologie-Exposition gewichtet werden. Untergewichten sollte die reine Tech-Exposure (Nasdaq100), da diese deutlich nachgab (-1.61%). **Was NICHT tun:** Nicht die gesamte Marktkapitalisierung auf den US-Tech-Sektor stützen, solange dieser Sektor eine solche Volatilität und Abkopplung vom breiten Indexverlauf zeigt."
+  },
+  "confidence": {
+    "level_pct": 25,
+    "conviction_pct": 25,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
