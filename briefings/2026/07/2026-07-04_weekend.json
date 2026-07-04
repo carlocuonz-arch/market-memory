@@ -1,0 +1,181 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-04",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch als „Risk-on / ruhig“ definiert, was durch den VIX-Rückgang (-2.65%, Stand 16.15) gestützt wird. Die Performance ist jedoch stark divergent: Während europä",
+  "market_regime": "Risk-on / ruhig (VIX 16.1)",
+  "regime_detail": {
+    "vix": 16.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7483.2,
+    "sma200": 6942.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25779.3105,
+      "change_pct": 0.78,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6412.6802,
+      "change_pct": 0.82,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7483.2402,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29329.2109,
+      "change_pct": -1.61,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52900.0703,
+      "change_pct": 1.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.372,
+      "change_pct": null,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.15,
+      "change_pct": -2.65,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.74,
+      "change_pct": 2.63,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.144,
+      "change_pct": 0.55,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9183,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.857,
+      "change_pct": -0.0,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4187.2998,
+      "change_pct": 1.81,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 72.13,
+      "change_pct": 0.46,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 68.78,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62434.8203,
+      "change_pct": 1.54,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1753.21,
+      "change_pct": 3.24,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.78% / ESTX50 +0.82%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.61%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +2.63%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.00%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.65% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": null,
+      "interpretation": "US10Y N/A (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +1.54%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Kirguistán inaugura Tamchy SFIT, una nueva jurisdicción financiera internacional a orillas del lago Issyk-Kul",
+      "mechanism": "<p>Tamchy, Kirguist&#225;n, July  03, 2026  (GLOBE NEWSWIRE) -- El presidente de la República Kirguisa, Sadyr Japárov, inauguró la <a href=\"https://www.globenewswire.com/Tracker?data=5S-0ksjAkBxTAsyXocNaYT7ym771Z8IZNRxEzWAN46OJzlhy_pgRqQTPxRNVv4viy6Za7z2-RFoF71q-fqlfoA==\" rel=\"nofollow\" target=\"_blank\" title=\"\"><u>Tamchy</u></a> Special Financial Investment Territory (SFIT), una nueva jurisdicción internacional ubicada a orillas del lago alpino Issyk-Kul. Los primeros residentes de Tamchy, que se sumaron durante la ceremonia de inauguración, fueron empresas de Corea del Sur, los Emiratos Árabes Unidos, Hong Kong, Suiza y Kazajistán. Veinte compañías de distintas partes del mundo se encuentran en proceso de establecer su residencia en Tamchy SFIT.</p>",
+      "beneficiaries": [
+        "SFIT"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*\n\n**Übergewichten:** Europäische Tech- und Industrieaktien (DAX/ESTX50) sowie defensive Sektoren mit hoher Rotation (Health Care, XLV). Zudem ist eine Übergewichtung von liquiden alternativen Assets (Crypto) aufgrund der beobachteten Performance zu empfehlen.\n**Untergewichten:** Reine US-Tech-Expositionen, die sich im Nasdaq100 (-1.61%) widerspiegeln.\n**Was NICHT tun:** Den Momentum-Trade auf Basis des Tech-Sektors verfolgen; das Untergewichtungspotenzial der US-Technologie ist momentan zu groß, um eine kurzfristige Gegenbewegung zu erwarten."
+  },
+  "confidence": {
+    "level_pct": 42,
+    "conviction_pct": 42,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
