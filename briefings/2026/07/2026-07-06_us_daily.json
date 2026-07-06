@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-06",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal als „Risk-on / ruhig“ klassifiziert, doch die technische Realität zeigt eine signifikante Divergenz: Der Anstieg des VIX um 1.80% auf 16.44 signalisiert ein s",
+  "market_regime": "Risk-on / ruhig (VIX 16.4)",
+  "regime_detail": {
+    "vix": 16.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7483.2,
+    "sma200": 6942.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25707.7207,
+      "change_pct": -0.28,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6383.1099,
+      "change_pct": -0.46,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7483.2402,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29329.2109,
+      "change_pct": -1.61,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52900.0703,
+      "change_pct": 1.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.465,
+      "change_pct": -0.45,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.44,
+      "change_pct": 1.8,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.74,
+      "change_pct": 2.63,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1423,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9203,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.054,
+      "change_pct": 0.19,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4151.7002,
+      "change_pct": 0.95,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 72.1,
+      "change_pct": 0.42,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 68.62,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 61382.4102,
+      "change_pct": -3.41,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1733.39,
+      "change_pct": -2.78,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.28% / ESTX50 -0.46%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.61%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +2.63%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.00%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +1.80% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.45% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -3.41%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "SMP Forms Joint Venture with Techstrong to Expand Sensor Manufacturing Capabilities",
+      "mechanism": "<p>NEW YORK, July 6, 2026 /PRNewswire/ -- Standard Motor Products, Inc. (SMP) announced it has entered into a 50/50 joint venture agreement with Techstrong Holdings Limited to form Techstrong Electronics (Thailand) Company Limited (\"SMP Techstrong\"), an automotive sensor manufacturing...</p>",
+      "beneficiaries": [
+        "SMP"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "EnergyX Secures $225 Million Strategic Investment from Eni to Advance the Black Giant™ Lithium Project in Chile",
+      "mechanism": "<p>HIGHLIGHTS Eni invests $225 million of equity into EnergyX's Project Black Giant™ in Chile for a minority stake in the project. Black Giant™ will produce 52,500 tpa of lithium carbonate through 2 phases. The Project has the potential for further expansion through additional development...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Outset Medical, Inc. (NASDAQ: OM) Investor Alert: Schubert Jonckheer Investigating Possible False Statements, Over $50 Million in Insider Sales",
+      "mechanism": "<p>SAN FRANCISCO, July 6, 2026 /PRNewswire/ -- Schubert Jonckheer & Kolbe LLP advises Outset Medical, Inc. (NASDAQ: OM) investors that the firm is investigating potential legal claims arising from alleged false statements about FDA clearance requirements for one of the company's key products...</p>",
+      "beneficiaries": [
+        "OM"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* **Defensiv/Industriell Übergewichten.** Angesichts des gestiegenen Volatilitätsrisikos und der Schwäche im Tech-Sektor ist eine Reduktion der Beta-Exposition ratsam, während die defensive Rotation in Sektoren wie Health (XLV +2.63%) oder Rohstoffen (Gold +0.95%) Priorität hat.\n*Was NICHT tun:* Keine Überdimensionierung der Technologie-Allokation; das hohe VIX-Niveau und die negativen Scores (-2) im us_tech weisen auf eine erhöhte Vorsicht bei Wachstumstiteln hin."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
