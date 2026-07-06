@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-06",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das europäische Makroregime bleibt zwar formal „Risk-on“ (VIX 16.15), doch die Kurse zeigen eine deutliche Divergenz: Während DAX (+0.78%) und ESTX50 (+0.82%) anziehen, verzeichnet der Nasdaq100 einen",
+  "market_regime": "Risk-on / ruhig (VIX 16.1)",
+  "regime_detail": {
+    "vix": 16.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7483.2,
+    "sma200": 6942.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25779.3105,
+      "change_pct": 0.78,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6412.6802,
+      "change_pct": 0.82,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7483.2402,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29329.2109,
+      "change_pct": -1.61,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52900.0703,
+      "change_pct": 1.14,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.485,
+      "change_pct": 0.22,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.15,
+      "change_pct": -2.65,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.74,
+      "change_pct": 2.63,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1426,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.92,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.047,
+      "change_pct": 0.19,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4160.7002,
+      "change_pct": 1.17,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 72.39,
+      "change_pct": 0.82,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 69.12,
+      "change_pct": 0.63,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62970.0117,
+      "change_pct": -0.91,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1771.0,
+      "change_pct": -0.67,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.78% / ESTX50 +0.82%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.61%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +2.63%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.00%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.65% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.22% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.91%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Share repurchase programme: Transactions of week 27 2026",
+      "mechanism": "<p>The share repurchase programme runs as from 5 February 2026 and up to and including 29 January 2027 at the latest. In this period, Jyske Bank will acquire shares with a value of up to DKK 3 billion, cf. Corporate Announcement No. 11/2026 of 5 February 2026. The share repurchase programme is initiated and structured in compliance with the Market Abuse Regulation (Regulation (EU) No 596/2014) and the Commission Delegated Regulation (EU) 2016/1052 of 8 March 2016 (together with the Market Abuse Regulation, the “Safe Harbour Rules”).</p>",
+      "beneficiaries": [
+        "EU"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Configit figure en tant que Sample Vendor dans le Gartner® Hype Cycle™ pour le commerce numérique, 2026",
+      "mechanism": "<p>Le leader mondial est reconnu parmi 11 fournisseurs cités dans le rapport 2026 COPENHAGUE, Danemark, 6 juillet 2026 /PRNewswire/ -- Configit, leader mondial de la gestion du cycle de vie de la configuration (CLM), annonce aujourd'hui avoir été désigné comme Sample Vendor (fournisseur de...</p>",
+      "beneficiaries": [
+        "CLM"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Brandon Capital Announces Agreement for Novartis to Acquire Portfolio Company Myricx Bio to Advance New Class of Cancer Therapeutics",
+      "mechanism": "<p align=\"left\">MELBOURNE, Australia, July  06, 2026  (GLOBE NEWSWIRE) -- Brandon Capital, Australasia’s leading life sciences venture capital firm, today announces the successful exit of its portfolio company Myricx Bio following its agreement to be acquired by Novartis. The transaction is valued at up to US$1.5 billion (~A$2.16bn) including an upfront cash payment of US$1.1 billion (~A$1.58bn) plus potential milestone payments.</p>",
+      "beneficiaries": [
+        "NOVN"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*\n**Übergewichten:** Sektorale Allokationen im Gesundheitsbereich und in realen Assets (Commodities/Edelmetalle), da die Performance von XLV (+2.63%) und Gold (+1.17%) das Momentum übertrifft.\n**Untergewichten:** Der US Tech-Sektor, aufgrund der deutlichen Unterperformance des Nasdaq100 (-1.61%).\n**Was NICHT tun:** Nicht dem reinen Momentum von Technologieaktien folgen; die Divergenz zwischen DAX/ESTX50 und Nasdaq100 ist ein Warnsignal für eine Überbewertung US-Tech-spezifischer Beta-Positionen."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
