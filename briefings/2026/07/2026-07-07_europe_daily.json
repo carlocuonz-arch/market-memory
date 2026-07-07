@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-07",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime bleibt kanonisch als *Risk-on / ruhig* zu bewerten, was sich im VIX-Verfall (-3.59%) und der Stärke des S&P 500 (+0.72%) widerspiegelt. Die Performance ist jedoch stark divergierend: ",
+  "market_regime": "Risk-on / ruhig (VIX 15.6)",
+  "regime_detail": {
+    "vix": 15.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7537.4,
+    "sma200": 6947.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25817.8906,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6398.0098,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7537.4302,
+      "change_pct": 0.72,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29697.8691,
+      "change_pct": 1.26,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53055.9102,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.485,
+      "change_pct": 0.22,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.57,
+      "change_pct": -3.59,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.96,
+      "change_pct": -1.09,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1431,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9216,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.947,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4134.7002,
+      "change_pct": -0.49,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 72.85,
+      "change_pct": 1.19,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 69.33,
+      "change_pct": 1.14,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63110.0117,
+      "change_pct": -0.69,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1769.64,
+      "change_pct": -0.75,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.15% / ESTX50 -0.23%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.26%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.09%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.72%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -3.59% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.22% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.69%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Glice AG spricht am 60. Ordentlichen ISU-Kongress 2026 über die Zukunft der Eis-Infrastruktur für den Eislaufsport",
+      "mechanism": "Schweizer Hersteller von synthetischem Eis präsentierte der Führung des internationalen Verbands und den Delegierten der Mitgliedsverbände unabhängige Forschungsergebnisse des Fraunhofer-Instituts <pre>Schweizer Hersteller von synthetischem Eis präsentierte der Führung des internationalen Verbands und den Delegierten der Mitgliedsverbände unabhängige Forschungsergebnisse des Fraunhofer-Instituts</pre>",
+      "beneficiaries": [
+        "AG"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Cyllene Therapeutics (anciennement EG427) lève 33 millions d’euros lors d’une Série C pour accélérer le développement clinique d’EG110A et l’expansion de son pipeline",
+      "mechanism": "<p align=\"justify\">Paris ,  07 juill. 2026  (GLOBE NEWSWIRE) -- Cyllene Therapeutics, précédemment EG 427, a annoncé aujourd’hui la clôture d’un tour de financement de Série C de 33 millions d’euros, mené conjointement par de nouveaux investisseurs, GordonMD Global Investments et M Ventures. Les investisseurs historiques, dont Andera Partners, Bpifrance via son fonds Innobio3 et Lamond Ventures, ont également participé à ce tour de table.</p>",
+      "beneficiaries": [
+        "EG"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Bitmine Immersion Technologies (BMNR) annonce que ses avoirs en ETH atteignent 5,74 millions de tokens et que ses avoirs en cryptomonnaies et en liquidités atteignent 11,1 milliards de dollars",
+      "mechanism": "<p>Bitmine détient 4,8 % de l'offre totale d'ETH, qui s'élève à 120,7 millions En seulement 12 mois, Bitmine a déjà parcouru 95 % du chemin menant à l'« Alchimie des 5 % » Bitmine a été intégrée à l'indice Russell 1000 Large-cap le 26 juin 2026 Les actions privilégiées de catégorie A de...</p>",
+      "beneficiaries": [
+        "BMNR"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*: Wir sehen eine klare Übergewichtung von US-Technologie (Overweight us_tech) aufgrund der nachweisbaren Performance und Momentumstärke. Für den europäischen Gesamtmarkt ist eine neutrale Haltung (Neutral europe_tech/ESTX50) ratsam, solange die Divergenz anhält. **Was NICHT tun:** Von risikobedingten Sektoren wie dem Gesundheitssektor oder Kryptomärkten absehen und diese als aktuell überdimensioniertes Risiko einstufen."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
