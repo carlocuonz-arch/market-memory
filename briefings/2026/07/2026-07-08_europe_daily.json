@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-08",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Trotz der kanonisch als „Risk-on / ruhig“ definierten Marktregime weisen die Indizes deutlichen Verkaufsdruck auf, mit signifikanten Verlusten am Nasdaq100 (-1.77%) und DAX (-1.37%). Das Kernrisiko ma",
+  "market_regime": "Risk-on / ruhig (VIX 16.1)",
+  "regime_detail": {
+    "vix": 16.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7503.9,
+    "sma200": 6952.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25465.25,
+      "change_pct": -1.37,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6319.8599,
+      "change_pct": -1.22,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7503.8501,
+      "change_pct": -0.45,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29173.0195,
+      "change_pct": -1.77,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52925.1484,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.529,
+      "change_pct": 0.98,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.13,
+      "change_pct": 3.6,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 164.44,
+      "change_pct": 1.53,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1426,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.922,
+      "change_pct": 0.09,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.026,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4140.6001,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 76.49,
+      "change_pct": 3.14,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 72.62,
+      "change_pct": 3.09,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62568.7695,
+      "change_pct": -1.15,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1750.1801,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -1.37% / ESTX50 -1.22%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.77%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +1.53%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.45%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +3.60% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.98% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.15%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "MDLN ALERT: HBSS Probes Medline (MDLN) After Reports Reveal Undisclosed Manufacturing Violations and Failed Contamination Investigations",
+      "mechanism": "<p>SAN FRANCISCO, July 7, 2026 /PRNewswire/ -- National shareholder rights firm Hagens Berman Sobol Shapiro (HBSS) has launched an investigation into Medline Inc. (NASDAQ: MDLN) focusing on whether the company may have misled investors regarding the adequacy of its manufacturing quality...</p>",
+      "beneficiaries": [
+        "MDLN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Black Rock Coffee Bar, Inc. (BRCB) Faces Securities Class Action Related to IPO Disclosures Regarding Adverse Impact of Sales Transfer Phenomenon - HBSS",
+      "mechanism": "<p>SAN FRANCISCO, July 7, 2026 /PRNewswire/ -- Black Rock Coffee Bar, Inc. (NASDAQ: BRCB) faces a securities class action lawsuit related to disclosures the company made to investors within its initial public offering documents whereby it issued about 16.9 million shares to investors at $20...</p>",
+      "beneficiaries": [
+        "BRCB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "GeneDx Holdings (WGS) Hit with Securities Class Action Following 49% Stock Collapse -- HBSS",
+      "mechanism": "<p>SAN FRANCISCO, July 7, 2026 /PRNewswire/ -- Hagens Berman (HBSS), a national leader in securities litigation, is actively investigating claims in a securities class action lawsuit against GeneDx Holdings (NASDAQ: WGS) and its executives, alleging defendants misled investors about the...</p>",
+      "beneficiaries": [
+        "WGS"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten defensive Sektoren wie Healthcare bleiben, da dieser Sektor mit +1.53% eine klare Zuflucht bietet. Energie-Exposure ist aufgrund der deutlichen Preisrallyes (Brent/WTI) zu prüfen. Indizes und Kryptos sind momentan untergewichtet. Was NICHT getan werden sollte, ist die Ignoranz des steigenden VIX-Signals oder der steigenden US10Y-Renditen, da diese auf eine anhaltende Makrospannung hindeuten."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
