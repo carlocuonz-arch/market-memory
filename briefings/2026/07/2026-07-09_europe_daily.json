@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-09",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makroregime bleibt nominal als Risk-on eingestuft, doch die Kursmuster zeigen eine zunehmende Divergenz und steigende Vorsicht. Während der Nasdaq100 (+0.27%) relative Stärke im US-Tech-Sektor dem",
+  "market_regime": "Risk-on / ruhig (VIX 16.9)",
+  "regime_detail": {
+    "vix": 16.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7482.7,
+    "sma200": 6956.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24897.4492,
+      "change_pct": -2.23,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6204.9102,
+      "change_pct": -1.82,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7482.71,
+      "change_pct": -0.28,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29252.5605,
+      "change_pct": 0.27,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52348.3906,
+      "change_pct": -1.09,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.569,
+      "change_pct": 0.88,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.9,
+      "change_pct": 4.77,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.3,
+      "change_pct": -1.3,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.145,
+      "change_pct": 0.4,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9219,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.897,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4102.7998,
+      "change_pct": 0.78,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 77.82,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 73.31,
+      "change_pct": -0.29,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62770.4883,
+      "change_pct": -0.83,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1751.2,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -2,
+      "interpretation": "DAX -2.23% / ESTX50 -1.82%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.27%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.30%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.28%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +4.77% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.88% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.83%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Broadridge Delivers Next-Generation Reconciliation Platform to Raiffeisen Bank International",
+      "mechanism": "<p>International bank selects BRx Match to support growing transaction volumes and ISO 20022 compliance across global markets NEW YORK and LONDON, July 9, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Centralised Raiffeisen...</p>",
+      "beneficiaries": [
+        "BR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Keeper Security surpasses $225M in ARR with transformative growth and is emerging as the market standard for AI-native identity security",
+      "mechanism": "<p>Compelling path to $1billion ARR and public offering, fueled by product market fit in the agentic AI age, explosion of identities and related threats, and accelerating growth LONDON, July 9, 2026 /PRNewswire/ -- Keeper Security (\"Keeper\" or \"we\"), the identity security platform for...</p>",
+      "beneficiaries": [
+        "ARR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "PhilWeb secures exclusive partnership with Pragmatic Play, expanding tech-enabled gaming services in the PH",
+      "mechanism": "<p>MANILA, Philippines, July 9, 2026 /PRNewswire/ -- Listed PhilWeb Corporation (\"PhilWeb\" or the \"Company\", PSE: WEB) today announced an exclusive partnership with Pragmatic Play that will enable licensed gaming operators in the Philippines to utilize international ecosystem partner...</p>",
+      "beneficiaries": [
+        "PH"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Angesichts der signifikanten europäischen Schwäche und der widersprüchlichen Volatilität ist eine Underweight-Positionierung gegenüber zyklischen europäischen Assets ratsam, während Gold aufgrund seiner Performance (+0.78%) als defensiver Faktor übergewichtet betrachtet wird. Wir empfehlen Neutralität im US-Tech-Sektor, solange die Divergenz anhält. **Was NICHT zu tun ist:** Das Verfolgen von Momentum in den europäisch gelisteten Hauptindizes (DAX/ESTX50) aufgrund der negativen Signale aus dem Scorecard (-2)."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
