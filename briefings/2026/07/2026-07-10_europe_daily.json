@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-10",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktregime bleibt klassisch *Risk-on*, was durch die starke Performance des Nasdaq100 (+1.62%) und insbesondere der Kryptowährungen (BTC +2.58%) untermauert wird. Die Liquidität sucht offensichtl",
+  "market_regime": "Risk-on / ruhig (VIX 15.8)",
+  "regime_detail": {
+    "vix": 15.8,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7543.6,
+    "sma200": 6960.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25118.2695,
+      "change_pct": 0.89,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6284.27,
+      "change_pct": 1.28,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7543.6401,
+      "change_pct": 0.81,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29727.0996,
+      "change_pct": 1.62,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52487.4102,
+      "change_pct": 0.27,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.539,
+      "change_pct": -0.66,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.84,
+      "change_pct": -6.27,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.17,
+      "change_pct": -0.08,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1446,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9207,
+      "change_pct": -0.24,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.72,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4128.6001,
+      "change_pct": -0.05,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 76.11,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 71.9,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63862.1094,
+      "change_pct": 2.58,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1769.41,
+      "change_pct": 1.53,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.89% / ESTX50 +1.28%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.62%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.08%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.81%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -6.27% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.66% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +2.58%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "NBPE Announces Transaction in Own Shares",
+      "mechanism": "<p align=\"justify\">THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS</p>",
+      "beneficiaries": [
+        "ANY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Kitron: Rekordhøye Q2-resultater og bred vekst",
+      "mechanism": "<p>(2026-07-10) Kitron rapporterer i dag rekordhøye kvartalstall for driftsinntekter og driftsresultat, drevet av akselererende etterspørsel innen markedssegmentet Forsvar/Luftfart, men også vekst i andre markedssektorer.</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Kitron: Record Q2 results and broad-based growth",
+      "mechanism": "<p>(2026-07-10) Kitron today reported record quarterly revenue and operating profit, driven primarily by accelerating demand in the Defence/Aerospace market sector but also growth in other market sectors.</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten Sie weiterhin Technologie-Exposure (us_tech Scorecard: 2) und hochliquide Assetklassen wie Kryptowährungen. Bleiben Sie bei einer neutralen Gewichtung für breit gestreute, zyklische Werte, da die Performance zu stark von sektoraler Selektivität getrieben wird. **Was NICHT tun:** Überbewerten Sie die allgemeine Marktstimmung aufgrund des *Risk-on*-Regimes; der Fokus muss strikt auf die fundamental stärksten Wachstumstitel bleiben und nicht durch das gesamte Indexgewicht gezogen werden."
+  },
+  "confidence": {
+    "level_pct": 64,
+    "conviction_pct": 64,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
