@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-10",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime bleibt kanonisch Risk-on, was durch einen niedrigen VIX von 15.74 bestätigt wird. Die Performance ist jedoch stark divergierend: Während der Nasdaq100 (+1.62%) und der SP500 (+0.81%) ",
+  "market_regime": "Risk-on / ruhig (VIX 15.8)",
+  "regime_detail": {
+    "vix": 15.8,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7543.6,
+    "sma200": 6960.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25142.7207,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6274.6401,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7543.6401,
+      "change_pct": 0.81,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29727.0996,
+      "change_pct": 1.62,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52487.4102,
+      "change_pct": 0.27,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.549,
+      "change_pct": 0.22,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.74,
+      "change_pct": -0.63,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.17,
+      "change_pct": -0.08,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1425,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9226,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.908,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4111.2998,
+      "change_pct": -0.47,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 76.65,
+      "change_pct": 0.46,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 72.32,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64110.4609,
+      "change_pct": 1.45,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1794.1,
+      "change_pct": 2.84,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.10% / ESTX50 -0.15%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.62%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.08%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.81%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -0.63% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.22% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +1.45%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "MBL Awarded $3.2 Million to Expand Cutting-Edge Microscopy Infrastructure",
+      "mechanism": "<p>WOODS HOLE, Mass., July 10, 2026 /PRNewswire/ -- The Marine Biological Laboratory (MBL) has received a $3.2 million Research Infrastructure award from the Massachusetts Life Sciences Center (MLSC) to enhance its Central Microscopy Facility. This award will bring two new state-of-the-art...</p>",
+      "beneficiaries": [
+        "MBL"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "XREAL Opens U.S. Sales of X By XREAL a01+, Bringing Big-Screen AR Glasses to More People for $299",
+      "mechanism": "<p>The debut product from XREAL's sub-brand delivers big-screen AR viewing and gaming to a wider audience, now available across xreal.com and major retail channels SAN FRANCISCO, July 10, 2026 /PRNewswire/ -- XREAL, the global leader in lightweight XR hardware development, today announced...</p>",
+      "beneficiaries": [
+        "AR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "IONS SHAREHOLDER INVESTIGATION: SueWallSt Notifies Investors of Potential Securities Claims Involving Ionis Pharmaceuticals",
+      "mechanism": "<p>Ionis Pharmaceuticals lost more than 20% before the market opened -- a decline of nearly $17 -- after its Phase-3 CARDIO-TTRansform trial missed its primary endpoint. SueWallSt notifies investors of a pending investigation into potential securities law violations on behalf of IONS...</p>",
+      "beneficiaries": [
+        "IONS"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten Sie klar exponierte US-Tech- und Krypto-Positionen (High Beta Growth). Neutral bleiben breitere europäische Indizes, solange die Divergenz anhält. Untergewichten sollten Assets, deren Performance vom Tech-Sektor abkoppelt ist (z.B. ESTX50).\n\n*Was NICHT tun:* Ignorieren Sie die strukturelle Diskrepanz zwischen dem US-Tech-Aufschwung und der Underperformance anderer Regionen oder Rohstoffklassen wie Gold (-0.47%)."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
