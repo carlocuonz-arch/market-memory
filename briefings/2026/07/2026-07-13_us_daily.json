@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-13",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktregime bleibt trotz divergierender Anzeichen primär als Risk-on und ruhig einzustufen, was sich im signifikanten Rückgang des VIX (-5.11%) bestätigt. Die US-Tech-Sektoren (Nasdaq100 +0.33%, S",
+  "market_regime": "Risk-on / ruhig (VIX 16.4)",
+  "regime_detail": {
+    "vix": 16.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7575.4,
+    "sma200": 6965.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25110.5391,
+      "change_pct": 0.17,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6269.6499,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7575.3901,
+      "change_pct": 0.42,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29825.1094,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52637.0117,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.581,
+      "change_pct": 0.26,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.03,
+      "change_pct": -5.11,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 160.84,
+      "change_pct": -0.82,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1429,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9254,
+      "change_pct": 0.36,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.94,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4068.5,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 78.6,
+      "change_pct": 3.41,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 73.76,
+      "change_pct": 3.29,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63995.7383,
+      "change_pct": 0.37,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1810.4399,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.17% / ESTX50 -0.01%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.33%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.82%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.42%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -5.11% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.26% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.37%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Puerto Rican Cultural Ensemble Guamanique Blends Cultural Exploration and Diplomacy During Four-Country European Tour",
+      "mechanism": "Guamanique blended cultural exploration with performances across Europe, showcasing Puerto Rico while donating books and building lasting global connection",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "U.S. Food and Drug Administration Accepts BioMarin's Supplemental New Drug Application for Full Approval of VOXZOGO® (vosoritide) for Children With Achondroplasia",
+      "mechanism": "<p>Application based on long-term safety and efficacy data from three ongoing studies, including adult height and additional clinical outcomes beyond linear growth, including body proportionality and arm span evaluated over long-term follow-up FDA PDUFA target action date of Feb. 28, 2027...</p>",
+      "beneficiaries": [
+        "BMN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Intezer’s AI SOC Live Hits the Road with a Multi-City Tour for CISOs and Security Leaders",
+      "mechanism": "The tour kicks off on July 15 with peer-led conversations on the best practices for moving AI into the SOC <pre>The tour kicks off on July 15 with peer-led conversations on the best practices for moving AI into the SOC</pre>",
+      "beneficiaries": [
+        "SOC"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Überwichten Sie Tech- und Rohstoff-Expositionen. Untergewichten Sie den Gesundheitssektor (Health -0.82%). Die nominale Stärke des Kryptomarktes (BTC +0.37%) kann als zusätzlicher risikoreicher Multiplikator betrachtet werden.\n*Was NICHT tun:* Ignorieren Sie die steigenden US-Renditen; der Anstieg der US10Y auf 4.581 deutet darauf hin, dass höhere Kapitalkosten in die Bewertung einfließen müssen und eine übermäßige Risikobereitschaft zu vermeiden ist."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
