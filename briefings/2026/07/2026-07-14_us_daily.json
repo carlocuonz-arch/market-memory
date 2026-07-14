@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-14",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt präsentiert sich in einem hochgradig divergierenden Regime: Während das makroökonomische Signal *Risk-on* verweist und der VIX bei 16.78 leicht gefallen ist, weisen die großen Indizes eine s",
+  "market_regime": "Risk-on / ruhig (VIX 16.7)",
+  "regime_detail": {
+    "vix": 16.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7515.3,
+    "sma200": 6969.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25030.0293,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6261.3501,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7515.3398,
+      "change_pct": -0.79,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29264.0996,
+      "change_pct": -1.88,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52498.6406,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.577,
+      "change_pct": -0.69,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.78,
+      "change_pct": -2.21,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.41,
+      "change_pct": 0.35,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1453,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9243,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.731,
+      "change_pct": -0.54,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4083.1001,
+      "change_pct": 2.15,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 86.48,
+      "change_pct": 3.82,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.56,
+      "change_pct": 3.1,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62239.1211,
+      "change_pct": -2.38,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1773.5007,
+      "change_pct": -1.79,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.34% / ESTX50 -0.15%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.88%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.35%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.79%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.21% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.69% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.38%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ONAR Holding Corporation Returns to Current SEC Reporting Status and Reports Fiscal Year 2025 and First Quarter 2026 Results",
+      "mechanism": "First quarter 2026 revenue increased 39% year-over-year, loss from operations improved 68% and net cash used in operations improved 40%; fiscal year 2025 revenue grew 63% and gross profit returned to positive <pre>First quarter 2026 revenue increased 39% year-over-year, loss from operations improved 68% and net cash used in operations improved 40%; fiscal year 2025 revenue grew 63% and gross profit returned to positive</pre>",
+      "beneficiaries": [
+        "ONAR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "BioAge Labs, partenaire de HitGen, a administré la première dose à un participant dans le cadre de l'essai de phase 2 du BGE-102, un nouvel inhibiteur oral de NLRP3 destiné à réduire les risques cardiovasculaires",
+      "mechanism": "<p>CHENGDU, Chine, 14 juillet 2026 /PRNewswire/ -- La société HitGen Inc., cotée à la Bourse de Shanghai (« HitGen », SSE : 688222.SH), félicite son partenaire BioAge Labs, Inc. (« BioAge », NASDAQ : BIOA), une société biopharmaceutique au stade clinique qui met au point des produits...</p>",
+      "beneficiaries": [
+        "BIOA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Biogen Presents Phase 2 CELIA Data at AAIC Demonstrating Meaningful Clinical Outcomes and Robust Tau Reduction with Diranersen in Early Alzheimer’s Disease",
+      "mechanism": "<p>CAMBRIDGE, Mass., July  14, 2026  (GLOBE NEWSWIRE) -- <a href=\"https://www.globenewswire.com/Tracker?data=gMI1DE-DIoqbtB4wo1FmmIDcD9A0apFoFY-3qKYLfXnHbPVgZmQdYmvlICnbmEaS1kRXOeksBpGd8sgjdUawjA==\" rel=\"nofollow\" target=\"_blank\" title=\"Biogen\">Biogen</a> Inc. (Nasdaq: BIIB) today announced data from the Phase 2 CELIA study evaluating diranersen, an investigational antisense oligonucleotide (ASO) therapy targeting tau, in individuals with early Alzheimer’s disease. The data, presented at the Alzheimer’s Association International Conference (AAIC) 2026, expand upon previously reported topline results and demonstrate a combination of meaningful clinical efficacy and robust biomarker effects, providing Phase 2 proof of concept for diranersen’s tau-directed mechanism of action. Based on the growing and consistent body of evidence from the Phase 1b and Phase 2 studies, Biogen plans to advance diranersen into confirmatory Phase 3 development.<sup>1</sup></p>",
+      "beneficiaries": [
+        "BIIB"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten defensive Assets und Rohstoffe bleiben, insbesondere Energie (Brent +3.82%) und Gold (+2.15%). Neutral bis leicht untergewichtet ist der Technologiebereich aufgrund des -1.88% Einbruchs am Nasdaq100.\n*Was NICHT tun:* Momentum-Trades in hochvolatilen Beta-Assets wie dem Kryptomarkt (BTC -2.38%) oder im Tech-Sektor sind aktuell kontraindiziert, da die Liquidität dort stark unter Druck steht."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
