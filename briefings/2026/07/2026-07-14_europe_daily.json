@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-14",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Bild ist von einer signifikanten Divergenz geprägt: Während die Rohstoffpreise – insbesondere Brent (+1.68%) und WTI (+1.80%) – eine beeindruckende Aufwärtsbewegung zeigen, signal",
+  "market_regime": "Risk-on / ruhig (VIX 17.2)",
+  "regime_detail": {
+    "vix": 17.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7515.3,
+    "sma200": 6969.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25114.25,
+      "change_pct": 0.19,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6271.02,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7515.3398,
+      "change_pct": -0.79,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29264.0996,
+      "change_pct": -1.88,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52498.6406,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.609,
+      "change_pct": 0.88,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.16,
+      "change_pct": 14.17,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.41,
+      "change_pct": 0.35,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.139,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9272,
+      "change_pct": 0.45,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.224,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4034.5,
+      "change_pct": 0.94,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 84.7,
+      "change_pct": 1.68,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 79.55,
+      "change_pct": 1.8,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62239.1211,
+      "change_pct": -2.38,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1773.5007,
+      "change_pct": -1.79,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.19% / ESTX50 +0.02%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.88%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.35%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.79%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +14.17% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.88% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.38%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Robo.ai Announces Core Executive Appointments, Forming a Local UAE Leadership Team at Neurovia AI",
+      "mechanism": "<p>ABU DHABI, UAE, July 14, 2026 /PRNewswire/ -- Robo.ai Inc. (NASDAQ: AIIO) (\"Robo.ai\" or the \"Company\") today announced a series of senior executive appointments in its subsidiary Neurovia AI, an AI visual data processing and compression technology company. Mr. Khalifa Mohammed Alshehhi...</p>",
+      "beneficiaries": [
+        "AIIO"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Dizal Announces Global Exclusive License Agreement with AstraZeneca for Zegfrovy",
+      "mechanism": "<p>Dizal grants AstraZeneca worldwide rights to develop and commercialise Zegfrovy Dizal will receive an upfront payment of $600M, and milestone payments of up to $900M. Additionally, Dizal will receive tiered royalties on the global sales of Zegfrovy. SHANGHAI, July 14, 2026 /PRNewswire/ --...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Aker Solutions ASA: Second-quarter and half-year results 2026",
+      "mechanism": "<p>OSLO, Norway, July 14, 2026 /PRNewswire/ -- Aker Solutions delivered solid financial performance in the second quarter and the first half of 2026. Several key project milestones were met during the quarter. Aker Solutions now expects 2026 revenue to be between NOK 50 and 55 billion with...</p>",
+      "beneficiaries": [
+        "ASA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung) Wir sehen eine **neutrale** Gesamtpositionierung, die jedoch stark auf defensive Assets mit physischer Wertbasis zu gewichten ist. Im Kontext der vorliegenden Daten sollte man daher *Overweight* Commodities und *Underweight* hochsensible Technologie-Wachstumsaktiva (insbesondere US Tech) vergeben. **Was NICHT tun:** Man darf nicht versuchen, den Momentum-Abschwung des Nasdaq100 oder die Liquiditätsverkäufe im Kryptobereich durch kurzfristige Überdimensionierung von Long-Positionen zu kompensieren; der Anstieg der Volatilität ist hier das primäre Warnsignal."
+  },
+  "confidence": {
+    "level_pct": 57,
+    "conviction_pct": 57,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
