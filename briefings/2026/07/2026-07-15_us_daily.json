@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-15",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime bleibt kanonisch als Risk-on/ruhig verortet (VIX 16.1), doch die Performance der Indizes ist stark divergent. Während Tech-Sektoren wie der Nasdaq100 (+1.10%) eine robuste Dynamik zei",
+  "market_regime": "Risk-on / ruhig (VIX 16.1)",
+  "regime_detail": {
+    "vix": 16.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7543.6,
+    "sma200": 6974.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24997.3496,
+      "change_pct": -0.6,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6274.9199,
+      "change_pct": -0.08,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7543.5898,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29586.2891,
+      "change_pct": 1.1,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52508.2695,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.569,
+      "change_pct": -0.35,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.18,
+      "change_pct": -1.94,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 158.29,
+      "change_pct": -1.93,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1429,
+      "change_pct": 0.39,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9244,
+      "change_pct": -0.3,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.812,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4072.2,
+      "change_pct": 0.27,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 85.3,
+      "change_pct": 0.67,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.17,
+      "change_pct": 1.05,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65254.8711,
+      "change_pct": 0.46,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1935.42,
+      "change_pct": 2.43,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.60% / ESTX50 -0.08%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.10%."
+    },
+    "health_rotation": {
+      "score": -2,
+      "interpretation": "XLV -1.93%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.38%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -1.94% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.35% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.46%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Corel Corporation Grows its Executive Leadership Team",
+      "mechanism": "Corel announces additions to its Executive Leadership Team as the company begins its next chapter of growth following acquisition by Vector Capital.",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Canaan Inc. Receives Additional 180-day Compliance Period from Nasdaq to Regain Compliance with Minimum Bid Price Requirement",
+      "mechanism": "<p>SINGAPORE, July 15, 2026 /PRNewswire/ -- Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), an innovator in compute and energy infrastructure, today announced that it has received written notification from The Nasdaq Stock Market LLC (\"Nasdaq\") granting the Company an additional...</p>",
+      "beneficiaries": [
+        "CAN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Solution Tree Books Earn Bronze in Both Foreword INDIES and IPPY Awards",
+      "mechanism": "<p>BLOOMINGTON, Ind., July 15, 2026 /PRNewswire/ -- Solution Tree Press announces its recent award winners in both the Foreword INDIES Book of the Year Awards and the Independent Publisher Book Awards (IPPY). The Green Literacy Handbook by Jen Cullerton Johnson and Mary K. Gove, earned...</p>",
+      "beneficiaries": [
+        "IPPY"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch ist ein Übergewichten von Tech-Giganten sowie Rohstoffpositionen zu empfehlen, da diese die klaren Performance-Treiber darstellen. Neutral sollte man die breiteren europäischen Indizes (DAX) bewerten und defensiv gegenüber Sektoren wie Health (-1.93%) agieren. Was NICHT getan werden sollte: Eine allzu starke Gewichtung auf breit gestreute europäische oder defensive Positionen, da diese aktuell unter dem Marktdurchschnitt liegen."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
