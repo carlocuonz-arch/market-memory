@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-15",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist formell als Risk-on / ruhig definiert, was durch den Rückgang des VIX (-3.85%) untermauert wird. Die Performance ist von einem Spannungsfeld geprägt: Während der US-Tec",
+  "market_regime": "Risk-on / ruhig (VIX 16.5)",
+  "regime_detail": {
+    "vix": 16.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7543.6,
+    "sma200": 6974.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25147.0293,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6280.1899,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7543.5898,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29586.2891,
+      "change_pct": 1.1,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52508.2695,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.585,
+      "change_pct": -0.52,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.5,
+      "change_pct": -3.85,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 158.29,
+      "change_pct": -1.93,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1446,
+      "change_pct": 0.54,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9252,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.761,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4032.3,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 85.33,
+      "change_pct": 0.71,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 79.64,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64934.1992,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1884.51,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.13% / ESTX50 +0.15%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.10%."
+    },
+    "health_rotation": {
+      "score": -2,
+      "interpretation": "XLV -1.93%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.38%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -3.85% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.52% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.03%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "NBPE Announces Transaction in Own Shares",
+      "mechanism": "<p align=\"justify\">THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS</p>",
+      "beneficiaries": [
+        "ANY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Hanshow Signs Strategic Partner Agreement with Microsoft to Accelerate Smart Retail Innovation",
+      "mechanism": "<p>REDMOND, Wash., July 15, 2026 /PRNewswire/ -- Hanshow, a global leader in digital store solutions, signed a Strategic Partner Agreement with Microsoft at the Microsoft Executive Briefing Center in Redmond, Washington, marking a new milestone in the companies' long-standing collaboration...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Richemont posts strong start to the year with sales up by 20% at constant rates for its first quarter ended 30 June 2026",
+      "mechanism": "<p align=\"center\"> <b>AD HOC ANNOUNCEMENT PURSUANT TO ART. 53 LR</b><br /><b>15 JULY 2026</b></p>",
+      "beneficiaries": [
+        "AD"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten Sie Tech und Rohstoffe; Untergewichten Sie den Gesundheitssektor. Die Ausrichtung sollte die positive Momentum-Quelle aus dem US-Tech-Raum nutzen, während das Risiko des Health-Sektors (Score -2) explizit gemieden werden muss.\n*Was NICHT tun:* Keine Allokation in Sektoren mit negativer Rotationsgewichtung; insbesondere der Gesundheitssektor ist aufgrund seiner aktuellen Schwäche ein striktes No-Go."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
