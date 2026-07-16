@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-16",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime präsentiert sich in einer signifikanten Diskrepanz: Offiziell wird ein „Risk-on“ / ruhiges Umfeld verzeichnet, doch die technischen Indikatoren signalisieren eine erhöhte Volatilität ",
+  "market_regime": "Risk-on / ruhig (VIX 16.3)",
+  "regime_detail": {
+    "vix": 16.3,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7572.4,
+    "sma200": 6978.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24785.4297,
+      "change_pct": -0.86,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6230.3999,
+      "change_pct": -0.56,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7572.3999,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29502.5996,
+      "change_pct": -0.28,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52658.6406,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.586,
+      "change_pct": 0.9,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.18,
+      "change_pct": 3.25,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 158.29,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1461,
+      "change_pct": 0.32,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9252,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.612,
+      "change_pct": 0.11,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 3999.5,
+      "change_pct": -1.1,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 85.89,
+      "change_pct": 1.11,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.48,
+      "change_pct": 1.11,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64190.5117,
+      "change_pct": -0.81,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1882.4399,
+      "change_pct": -1.8,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.86% / ESTX50 -0.56%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.28%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.00%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.38%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +3.25% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.90% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.81%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "SHAREHOLDER ALERT Bernstein Liebhard LLP Announces A Securities Fraud Class Action Lawsuit Has Been Filed Against GPGI, Inc. (GPGI)",
+      "mechanism": "GPGI Shareholders Between November 3, 2025 and May 6, 2026 - Contact Bernstein Liebhard For More Information Regarding Lawsuit",
+      "beneficiaries": [
+        "GPGI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "SHAREHOLDER ALERT Bernstein Liebhard LLP Announces A Securities Fraud Class Action Lawsuit Has Been Filed Against ADMA Biologics, Inc. (ADMA)",
+      "mechanism": "ADMA Biologics Shareholders Between August 9, 2024 and March 25, 2026 - Contact Bernstein Liebhard For More Information Regarding Lawsuit",
+      "beneficiaries": [
+        "ADMA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "ASRC Federal Awarded Major U.S. Air Force Industrial Product Support Vendor Contract",
+      "mechanism": "<p>ASRC Federal awarded a $1.5B U.S. Air Force Industrial Product Support Vendor (IPV) contract supporting three Air Logistics Complexes. The company will deliver comprehensive demand planning, sourcing, procurement, distribution and kitting services to sustain depot maintenance operations....</p>",
+      "beneficiaries": [
+        "IPV"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund des widersprüchlichen Signals zwischen dem nominalen „Risk-on“-Regime und der technischen Volatilitätszunahme ist eine **neutrale bis defensiv** positionierte Haltung ratsam. Die Gewinne in den Rohstoffen (Brent/WTI) rechtfertigen ein gewisses Gewicht, während die Zinsanfälligkeit Vorsicht gebietet.\n*Was NICHT tun:* Nicht überdimensioniertes Risiko-Kapital in Sektoren mit hohem Beta oder starkem Tech-Exposure zu allokieren, solange der VIX diesen Anstieg beibehält."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
