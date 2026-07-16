@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-16",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die globale Marktstimmung präsentiert sich heute ambivalent: Während die US-Indizes, insbesondere der S&P 500 (+0.38%), Momentum zeigen, verzeichneten europäische Titel wie DAX (-0.59%) und ESTX50 (-0",
+  "market_regime": "Risk-on / ruhig (VIX 15.7)",
+  "regime_detail": {
+    "vix": 15.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7572.4,
+    "sma200": 6978.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24999.5293,
+      "change_pct": -0.59,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6265.5801,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7572.3999,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29502.5996,
+      "change_pct": -0.28,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52658.6406,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.545,
+      "change_pct": -0.87,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.67,
+      "change_pct": -5.03,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 158.29,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1472,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9244,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.508,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4034.3,
+      "change_pct": -0.24,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 84.67,
+      "change_pct": -0.33,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 79.47,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64770.0781,
+      "change_pct": -0.29,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1921.15,
+      "change_pct": 1.68,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.59% / ESTX50 -0.23%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.28%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.00%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.38%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -5.03% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.87% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.29%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Sobi Q2 2026 report: Significant growth with important pipeline progress",
+      "mechanism": "<p>STOCKHOLM, July 16, 2026 /PRNewswire/ -- Swedish Orphan Biovitrum AB (publ) (Sobi®) today announced its report for the second quarter of 2026. Second Quarter 2026 Total revenue increased 29 per cent at CER (constant exchange rates), 27 per cent at actual rates, to SEK 7,842 M (6,175)...</p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "AS Tallink Grupp Investor Webinar Introducing the Second Quarter 2026 Results",
+      "mechanism": "<p>AS Tallink Grupp will introduce the second quarter 2026 results in an investor webinar. All shareholders and other stakeholders are invited to join the webinar, which will take place on <b>23</b> <b>July 2026 at 12:00 (EEST)</b>.<b> </b>The webinar will be held in English.</p>",
+      "beneficiaries": [
+        "EEST"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Standard Chartered Selects Broadcom to Deliver Secure, Always-On Banking Services at Global Scale",
+      "mechanism": "Broadcom and Standard Chartered today announced a long-term strategic commitment to accelerate the bank’s global infrastructure modernization.",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen eine relative Übergewichtung der US-Tech-Sektoren und altcoin-spezifischer Assets (ETH) gegenüber dem europäischen Gesamtmarkt. Neutral bis Untergewichtet ist die Allokation in europäische breite Indizes, solange diese Divergenz anhält.\n*Was NICHT tun:* Aufgrund des signifikanten VIX-Rückgangs (-5.03%) sollte man keine Überdimensionierung von „Complacency Plays“ vornehmen; das impliziert eine erhöhte Vorsicht bei kurzfristig überhitzten Sektoren, die nicht durch fundamentales Momentum gestützt werden."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
