@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-17",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Trotz der formalen Klassifizierung als „Risk-on“ zeigt sich ein deutlicher Bruch im Marktgeschehen: Die breiten Indizes verzeichnen signifikante Einbußen, wobei insbesondere die Technologie- und Krypt",
+  "market_regime": "Risk-on / ruhig (VIX 18.5)",
+  "regime_detail": {
+    "vix": 18.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7533.8,
+    "sma200": 6983.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24714.8594,
+      "change_pct": -0.81,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6202.5,
+      "change_pct": -1.29,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7533.77,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29025.7695,
+      "change_pct": -1.62,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52552.9688,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.535,
+      "change_pct": -0.74,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 19.06,
+      "change_pct": 13.93,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.8,
+      "change_pct": 2.22,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.143,
+      "change_pct": -0.35,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9229,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.851,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 3975.3,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 86.64,
+      "change_pct": 2.86,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.8,
+      "change_pct": 2.34,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62781.5195,
+      "change_pct": -1.58,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1813.9301,
+      "change_pct": -2.64,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.81% / ESTX50 -1.29%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.62%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +2.22%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.51%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +13.93% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.74% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.58%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "AB Novaturas notification on the allocation of new shares to Mr Neşet Koçkar and on the final number of the allocated new shares",
+      "mechanism": "<p align=\"justify\">On 17 July 2026, the Board of AB Novaturas (hereinafter - the Company), referring to the resolutions of the (repeated) annual general meeting of shareholders of the Company held on 12 June 2026 (hereinafter - the Resolutions), also the resolution of the Board of the Company adopted on 15 July 2026 on the allocation of new shares to the Existing Shareholders of the Company (as described in the exemption document of the Company, dated 30 June 2026), <i>inter alia </i>decided: (i) to allocate 10,010,362 new shares to Mr Neşet Koçkar (from this number 3,436,477 shares were allocated to Mr. Neşet Koçkar upon his exercise of his pre-emptive right, and 6,573,885 shares were allocated upon the subscription of shares not subscribed for by other shareholders of the Company); (ii) to determine that the final number of new shares of the Company issued in fulfilment of the Resolutions is 10,294,119; and (iii) to determine that the increase of the Company’s authorised capital by issuing the above-mentioned number of new shares is deemed completed.</p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Reo.Dev Raises $11.3 Million Series A to Scale AI Signals for Companies Selling to Engineering Teams",
+      "mechanism": "<p>SAN FRANCISCO, July 17, 2026 /PRNewswire/ -- Just eight months after announcing its Seed round, Reo.Dev, the AI-native GTM platform built for companies selling to engineering and technical teams, today announced an $11.3 million Series A led by Elevation Capital, with participation from...</p>",
+      "beneficiaries": [
+        "SAN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Zensar Launches ZenseAI.AssureAI to Help Enterprises Test, Validate, and Trust AI at Scale",
+      "mechanism": "<p>PRINCETON, N.J., July 17, 2026 /PRNewswire/ -- Zensar Technologies, a leading experience, engineering, and engagement technology solutions company and part of the RPG Group, today announced the launch of ZenseAI.AssureAI, a comprehensive AI assurance and quality engineering offering...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Angesichts des Volatilitäts-Spikes und der Schwäche in zyklischen Sektoren ist eine defensive Übergewichtung (Overweight) von Healthcare-Positionen ratsam. Wir sehen einen neutralen Ansatz bei globaler Liquidität, solange die Energiemärkte diesen kommoditären Anstieg beibehalten. **Was NICHT zu tun ist:** Die Allokation in Tech- oder Krypto-Assets sollte aufgrund des negativen Scoring (-2) und der signifikanten Kursrückgänge strikt vermieden werden."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
