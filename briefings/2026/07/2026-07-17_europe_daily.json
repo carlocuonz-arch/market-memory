@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-17",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime wird formal als \"Risk-on / ruhig\" eingestuft, doch die tatsächlichen Kursbewegungen signalisieren eine signifikante Divergenz und einen erhöhten Stressgrad. Der VIX stieg u",
+  "market_regime": "Risk-on / ruhig (VIX 16.7)",
+  "regime_detail": {
+    "vix": 16.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7533.8,
+    "sma200": 6983.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24915.4902,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6283.6099,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7533.77,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29025.7695,
+      "change_pct": -1.62,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52552.9688,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.569,
+      "change_pct": 0.53,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.73,
+      "change_pct": 6.76,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.8,
+      "change_pct": 2.22,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1452,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9248,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.694,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4005.8999,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 84.14,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 78.31,
+      "change_pct": -0.81,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62869.7188,
+      "change_pct": -1.44,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1832.9,
+      "change_pct": -1.63,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.34% / ESTX50 +0.29%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.62%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +2.22%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.51%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +6.76% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.53% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.44%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Volvo Group - the second quarter 2026",
+      "mechanism": "<p>GOTHENBURG, Sweden, July 17, 2026 /PRNewswire/ -- \"The second quarter of 2026 demonstrates the strength and adaptability of the Volvo Group. We delivered net sales of SEK 126.3 billion, with an organic sales growth of 7%. This improvement was broad-based with vehicle sales growing 6% and...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Sequential growth across all revenue streams",
+      "mechanism": "<p>STOCKHOLM, July 17, 2026 /PRNewswire/ -- Interim report January-June 2026 Truecaller, the leading global platform for safe and trusted communication, report a decrease in net sales with 21% to SEK 393.2 million (496.4), the decrease in constant currencies was 14%. In constant currencies...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Volvo Cars Q2 2026: executing in a very challenging environment",
+      "mechanism": "<p>GOTHENBURG, Sweden, July 17, 2026 /PRNewswire/ -- Volvo Cars today released its results for the second quarter of 2026, highlighted by the delivery of SEK 5 billion in targeted full-year cost savings six months ahead of schedule. Q2 revenue was SEK 77.7 bn (SEK 93.5 bn in Q2 2025,...</p>",
+      "beneficiaries": [
+        "VOLVO"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch empfehlen wir eine neutrale Gesamtpositionierung mit einem klaren Übergewichten des Gesundheitssektors ('Health Rotation: 2'). Aufgrund der signifikanten Überhitzung und dem daraus resultierenden erhöhten Risiko ist das Untergewichten von rein wachstumsgetriebenen, zyklischen Tech-Assets (us_tech: -2) zwingend geboten. Was NICHT getan werden darf, ist die Verfolgung des \"Risk-on\"-Narrativs durch Long-Positionen in hochvolatilen oder technologieabhängigen Assets bei gleichzeitig steigenden Zinsrenditen."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
