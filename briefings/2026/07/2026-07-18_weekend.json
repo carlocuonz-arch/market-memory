@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-18",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime zeigt eine deutliche Divergenz zwischen dem kanonischen \"Risk-on\" Label und den tatsächlichen Kursbewegungen, die von einem klaren Risk-Off-Momentum geprägt sind. Der Anstieg des VIX ",
+  "market_regime": "Risk-on / ruhig (VIX 18.8)",
+  "regime_detail": {
+    "vix": 18.8,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7457.7,
+    "sma200": 6987.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24830.9805,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6230.8701,
+      "change_pct": -0.84,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7457.6899,
+      "change_pct": -1.01,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28592.6602,
+      "change_pct": -1.49,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52146.4219,
+      "change_pct": -0.77,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.541,
+      "change_pct": -0.61,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.77,
+      "change_pct": 12.19,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.09,
+      "change_pct": -0.44,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1446,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.923,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.75,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4012.7,
+      "change_pct": 0.68,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.1,
+      "change_pct": 4.59,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.49,
+      "change_pct": 4.48,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63935.4297,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1843.61,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.34% / ESTX50 -0.84%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.49%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.44%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.01%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.19% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.61% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.06%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "GNS Investors Have Opportunity to Lead Genius Group Limited Securities Fraud Lawsuit Against Citadel Securities LLC and Virtu Americas LLC",
+      "mechanism": "<p>NEW YORK, July 17, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers or sellers of securities of Genius Group Limited (NYSE American: GNS) between April 12, 2022 and May 30, 2025, inclusive (the \"Class Period\"), of the important August 28,...</p>",
+      "beneficiaries": [
+        "GNS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "WeRide Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized",
+      "mechanism": "WeRide (NASDAQ: WRD) Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized",
+      "beneficiaries": [
+        "WRD"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "BTU Stockholders Have Rights – If You Lost Money Investing in Peabody Energy Corporation Contact Robbins LLP for Information About Recovering Your Losses",
+      "mechanism": "BTU Stockholders Have Rights – If You Lost Money Investing in Peabody Energy Corporation Contact Robbins LLP for Information About Recovering Your Losses",
+      "beneficiaries": [
+        "BTU"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen einen defensiven Tilt mit Übergewichtung von Rohstoff-Assets (Gold +0.68%, Brent/WTI stark positiv). Aufgrund der negativen Signale in den Tech-Sektoren und der erhöhten Volatilität ist eine neutrale Haltung bei breiten Technologie-Exposures ratsam.\n*Was NICHT tun:* Untergewichten Sie nicht die Energiekommoditäten; sie bieten derzeit das höchste Signal-Rausch-Verhältnis im Vergleich zu den restlichen Assetklassen, welche unter Druck geraten sind."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
