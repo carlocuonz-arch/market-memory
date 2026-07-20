@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist formal als „Risk-on“ klassifiziert, doch die Kursdynamik der großen Indizes – insbesondere des Nasdaq100 (-1.49%) und S&P 500 (-1.01%) – signalisiert einen deutlichen G",
+  "market_regime": "Risk-on / ruhig (VIX 18.1)",
+  "regime_detail": {
+    "vix": 18.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7457.7,
+    "sma200": 6987.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24801.7695,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6225.0698,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7457.6899,
+      "change_pct": -1.01,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28592.6602,
+      "change_pct": -1.49,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52146.4219,
+      "change_pct": -0.77,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.568,
+      "change_pct": 0.59,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.13,
+      "change_pct": -3.41,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.09,
+      "change_pct": -0.44,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1423,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9238,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.897,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4013.7,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.08,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 81.66,
+      "change_pct": -1.01,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64473.0117,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1867.87,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.12% / ESTX50 -0.09%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.49%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.44%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.01%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -3.41% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.59% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.34%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Castor Maritime Inc. Announces the Date of its 2026 Annual General Meeting of Shareholders",
+      "mechanism": "<p align=\"justify\">LIMASSOL, Cyprus, July  20, 2026  (GLOBE NEWSWIRE) -- Castor Maritime Inc. (NASDAQ: CTRM), (“Castor” or the “Company”), a diversified global shipping and energy company, announced today that its Board of Directors (the \"Board\") has scheduled the Company’s 2026 Annual General Meeting of Shareholders (the \"Meeting\") to be held on September 11, 2026, at 6:00 p.m., local time, at 223 Christodoulou Chatzipavlou Street, Hawaii Royal Gardens, 3036 Limassol, Cyprus. The Board has fixed a record date of July 17, 2026 (the \"Record Date\") for the determination of the shareholders entitled to receive notice of and to vote at the Meeting or any adjournment thereof.</p>",
+      "beneficiaries": [
+        "CTRM"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "CodeHunter CEO Ken Ammon to Present Session on “The Next Trust Boundary” at 2026 Cyber Security Summit DC",
+      "mechanism": "Ken Ammon will discuss why software security must move toward pre-execution behavior analysis and extend Zero Trust  principles directly to code.",
+      "beneficiaries": [
+        "DC"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Xometry Releases Comprehensive Upgrades to Its AI Model Architecture",
+      "mechanism": "Leveraging Xometry’s proprietary data stack, the upgrades sharpen process recommendations, cost accuracy, and sourcing speed <pre>Leveraging Xometry’s proprietary data stack, the upgrades sharpen process recommendations, cost accuracy, and sourcing speed</pre>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Die generelle Gewichtung sollte neutral gehalten werden, mit einer leichten Untergewichtung in reinen Technologie- und Wachstumstiteln aufgrund des Zinsdrucks. Übergewichtet sind defensive Sektoren oder spezifisch von industriellen Upgrades (z.B. RTX) profitierten Nischen. **Was NICHT tun:** Nicht auf die kurzfristige VIX-Bewegung (-3.41%) zu reagieren, da diese im Kontext der allgemeinen Indexschwäche eine Verdeckung des zugrundeliegenden Zinsrisikos darstellen könnte."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
