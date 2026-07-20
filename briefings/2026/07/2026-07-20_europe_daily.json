@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-20",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das deklarierte Risk-on-Regime wird durch eine signifikante Volatilitätsspitze entlarvt, da der VIX um 12.19% stieg und die globalen Indizes – darunter Nasdaq100 (-1.49%) und S&P 500 (-1.01%) – deutli",
+  "market_regime": "Risk-on / ruhig (VIX 18.8)",
+  "regime_detail": {
+    "vix": 18.8,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7457.7,
+    "sma200": 6987.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24830.9805,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6230.8701,
+      "change_pct": -0.84,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7457.6899,
+      "change_pct": -1.01,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28592.6602,
+      "change_pct": -1.49,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52146.4219,
+      "change_pct": -0.77,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.541,
+      "change_pct": -0.61,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.77,
+      "change_pct": 12.19,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.09,
+      "change_pct": -0.44,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.144,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9232,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.741,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4013.0,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 91.0,
+      "change_pct": 3.29,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 84.14,
+      "change_pct": 2.0,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64077.0312,
+      "change_pct": -0.95,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1855.29,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.34% / ESTX50 -0.84%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.49%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.44%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.01%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.19% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.61% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.95%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Lockheed Martin Introduces PAC-3 ACE™ - A High-Performance, Low-Cost Interceptor",
+      "mechanism": "<p>PAC-3 ACE costs less than half of PAC-3 MSE FARNBOROUGH, England, July 20, 2026 /PRNewswire/ -- Lockheed Martin (NYSE: LMT) today announced the introduction of the PAC-3® Adapted Capability Effector (PAC-3 ACE™), a low-cost interceptor built to defeat a wide range of air and missile...</p>",
+      "beneficiaries": [
+        "LMT"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Lockheed Martin Unveils MORFIUS™ X-Rotor: The New Drone‑Killer Set to Power America's Fight Against Swarms",
+      "mechanism": "<p>New airborne high power microwave counter‑drone system can neutralize more than 50 enemy drones in a single flight and be reused in the field FARNBOROUGH, England, July 20, 2026 /PRNewswire/ -- Commercial swarms of hostile drones are fast becoming the biggest threat to allied forces on...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "MatchMove Receives Frost &amp; Sullivan's 2026 Asia-Pacific Cross-Border Payment and Remittance Solution Technology Innovation Leadership and 2026 Singapore Embedded Finance Company of the Year Recognitions for Advancing Embedded Finance and Cross-Border Payment Innovation",
+      "mechanism": "<p>The company is recognized for its leadership in embedded finance, cross-border payments, and programmable financial infrastructure, enabling enterprises to accelerate digital transformation across Asia-Pacific. SAN ANTONIO, July 20, 2026 /PRNewswire/ -- Frost & Sullivan is pleased to...</p>",
+      "beneficiaries": [
+        "SAN"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Angesichts des Volatilitäts-Schocks ist ein Übergewichten von defensiven Sektoren sowie Rohstoffen (Commodities) zu empfehlen, während zyklischen Tech-Positionen untergewichtet werden sollten. **Was NICHT tun:** Man sollte keine überdimensionierten Allokationen in breit gestreute Technologie-ETFs vornehmen, solange die Volatilität auf diesem Niveau verharrt."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
