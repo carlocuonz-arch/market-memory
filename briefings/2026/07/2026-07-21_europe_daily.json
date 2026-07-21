@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-21",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime präsentiert sich in einer signifikanten Divergenz: Offiziell wird ein *Risk-on*-Umfeld verzeichnet, was durch die starke Performance von Kryptowährungen (BTC +1.68%, ETH +3",
+  "market_regime": "Risk-on / ruhig (VIX 18.6)",
+  "regime_detail": {
+    "vix": 18.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 722.1,
+    "sma200": 718.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24846.6895,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6227.3999,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7443.2798,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28604.2305,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51839.2617,
+      "change_pct": -0.59,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.598,
+      "change_pct": 1.26,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.65,
+      "change_pct": -0.64,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 159.25,
+      "change_pct": -1.14,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1423,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9247,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.921,
+      "change_pct": -0.07,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4076.0,
+      "change_pct": 1.64,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.41,
+      "change_pct": -0.91,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.1,
+      "change_pct": -1.36,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65778.2969,
+      "change_pct": 1.68,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1931.17,
+      "change_pct": 3.19,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.06% / ESTX50 -0.06%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.04%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.14%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.19%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -0.64% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.26% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +1.68%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Alfa Laval AB (publ) Interim report 1 April - 30 June 2026",
+      "mechanism": "<p>LUND, Sweden, July 21, 2026 /PRNewswire/ -- Highlights Order intake was SEK 22.2 (16.4) billion, an increase of 35 percent. The organic increase was 29 percent. Net sales increased by 8 percent to SEK 18.1 (16.8) billion, with an organic increase of 6 percent. Adjusted EBITA increased by...</p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "OMEICOS’ OMT-28 Headed for Phase 3 in Primary Mitochondrial Diseases (PMD) Following Positive End-of-Phase 2 Meeting with the FDA",
+      "mechanism": "OMEICOS has successfully completed the End-of-Phase 2 (EOP2) meeting with the U.S. FDA enabling a pivotal study in Primary Mitochondrial Disease (PMD).",
+      "beneficiaries": [
+        "PMD"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Hedgehog USA Signs Strategic Energy Supply Agreement with Idemitsu to Advance Powered Land Data Center Platform in Texas",
+      "mechanism": "<p>CHICAGO, July 21, 2026 /PRNewswire/ -- Hedgehog USA (\"Hedgehog\" or \"the Company\"), a developer of next-generation powered land solutions for digital infrastructure, today announced it has entered into an agreement for long-term energy supply agreement with Idemitsu, a leading global...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen eine Übergewichtung von Tech- und Digital Asset Expositionen aufgrund des Liquiditätszuflusses, während wir die breiten europäischen Indizes (ESTX50 -0.06%) neutral halten, bis sich das Zinsregime stabilisiert. Untergewichtet sollte der zyklische Rohstoffbereich bleiben. **Was NICHT zu tun ist:** Eine Überbetonung von traditionellen Value-Sektoren oder rohstoffabhängigen Anlagen, da diese aktuell signifikant unter Druck stehen und die Rate-Sensitivität überwiegt."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
