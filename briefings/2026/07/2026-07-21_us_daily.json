@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-21",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime ist formal als „Risk-on / ruhig“ klassifiziert, was sich in einem niedrigen VIX-Level von 17.82 widerspiegelt. Allerdings signalisiert die Divergenz zwischen den stark gestiegenen Roh",
+  "market_regime": "Risk-on / ruhig (VIX 17.8)",
+  "regime_detail": {
+    "vix": 17.8,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7443.3,
+    "sma200": 6991.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24873.9199,
+      "change_pct": 0.11,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6252.9302,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7443.2798,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28604.2305,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51839.2617,
+      "change_pct": -0.59,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.606,
+      "change_pct": 0.17,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.82,
+      "change_pct": -4.45,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 159.25,
+      "change_pct": -1.14,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1413,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9258,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.051,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4059.6001,
+      "change_pct": 1.23,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 90.82,
+      "change_pct": 1.79,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 84.25,
+      "change_pct": 1.23,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 66389.0625,
+      "change_pct": 1.78,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1935.53,
+      "change_pct": 1.67,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.11% / ESTX50 +0.41%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.04%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.14%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.19%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -4.45% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.17% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +1.78%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ORASIS PHARMACEUTICALS DOUBLES DOWN ON EYE CARE PROFESSIONALS, NOT TELEHEALTH, AS QLOSI® REFILLS REACH 49%¹",
+      "mechanism": "<p>Two new offerings are now available, a First Fill Free program through pharmacy partner BlinkRx, and an in-office dispensing option, giving eye care professionals more ways to help patients start and stay on Qlosi. Fifteen months post-launch, Qlosi refill rates have reached 49%,...</p>",
+      "beneficiaries": [
+        "EYE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Hedgehog USA Signs Strategic Energy Supply Agreement With Idemitsu To Advance Powered Land Data Center Platform",
+      "mechanism": "<p>CHICAGO, July 21, 2026 /PRNewswire/ -- Hedgehog USA (\"Hedgehog\" or \"the Company\"), a developer of next-generation powered land solutions for digital infrastructure, today announced it has entered into a long-term energy supply agreement with Idemitsu, a leading global energy provider, to...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Azurity Announces Plans to Commercialize D-PLEX100 in the U.S. and Canada through Exclusive Partnership with PolyPid",
+      "mechanism": "<p>Woburn, MA, July  21, 2026  (GLOBE NEWSWIRE) -- Azurity Pharmaceuticals, a privately held specialty pharmaceutical company, today announced plans to commercialize D-PLEX<sub>100 </sub> upon approval in the United States and Canada for the prevention of abdominal colorectal surgical site infections (“SSIs”) in partnership with PolyPid Ltd. (“PolyPid”), an innovative biopharmaceutical company dedicated to improving patient outcomes by elevating treatment effectiveness, who will manufacture and supply D-PLEX<sub>100</sub>.</p>",
+      "beneficiaries": [
+        "MA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten Rohstoffe, Kryptowährungen und spezialisierte AI/Tech-Infrastruktur bleiben. Untergewichtet sind breit gestreute US-Aktien (S&P 500 -0.19%) sowie der breite Gesundheitssektor (-1.14%).\n*Was NICHT tun:* Die allgemeine Indexschwäche darf nicht als Indikator für einen systemischen Ausverkauf interpretiert werden; die Performance von BTC (+1.78%) und Commodities übertrifft diese Korrektur deutlich."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
