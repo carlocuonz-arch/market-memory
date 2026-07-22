@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-22",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktbild präsentiert sich als ein paradoxes Hochrisikoregime: Die Aktienmärkte, angeführt vom Nasdaq100 (+1.93%), verzeichnen eine robuste Performance, während gleichzeitig die Volatilität (VIX +",
+  "market_regime": "Risk-on / ruhig (VIX 17.5)",
+  "regime_detail": {
+    "vix": 17.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7509.2,
+    "sma200": 6995.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25166.0195,
+      "change_pct": 0.62,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6310.98,
+      "change_pct": 0.4,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7509.2002,
+      "change_pct": 0.89,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29155.1797,
+      "change_pct": 1.93,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52224.6406,
+      "change_pct": 0.74,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.642,
+      "change_pct": 0.3,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.37,
+      "change_pct": 1.88,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 160.25,
+      "change_pct": 0.63,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1418,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9268,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.107,
+      "change_pct": -0.07,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4135.7002,
+      "change_pct": 1.59,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 93.29,
+      "change_pct": 2.51,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 86.29,
+      "change_pct": 1.63,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65571.4062,
+      "change_pct": -1.4,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1920.29,
+      "change_pct": -0.42,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.62% / ESTX50 +0.40%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.93%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.63%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.89%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +1.88% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.30% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.40%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "CrowdStrike and Cerebras Partner to Power AI Detection and Response on the World's Fastest Inference",
+      "mechanism": "CrowdStrike and Cerebras Partner to Power AI Detection and Response on the World's Fastest Inference",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Allison Transmission to Supply Fully Automatic Transmissions to General Dynamics European Land Systems for EAGLE Series vehicles for German Armed Forces",
+      "mechanism": "<p>Large-scale order extends 20-year partnership between Allison and GDELS INDIANAPOLIS, July 22, 2026 /PRNewswire/ -- Allison Transmission Holdings, Inc. (NYSE: ALSN) today announced it will supply fully automatic transmissions for a significant order with General Dynamics European Land...</p>",
+      "beneficiaries": [
+        "ALSN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "LUCID GROUP, INC. INVESTORS WITH LOSSES HAVE UNTIL JULY 28, 2026 TO JOIN SECURITIES CLASS ACTION – Bernstein Liebhard LLP Announces Deadline",
+      "mechanism": "Lucid Shareholders Between February 25, 2026 and April 13, 2026 - Contact Bernstein Liebhard For More Information Regarding Lawsuit",
+      "beneficiaries": [
+        "LCID"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen ein **Übergewichten** von Tech- und Rohstoffpositionen, während die Gesamtallokation aufgrund der steigenden Volatilität als **Neutral** zu bewerten ist. *Was NICHT tun:* Eine Überbetonung auf spekulative Assets wie Kryptowährungen (BTC -1.40%) oder eine Vernachlässigung des sich erhöhenden VIX-Niveaus sind kontraindiziert."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
