@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-22",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist eindeutig risk-on, was durch den niedrigen VIX-Stand von 17.0 und die breite Rally der Indizes bestätigt wird. Der Tech-Sektor bleibt der dominierende Motor, wie das Na",
+  "market_regime": "Risk-on / ruhig (VIX 17.0)",
+  "regime_detail": {
+    "vix": 17.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7509.2,
+    "sma200": 6995.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25011.3496,
+      "change_pct": 0.66,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6285.6299,
+      "change_pct": 0.94,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7509.2002,
+      "change_pct": 0.89,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29155.1797,
+      "change_pct": 1.93,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52224.6406,
+      "change_pct": 0.74,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.628,
+      "change_pct": 0.65,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.05,
+      "change_pct": -8.58,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 160.25,
+      "change_pct": 0.63,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.141,
+      "change_pct": -0.07,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.927,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.116,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4134.7998,
+      "change_pct": 1.56,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 92.65,
+      "change_pct": 1.8,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 85.79,
+      "change_pct": 1.04,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65810.9375,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1913.53,
+      "change_pct": -0.77,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.66% / ESTX50 +0.94%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.93%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.63%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.89%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -8.58% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.65% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.04%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Sinch reports second quarter 2026 results - Accelerated revenue growth, led by Americas",
+      "mechanism": "<p>STOCKHOLM, July 22, 2026 /PRNewswire/ -- Sinch AB (publ) today announces its consolidated results for the second quarter 2026. April - June Net sales amounted to SEK 6,866m (6,616), an organic increase of 6 percent. Currency effects had a negative impact of 2 percent. Gross profit...</p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Groupe BEI choisit Treemont de Nextensa pour acceuillir les futurs locaux de sa représentation permanente à Bruxelles",
+      "mechanism": "<p><strong>COMMUNIQUÉ DE PRESSE</strong></p>",
+      "beneficiaries": [
+        "DE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Daicel Corporation HPPs SBU Unveils New DURACON (R) POM Line with 30% Recycled Content",
+      "mechanism": "<p>OSAKA, Japan, July 22, 2026 /PRNewswire/ -- Daicel Corporation's High Performance Polymers (HPPs) SBU (formerly Polyplastics Co., Ltd.), a global leader in engineering plastics, has launched four new DURACON (R) POM grades containing 30% post-consumer recycled (PCR) material. This new...</p>",
+      "beneficiaries": [
+        "R"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung) Wir sehen einen *Overweight* Bias gegenüber Technologie- und Rohstoffpositionen sowie ein *Underweight* für Kryptowährungen (BTC -1.04%). Die steigende US10Y-Rendite (-1 Scorecard) erfordert eine erhöhte Sensibilität für Zinsrisiken. **Was NICHT zu tun ist:** Eine Überbetonung von Bitcoin und Ethereum, da diese im direkten Kontrast zum allgemeinen Risk-On-Sentiment stehen und deutliche negative Bewegungen verzeichneten."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
