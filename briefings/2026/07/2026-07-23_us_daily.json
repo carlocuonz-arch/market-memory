@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die Marktdynamik präsentiert eine signifikante Diskrepanz: Das kanonisch definierte „Risk-on / ruhig“ Regime kollidiert mit einem dramatischen Anstieg der impliziten Volatilität (+15.93% auf 19.29). B",
+  "market_regime": "Risk-on / ruhig (VIX 19.3)",
+  "regime_detail": {
+    "vix": 19.3,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7499.0,
+    "sma200": 6998.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24807.2793,
+      "change_pct": -1.38,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6211.2202,
+      "change_pct": -1.67,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7498.96,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28998.0996,
+      "change_pct": -0.54,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52218.5781,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.71,
+      "change_pct": 1.14,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 19.29,
+      "change_pct": 15.93,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 159.43,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1382,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9294,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.453,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4051.1001,
+      "change_pct": -2.31,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 86.83,
+      "change_pct": -7.7,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 90.74,
+      "change_pct": 4.5,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64975.3906,
+      "change_pct": -1.7,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1896.86,
+      "change_pct": -1.89,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -2,
+      "interpretation": "DAX -1.38% / ESTX50 -1.67%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.54%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.51%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.14%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +15.93% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.14% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.70%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Workday Adaptive Planning Achieves FedRAMP Moderate Authorization to Support Federal Workforce and Budget Planning",
+      "mechanism": "<p>New Milestone Helps Federal Agencies Plan Workforce and Budgets in One Secure, Modern System WASHINGTON, July 23, 2026 /PRNewswire/ -- Workday Government, a wholly owned subsidiary of Workday, Inc. (NASDAQ: WDAY), the enterprise AI platform for HR, finance, and IT, today announced that...</p>",
+      "beneficiaries": [
+        "WDAY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Infosys: AI Revenues at 8.2% in Q1; Resilient Operating Margin of 21.1%",
+      "mechanism": "<p>Strong Large Deal Wins at $3.6 Billion with 61% Net New; Robust Free Cash Flow of $0.96 Billion FY27 Revenue Guidance Revised to 1.5%-3.0%, Margin guidance Retained at 20%-22% BENGALURU, India, July 23, 2026 /PRNewswire/ - Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in...</p>",
+      "beneficiaries": [
+        "INFY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "National Airlines Orders More GE Aerospace CF6 and GE90 Engines",
+      "mechanism": "<p>FARNBOROUGH, England, July 23, 2026 /PRNewswire/ -- GE Aerospace (NYSE: GE) announced today that National Airlines has committed to purchase one GE90-110B and six CF6-80C2 engines to power their Boeing 777F/747F cargo airplanes. National Airlines has extensive experience with GE...</p>",
+      "beneficiaries": [
+        "GE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Angesichts der systemischen Abkühlung (europe_tech: -2, crypto_liquidity: -2) und des hohen Vola-Signals ist eine defensive Haltung zu präferieren. Wir sehen daher ein Untergewichtung von breit gestreuten Technologie- und Kryptomarkt-Positionen. Die technische Präzision der Daten legt nahe, dass die kurzfristige Liquidität in den risikoreichen Segmenten stark komprimiert ist. **Was NICHT getan werden sollte:** Eine Allokation basierend auf dem „Risk-on“ Label zu tätigen, da die VIX-Bewegung und die Scorecard eindeutig einen signifikanten Risikoabfall signalisieren."
+  },
+  "confidence": {
+    "level_pct": 64,
+    "conviction_pct": 64,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
