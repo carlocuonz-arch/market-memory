@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-23",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch als Risk-on / ruhig zu bewerten, was durch den VIX-Rückgang von -2.40% gestützt wird. Während die europäischen Indizes DAX (+0.58%) und ESTX50 (+0.50%) ein",
+  "market_regime": "Risk-on / ruhig (VIX 16.6)",
+  "regime_detail": {
+    "vix": 16.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7499.0,
+    "sma200": 6998.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25155.4102,
+      "change_pct": 0.58,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6316.9902,
+      "change_pct": 0.5,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7498.96,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28998.0996,
+      "change_pct": -0.54,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52218.5781,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.657,
+      "change_pct": 0.63,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.64,
+      "change_pct": -2.4,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 159.43,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1431,
+      "change_pct": 0.24,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9297,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.984,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4129.6001,
+      "change_pct": -0.42,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 96.06,
+      "change_pct": 2.12,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 88.1,
+      "change_pct": 1.46,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65719.4219,
+      "change_pct": -0.58,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1925.2,
+      "change_pct": -0.43,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.58% / ESTX50 +0.50%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.54%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.51%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.14%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.40% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.63% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.58%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Aviation Capital Group and Aerolíneas Argentinas Sign Lease Agreements for Six New Boeing 737-10 Aircraft",
+      "mechanism": "<p>FARNBOROUGH, England, July 23, 2026 /PRNewswire/ -- Aviation Capital Group LLC (ACG), a premier global full-service aircraft asset manager, today announced that it has signed lease agreements with Argentinian flag carrier, Aerolíneas Argentinas, for six Boeing 737-10 aircraft. The...</p>",
+      "beneficiaries": [
+        "ACG"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Haisco's Class 1 Innovative Drug Ciprocopan Succinate Tablets Approved in China, Offering a New Treatment Option for Patients With PNH",
+      "mechanism": "<p>BEIJING, July 23, 2026 /PRNewswire/ -- Haisco Pharmaceutical Group claimed today their independently developed Class 1 innovative drug, Ciprocopan Succinate Tablets (development code: HSK39297), has received marketing approval from the National Medical Products Administration of China...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Mavenir, GlobalData의 2026년 IMS 및 음성 코어 경쟁력 평가에서 '매우 우수' 등급 획득",
+      "mechanism": "클라우드 네이티브 MAVcore 플랫폼 경쟁력 인정 받으며 최고 등급의 IMS 및 음성 코어 서비스 공급업체로 평가 <pre>클라우드 네이티브 MAVcore 플랫폼 경쟁력 인정 받으며 최고 등급의 IMS 및 음성 코어 서비스 공급업체로 평가</pre>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund der sektoralen Stärke und des europäischen Momentum ist ein Übergewichten von Healthcare/MedTech sowie europäisch gelisteten Werten (Europe Tech Score: 1) ratsam. Gleichzeitig muss die US-Technologie (us_tech Score: -1) untergewichtet betrachtet werden, solange der Nasdaq100 negative Impulse sendet und das Zinsumfeld durch steigende Renditen belastet wird. **Was NICHT zu tun ist:** Die implizite Annahme eines stabilen oder sinkenden Zinsumfeldes darf nicht zugelassen werden; die positive Entwicklung des US10Y (+0.63%) erfordert eine ständige Korrektur der Duration-Berechnungen."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
