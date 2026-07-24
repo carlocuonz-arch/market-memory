@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-24",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime wird als Risk-on eingestuft, doch die Kursmuster signalisieren eine signifikante Divergenz und ein steigendes Vorsichtsniveau. Während europäische Indizes wie der DAX (+0.6",
+  "market_regime": "Risk-on / ruhig (VIX 18.9)",
+  "regime_detail": {
+    "vix": 18.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7408.3,
+    "sma200": 7002.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24922.7207,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6252.1201,
+      "change_pct": 0.68,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7408.2998,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28454.8105,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51711.6484,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.681,
+      "change_pct": -0.47,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.9,
+      "change_pct": 1.07,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.44,
+      "change_pct": 1.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1374,
+      "change_pct": -0.33,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9304,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.477,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4048.3,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 97.95,
+      "change_pct": -2.72,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 90.12,
+      "change_pct": -2.25,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64321.0,
+      "change_pct": -1.11,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1865.01,
+      "change_pct": -0.64,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.64% / ESTX50 +0.68%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.87%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.26%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +1.07% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.47% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.11%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Factorial Secures First Commercial Aerospace Order for Advanced Battery Cells",
+      "mechanism": "Order from leading U.S. drone manufacturer moves Factorial into commercial deployment",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "WSP confirms submission of non-binding indicative expression of interest to Arcadis N.V. to acquire all issued and outstanding shares in the capital of Arcadis N.V. for an offer price of EUR 51.50 per share",
+      "mechanism": "<p><sub><sup>1</sup> Non-IFRS ﬁnancial measure or non-IFRS ﬁnancial ratio that is forward-looking, without a standardized deﬁnition under IFRS, which may not be comparable to similar measures or ratios used by other issuers. Please refer to the “Non-IFRS and Other Financial Measures” and \"Forward-Looking Statements\" disclaimers below.</sub><br /><sub><sup>2</sup> WSP’s assessment of potential synergy opportunities is primarily based on its own outside-in perspectives, previous acquisition experience and publicly available information and may differ materially from its expectations.</sub></p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Lassonde Industries Inc. Will Hold a Conference Call to Discuss Its Second Quarter 2026 Financial Results",
+      "mechanism": "<p align=\"justify\">ROUGEMONT, Quebec, July  24, 2026  (GLOBE NEWSWIRE) -- Lassonde Industries Inc. (TSX: LAS.A) (\"Lassonde\" or the \"Corporation\") is pleased to announce that it will host a conference call to discuss its financial results for the second quarter of 2026 on Friday, August 7, 2026. Mr. Vince Timpano, Chief Executive Officer, and Mr. Francis Trudeau, Chief Financial Officer, will host the call.</p>",
+      "beneficiaries": [
+        "LAS.A"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen eine Übergewichtung defensiver, qualitativ hochwertiger Sektoren und europäischer Tech-Expositionen (`europe_tech` Scorecard: 1). Die Allokation sollte von den US-Tech-Werten (Scorecard: -2) und zyklischen Rohstoffen profitieren.\n*Was NICHT tun:* Untergewichten ist die direkte Beteiligung an hochvolatilen, wachstumsorientierten Technologiepapieren mit hohem Beta-Faktor, da der steigende VIX (+1.07%) ein erhöhtes systemisches Risiko signalisiert."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
