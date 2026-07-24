@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-24",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Trotz der kanonisch als „Risk-on“ deklarierten makroökonomischen Umgebung signalisiert die Marktdynamik eine signifikante Abkühlung. Der breite Verkaufsdruck ist evident, wie an den Einbrüchen am DAX ",
+  "market_regime": "Risk-on / ruhig (VIX 18.7)",
+  "regime_detail": {
+    "vix": 18.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7408.3,
+    "sma200": 7002.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24763.1191,
+      "change_pct": -1.56,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6210.1699,
+      "change_pct": -1.69,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7408.2998,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28454.8105,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51711.6484,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.703,
+      "change_pct": 0.99,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.7,
+      "change_pct": 12.38,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.44,
+      "change_pct": 1.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1388,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9298,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.4,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4036.1001,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 99.98,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 91.21,
+      "change_pct": -1.06,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65402.0117,
+      "change_pct": 0.55,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1882.8101,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -2,
+      "interpretation": "DAX -1.56% / ESTX50 -1.69%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.87%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.26%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.38% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.99% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.55%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ASSA ABLOY acquires Classic Brass in the US",
+      "mechanism": "<p>STOCKHOLM, July 24, 2026 /PRNewswire/ -- ASSA ABLOY has acquired Classic Brass Inc (\"Classic Brass\"), a US manufacturer of premium cabinet and door hardware. \"I am very pleased to welcome Classic Brass to ASSA ABLOY. This acquisition delivers on our strategy to strengthen our position in...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "ASSA ABLOY acquires Classic Brass in the US",
+      "mechanism": "<p>STOCKHOLM, July 24, 2026 /PRNewswire/ -- ASSA ABLOY has acquired Classic Brass Inc (\"Classic Brass\"), a US manufacturer of premium cabinet and door hardware. \"I am very pleased to welcome Classic Brass to ASSA ABLOY. This acquisition delivers on our strategy to strengthen our position in...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Loomis Interim Report January - June 2026",
+      "mechanism": "<p>STOCKHOLM, July 24, 2026 /PRNewswire/ -- Continued strong growth and record operating margin (EBITA %) President and CEO Aritz Larrea comments: \"We delivered another very strong quarter reflecting the continued execution of our strategy and the strength of our diversified model. Revenue...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollte defensive Allokation (Health) sowie digitale Assets (Crypto). Untergewichtet sind zyklische Technologie-Expositionen, die unter dem Druck der steigenden US10Y-Renditen (+0.99%) und des breiten Indexverkaufs leiden. **Was NICHT tun:** Nicht auf eine anhaltende Ruhe setzen; die erhöhte Volatilität (VIX) ist ein deutliches Warnsignal für überoptimistische Positionierungen."
+  },
+  "confidence": {
+    "level_pct": 43,
+    "conviction_pct": 43,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
