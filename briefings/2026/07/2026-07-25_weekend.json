@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-25",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktbild zeigt einen abrupten Übergang von einem kanonisch als „Risk-on“ deklarierten Regime zu einer Phase extrem erhöhter Volatilität. Während der VIX mit +12.38% stark anstieg, verzeichneten d",
+  "market_regime": "Risk-on / ruhig (VIX 18.7)",
+  "regime_detail": {
+    "vix": 18.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7408.3,
+    "sma200": 7002.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24763.1191,
+      "change_pct": -1.56,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6210.1699,
+      "change_pct": -1.69,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7408.2998,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28454.8105,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51711.6484,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.703,
+      "change_pct": 0.99,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.7,
+      "change_pct": 12.38,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.44,
+      "change_pct": 1.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1375,
+      "change_pct": -0.32,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9297,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.43,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4067.6001,
+      "change_pct": 0.52,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 96.78,
+      "change_pct": -3.88,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 89.31,
+      "change_pct": -3.12,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63952.2109,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1857.1801,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -2,
+      "interpretation": "DAX -1.56% / ESTX50 -1.69%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.87%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.26%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.38% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.99% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.23%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "NAVER Partners with Brookfield and NVIDIA to Expand Korea's National AI Factory Infrastructure Buildout",
+      "mechanism": "<p>SAN FRANCISCO, July 25, 2026 /PRNewswire/ -- NAVER, Brookfield and NVIDIA announced an expansion of Korea's sovereign AI factory infrastructure. New investments will increase the initial NVIDIA DSX™ AI factory deployment from 55 megawatts to 200 megawatts. Announced during Korea President...</p>",
+      "beneficiaries": [
+        "SAN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "CertiK Intel3D: H1 2026 Wrench Attacks Report Reveals 33% Surge in Physical Crypto Crime, Estimated Losses Top $124 Million",
+      "mechanism": "CertiK recorded 52 verified wrench attacks globally, up from 39 in H1 2025, with recorded financial exposure reaching an estimated $124.1 million.",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Erasca Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against Erasca - ERAS",
+      "mechanism": "<p>NEW ORLEANS, July 24, 2026 /PRNewswire/ -- ClaimsFiler, a FREE shareholder information service, reminds investors that they have untilAugust 10, 2026 to file lead plaintiff applications in a securities class action lawsuit against Erasca, Inc. (NasdaqGS: ERAS) (\"Erasca\" or the \"Company\"),...</p>",
+      "beneficiaries": [
+        "ERAS"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen eine klare Untergewichtung von zyklischen Tech- und Wachstumsanlagen, da die Scorecard in diesen Bereichen mit -2 bewertet. Defensive Allokationen (Health) sind vorübergehend übergewichtet zu betrachten. Die explizite „Was NICHT tun“-Regel lautet: Keine Jagd nach Momentum in den Rohstoffmärkten; der massive Rückgang bei Brent und WTI ist ein deutliches Warnsignal für zyklische Überdehnung."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
