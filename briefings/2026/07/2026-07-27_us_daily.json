@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-27",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch als Risk-on/ruhig zu bewerten, was sich im niedrigen VIX-Niveau von 17.71 widerspiegelt. Die Marktstruktur zeigt jedoch eine ausgeprägte geografische Diver",
+  "market_regime": "Risk-on / ruhig (VIX 17.7)",
+  "regime_detail": {
+    "vix": 17.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7408.3,
+    "sma200": 7002.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25506.7891,
+      "change_pct": 3.0,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6347.8999,
+      "change_pct": 2.22,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7408.2998,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28454.8105,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51711.6484,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.645,
+      "change_pct": -1.23,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.71,
+      "change_pct": -5.29,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.44,
+      "change_pct": 1.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.138,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9313,
+      "change_pct": 0.22,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.409,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4085.8,
+      "change_pct": 0.45,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 91.11,
+      "change_pct": -5.86,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 84.48,
+      "change_pct": -5.41,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64876.8516,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1950.8,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 2,
+      "interpretation": "DAX +3.00% / ESTX50 +2.22%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.87%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.26%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -5.29% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.23% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.71%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Saab receives order for GlobalEye",
+      "mechanism": "<p>STOCKHOLM, July 27, 2026 /PRNewswire/ -- Saab has received an order for two GlobalEye aircraft from a country in the Middle East region. The order value is SEK 10.1 billion, and deliveries will take place in 2030. \"This order underscores our commitment to providing customers with...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Virtuix Sells First Enterprise System to Tesla for Optimus Humanoid Robot Division",
+      "mechanism": "Virtuix Sells First Enterprise System to Tesla for Optimus Humanoid Robot Division",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "DifGen Pharmaceuticals Receives FDA Clearance to Begin Clinical Development for a Single Injection treatment for Advanced Breast Cancer DFGN-101",
+      "mechanism": "<p>MIRAMAR, Fla., July 27, 2026 /PRNewswire/ -- Agency issues \"study may proceed\" letter; development pathway does not require a clinical endpoint efficacy study. DifGen Pharmaceuticals LLC today announced that the U.S. Food and Drug Administration (FDA) has accepted the company's...</p>",
+      "beneficiaries": [
+        "FDA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollte man europäische Technologiepositionen (`europe_tech` Scorecard 2) sowie Health-Rotationsektoren (+1.26%) gegenüber der US-Tech-Schwäche (-2) gewichten.\n*Was NICHT tun:* Untergewichten ist die Allokation in Commodities (insbesondere Öl), deren Korrektur von -5.86% bis -5.41% als überzogen zu bewerten ist, sowie eine generelle Überbetonung des US-Tech-Sektors bei aktuellen Signalen."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}

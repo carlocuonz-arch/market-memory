@@ -1,6 +1,6 @@
 {
   "schema": "market-memory-index/1.0",
-  "count": 79,
+  "count": 80,
   "scorecard_dims": [
     "europe_tech",
     "us_tech",
@@ -1591,6 +1591,26 @@
       },
       "md": "briefings/2026/07/2026-07-27_europe_daily.md",
       "json": "briefings/2026/07/2026-07-27_europe_daily.json"
+    },
+    {
+      "date": "2026-07-27",
+      "briefing_type": "us_daily",
+      "data_classification": "verified-live",
+      "market_regime": "Risk-on / ruhig (VIX 17.7)",
+      "conviction_pct": 14,
+      "conviction_direction": "neutral",
+      "data_quality_pct": 100,
+      "scores": {
+        "europe_tech": 2,
+        "us_tech": -2,
+        "health_rotation": 1,
+        "risk_sentiment": -1,
+        "volatility": 2,
+        "rates": 1,
+        "crypto_liquidity": -1
+      },
+      "md": "briefings/2026/07/2026-07-27_us_daily.md",
+      "json": "briefings/2026/07/2026-07-27_us_daily.json"
     }
   ]
 }
