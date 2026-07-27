@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-27",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die Anlegerstimmung navigiert ein paradoxes Makro-Regime: Offiziell wird von einem *Risk-on* Umfeld ausgegangen, doch die technischen Signale sprechen eine deutliche Verunsicherung aus. Der breite Ind",
+  "market_regime": "Risk-on / ruhig (VIX 18.7)",
+  "regime_detail": {
+    "vix": 18.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7408.3,
+    "sma200": 7002.4
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 24763.1191,
+      "change_pct": -1.56,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6210.1699,
+      "change_pct": -1.69,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7408.2998,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28454.8105,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51711.6484,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.703,
+      "change_pct": 0.99,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.7,
+      "change_pct": 12.38,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 161.44,
+      "change_pct": 1.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1416,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.929,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.186,
+      "change_pct": -0.24,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4095.1001,
+      "change_pct": 0.68,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 90.63,
+      "change_pct": -6.35,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 83.59,
+      "change_pct": -6.4,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65436.5391,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1964.5601,
+      "change_pct": 0.57,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -2,
+      "interpretation": "DAX -1.56% / ESTX50 -1.69%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.87%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.26%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -1.21%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +12.38% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.99% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.15%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Aktietilbagekøb: Transaktioner i uge 30 2026",
+      "mechanism": "<p>Aktietilbagekøbsprogrammet løber i perioden fra og med den 5. februar 2026 til senest den 29. januar 2027. I denne periode vil Jyske Bank erhverve egne aktier til en maksimal værdi af 3 mia. kr. i et aktietilbagekøbsprogram, jf. selskabsmeddelelse nr. 11/2026 af 5. februar 2026. Aktietilbagekøbsprogrammet gennemføres i henhold til EU‑Kommissionens forordning (EU) nr. 596/2014 af 16. april 2014, også kaldet “markedsmisbrugsforordningen”, og EU‑Kommissionens delegerede forordning (EU) 2016/1052 af 8. marts 2016 (tilsammen “safe harbour‑reglerne”).</p>",
+      "beneficiaries": [
+        "EU"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Pour accélérer le déploiement des Carrefours multi-énergies au Canada, Haffner Energy ouvre son capital à Mundi Énergies",
+      "mechanism": "Haffner Energy ouvre son capital; se dote d’une participation dans des actifs de production d'énergies renouvelables pour générer des revenus récurrents.",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "CaoCao Officially Launches Driverless Robotaxi Testing",
+      "mechanism": "CaoCao Inc. (“CaoCao” or the “Company”) announced the official launch of Robotaxi testing without a safety driver behind the wheel.",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund des dominanten negativen Signals in Volatilität (-2) und Technologie (-2) ist ein defensiver Ansatz zu empfehlen, indem man defensive Sektoren wie Health (+1.26%) übergewichtet. Die breiten Indizes (DAX, ESTX50) sollten neutral betrachtet werden, da die Richtung durch das steigende Zinsniveau (US10Y +0.99%) belastet wird. **Was NICHT zu tun ist:** Hochzyklische oder technologiegetriebene Positionen mit hohem Beta-Faktor sind aufgrund der extrem negativen Scorecard (`europe_tech` -2, `us_tech` -2) kontraindiziert."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
