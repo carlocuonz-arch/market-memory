@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-28",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch als Risk-on eingestuft (VIX 18.7), doch die Performance ist stark divergierend. Während der europäische Technologiebereich mit einem DAX-Anstieg von +2.41%",
+  "market_regime": "Risk-on / ruhig (VIX 18.7)",
+  "regime_detail": {
+    "vix": 18.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7413.2,
+    "sma200": 7005.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25361.0293,
+      "change_pct": 2.41,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6282.21,
+      "change_pct": 1.16,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7413.1802,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28039.2109,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52210.0781,
+      "change_pct": 0.96,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.641,
+      "change_pct": -1.32,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.67,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.4,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1374,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9309,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.527,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4045.5,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.9,
+      "change_pct": -0.52,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.04,
+      "change_pct": -0.69,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63451.5312,
+      "change_pct": -2.89,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1881.29,
+      "change_pct": -3.69,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 2,
+      "interpretation": "DAX +2.41% / ESTX50 +1.16%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.46%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.51%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.07%."
+    },
+    "volatility": {
+      "score": 0,
+      "interpretation": "VIX -0.16% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.32% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.89%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "NBPE Announces Transaction in Own Shares",
+      "mechanism": "<p align=\"justify\">THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS</p>",
+      "beneficiaries": [
+        "ANY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Virtualware redevient bénéficiaire avec une croissance de 65 % de son chiffre d’affaires au premier semestre",
+      "mechanism": "<p><strong>La croissance des abonnements et des services de VIROO et Simumatik porte l’EBITDA à 375 323 €, contre -61 785 € un an plus tôt</strong></p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Virtualware vuelve a beneficios con un crecimiento del 65 % de los ingresos en el primer semestre",
+      "mechanism": "<p><strong>El crecimiento de suscripciones y servicios en VIROO y Simumatik eleva el EBITDA hasta 375.323 €, frente a los -61.785 € del año anterior</strong></p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten Sie europäische Technologie-Exposure (`europe_tech` Score 2). Die relative Stärke des europäischen Marktes gegenüber dem US-Tech-Sektor rechtfertigt eine geografisch gewichtete Allokation. *Was NICHT tun:* Vermeiden Sie breite, unselektive Wetteinsätze auf globale Tech-Indizes (Nasdaq100) oder hochvolatilen Krypto-Assets, da deren Schwäche (-2.89% BTC) ein deutliches Gegenwindrisiko darstellt."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
