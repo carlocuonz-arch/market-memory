@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-28",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktbild ist von einer signifikanten Divergenz geprägt: Während der Dow Jones mit +0.96% die relative Stärke ausstrahlt, verzeichnet der Nasdaq100 einen deutlichen Rückgang von -1.46%. Das offizi",
+  "market_regime": "Risk-on / ruhig (VIX 18.7)",
+  "regime_detail": {
+    "vix": 18.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7413.2,
+    "sma200": 7005.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25316.5801,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6259.27,
+      "change_pct": -0.37,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7413.1802,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28039.2109,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52210.0781,
+      "change_pct": 0.96,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.63,
+      "change_pct": -0.24,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.67,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.4,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1371,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9313,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.521,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4030.3999,
+      "change_pct": -1.08,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 86.68,
+      "change_pct": -1.9,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 81.31,
+      "change_pct": -1.57,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63230.3984,
+      "change_pct": -0.78,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1881.52,
+      "change_pct": -0.48,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.18% / ESTX50 -0.37%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.46%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.51%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.07%."
+    },
+    "volatility": {
+      "score": 0,
+      "interpretation": "VIX +0.00% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.24% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.78%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Laredo Oil Provides Update on International Business Development",
+      "mechanism": "<p>AUSTIN, Texas, July 28, 2026 /PRNewswire/ -- Laredo Oil, Inc. (OTC: LRDC) (\"Laredo Oil\" or the \"Company\"), developer of its proprietary Underground Gravity Drainage™ (\"UGD\") technology, today provided shareholders with an update on its international business development activities. Over...</p>",
+      "beneficiaries": [
+        "LRDC"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Tines Launches 3B to Help Enterprises Govern AI Workflows, Apps and Agents",
+      "mechanism": "<p>After tripling its enterprise customer base, Tines rebuilt its platform for a world where every employee can build with AI. DUBLIN and BOSTON, July 28, 2026 /PRNewswire/ -- Tines, the intelligent workflow company trusted by enterprises including Coinbase, Reddit and SAP today launches...</p>",
+      "beneficiaries": [
+        "SAP"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "LeaseLock Surpasses $17 Billion in Leases Secured and Expands Insurance Panel with Two Global A-Rated Carriers",
+      "mechanism": "LeaseLock Surpasses $17 Billion in Leases Secured and Expands Insurance Panel with Two Global A-Rated Carriers",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten defensive Sektoren (Health) und Qualitätswerte mit nachweislicher operativer Stärke, während Tech-Expositionen untergewichtet werden sollten. Die relative Schwäche von Commodities (WTI -1.57%, Brent -1.90%) rechtfertigt eine Reduzierung der entsprechenden Allokation.\n*Was NICHT tun:* Nicht auf positive Einzelnachrichten allein spekulieren; die makroökonomische Abkühlung des Tech- und Rohstoffmarktes überwiegt das Momentum einzelner, positiv gemeldeter Unternehmensentwicklungen (z.B. SAP oder Procode)."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
