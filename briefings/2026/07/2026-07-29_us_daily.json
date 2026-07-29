@@ -1,0 +1,171 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-29",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime wird formal als „Risk-on / ruhig“ kategorisiert, was durch den Anstieg des VIX auf 18.91 (+1.29%) jedoch konterkariert wird und eine zugrundeliegende Volatilitätszunahme signalisiert.",
+  "market_regime": "Risk-on / ruhig (VIX 18.7)",
+  "regime_detail": {
+    "vix": 18.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7413.2,
+    "sma200": 7005.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25508.4609,
+      "change_pct": 0.58,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6259.5298,
+      "change_pct": -0.36,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7413.1802,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28039.2109,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52210.0781,
+      "change_pct": 0.96,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.629,
+      "change_pct": -0.26,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.91,
+      "change_pct": 1.29,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.4,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.139,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9324,
+      "change_pct": 0.11,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.447,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4075.7,
+      "change_pct": 0.98,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 89.59,
+      "change_pct": 6.54,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 84.51,
+      "change_pct": 6.62,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64125.6289,
+      "change_pct": 0.4,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1902.1,
+      "change_pct": -0.93,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.58% / ESTX50 -0.36%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.46%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.51%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.07%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +1.29% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.26% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.40%."
+    }
+  },
+  "top_themes": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch empfehlen wir eine selektive Allokation: Übergewichten sollten zyklische Sektoren und Rohstoff-Exponierungen (Energy/Commodities) sowie defensive Rotationseffekte im Gesundheitsbereich (Health Scorecard +1) gewichtet werden. Im Gegensatz dazu ist eine Untergewichtung des reinen Tech-Sektors aufgrund der negativen Performance des Nasdaq100 (-1.46%) und dem -1 Scoring für `us_tech` ratsam. **Was NICHT zu tun ist:** Indirekte, breite Risikobetten (Broad Market Bets) in Technologieaktien zu tätigen, solange die VIX-Kurve weiterhin ansteigt und der Tech-Sektor unter Druck steht."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 90,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
