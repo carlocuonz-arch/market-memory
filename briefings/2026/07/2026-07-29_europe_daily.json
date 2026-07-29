@@ -1,0 +1,171 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-29",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal als „Risk-on“ eingestuft, was sich in einem niedrigen VIX (18.67) widerspiegelt. Die Performance ist jedoch stark divergent: Während der Euroraum mit einem ro",
+  "market_regime": "Risk-on / ruhig (VIX 18.7)",
+  "regime_detail": {
+    "vix": 18.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7413.2,
+    "sma200": 7005.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25361.0293,
+      "change_pct": 2.41,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6282.21,
+      "change_pct": 1.16,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7413.1802,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28039.2109,
+      "change_pct": -1.46,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52210.0781,
+      "change_pct": 0.96,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.641,
+      "change_pct": -1.32,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.67,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.4,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1397,
+      "change_pct": 0.25,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9323,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 101.313,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4036.3999,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.27,
+      "change_pct": 3.78,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.32,
+      "change_pct": 3.86,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64314.1016,
+      "change_pct": 0.69,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1916.45,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 2,
+      "interpretation": "DAX +2.41% / ESTX50 +1.16%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.46%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.51%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.07%."
+    },
+    "volatility": {
+      "score": 0,
+      "interpretation": "VIX -0.16% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.32% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.69%."
+    }
+  },
+  "top_themes": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund der beobachteten Überlegenheit im Euroraum ist eine Übergewichtung europäischer Technologie- und Gesundheitswerte (`europe_tech`: 2, `health_rotation`: 1) gegenüber dem US-Markt zu favorisieren. Die Positionierung sollte die relative Stärke des DAX nutzen, während man das Risiko aus der Divergenz zwischen den Regionen adressiert.\n*Was NICHT tun:* Eine Überbetonung auf die Energie-Volatilität ist inadäquat; stattdessen sollte eine defensivere Nutzung von Sektoren mit nachgewiesenem Rotationsvorteil (wie Health) erfolgen, um das Risiko des Rohstoffanstiegs zu mitigieren."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 90,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
