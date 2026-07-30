@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-30",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime ist formal als „Risk-on / ruhig“ klassifiziert, was durch den niedrigen VIX von 18.92 untermauert wird. Die tatsächliche Marktdynamik zeigt jedoch eine signifikante Divergenz: Während",
+  "market_regime": "Risk-on / ruhig (VIX 18.9)",
+  "regime_detail": {
+    "vix": 18.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7316.1,
+    "sma200": 7015.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25545.5195,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6322.73,
+      "change_pct": 1.18,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7316.1499,
+      "change_pct": -1.52,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 27192.3105,
+      "change_pct": -2.06,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51594.1406,
+      "change_pct": -2.19,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.673,
+      "change_pct": 1.1,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 18.92,
+      "change_pct": -8.42,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 166.24,
+      "change_pct": -0.61,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1484,
+      "change_pct": 0.85,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9318,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.694,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4131.2998,
+      "change_pct": 2.39,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 89.1,
+      "change_pct": -1.81,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 83.3,
+      "change_pct": -1.37,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64747.4883,
+      "change_pct": 1.31,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1922.8199,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.33% / ESTX50 +1.18%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -2.06%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.61%."
+    },
+    "risk_sentiment": {
+      "score": -2,
+      "interpretation": "S&P 500 -1.52%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -8.42% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.10% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +1.31%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Unanet Expands Champ™ Agents, powered by Wyatt, Across Its ERP and CRM Portfolio",
+      "mechanism": "<p>New availability in Unanet AEC CRM and Unanet GovCon ERP extends AI-powered answers and workflows across project-based businesses DULLES, Va., July 30, 2026 /PRNewswire/ -- Unanet, the leader in AI-first ERP and growth software for government contractors and architecture, engineering and...</p>",
+      "beneficiaries": [
+        "CRM"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Zone &amp; Co Expands Zoe's Portfolio of AI Agents With AP Operations Across Procure-to-Pay",
+      "mechanism": "<p>New agent runs the accounts payable investigations that finance teams previously performed manually; grounded in live ERP data so teams can act with confidence. NEW YORK, July 30, 2026 /PRNewswire/ -- Zone & Co, a leading ERP-native, AI-powered financial operations platform, today...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "AiRWA Inc. Announces Completion of Acquisition of Best Life",
+      "mechanism": "<p align=\"justify\">Smyrna, Delaware, July  30, 2026  (GLOBE NEWSWIRE) -- AiRWA Inc. (Nasdaq: YYAI) (“AiRWA” or the “Company”) today announced that it has completed its previously announced acquisition of Hong Kong Best Life Trade Co., Limited (“Best Life”), a rapidly expanding import-export company with operations across multiple international markets.</p>",
+      "beneficiaries": [
+        "YYAI"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch empfehlen wir eine Untergewichtung breiter US-Tech-Expositionen (`us_tech: -2`) zugunsten defensiver Sektoren und physischer Assets. Wir favorisieren daher das Übergewichten von Gold, welches mit +2.39% die stärkste Performance zeigte. **Was NICHT zu tun ist:** Die Überbetonung des allgemeinen Tech-Booms (Nasdaq100 -2.06%) durch breite ETF-Käufe; der Fokus muss auf spezifische, anwendungsgetriebene AI-Lösungen bleiben und nicht auf den Index als Ganzes."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
