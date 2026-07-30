@@ -1,0 +1,171 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-30",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktregime pendelt zwischen einem formalen „Risk-on“ und den signifikanten Stressindikatoren des VIX (aktuell 20.66), was ein klares Divergenzrisiko darstellt. Der Verkaufsdruck ist breit angeleg",
+  "market_regime": "Risk-on / Stress (VIX 20.7)",
+  "regime_detail": {
+    "vix": 20.7,
+    "vol": "stress",
+    "trend": "bull",
+    "spx": 7316.1,
+    "sma200": 7015.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25460.4805,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6248.8398,
+      "change_pct": -0.65,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7316.1499,
+      "change_pct": -1.52,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 27192.3105,
+      "change_pct": -2.06,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 51594.1406,
+      "change_pct": -2.19,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.622,
+      "change_pct": 0.39,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 20.66,
+      "change_pct": 13.45,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 166.24,
+      "change_pct": -0.61,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1448,
+      "change_pct": 0.54,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9338,
+      "change_pct": 0.09,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.997,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4090.5,
+      "change_pct": 1.38,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 92.6,
+      "change_pct": 2.05,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 85.8,
+      "change_pct": 1.59,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63997.1094,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1903.1899,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.01% / ESTX50 -0.65%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -2.06%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.61%."
+    },
+    "risk_sentiment": {
+      "score": -2,
+      "interpretation": "S&P 500 -1.52%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +13.45% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.39% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.20%."
+    }
+  },
+  "top_themes": [],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Angesichts des massiven Abverkaufs im Tech-Bereich bei gleichzeitigem Anstieg von Rohstoffen ist eine Übergewichtung defensiver, physisch gebundener Assets (Gold, Energie) ratsam. Wir sehen die Aktienmärkte derzeit als strukturell untergewichtet an. **Was NICHT tun:** Unter keinen Umständen sollte man sich auf ein sofortiges „Risk-on“-Comeback verlassen; der VIX spricht Bände über das gegenwärtige Stressniveau."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 90,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
