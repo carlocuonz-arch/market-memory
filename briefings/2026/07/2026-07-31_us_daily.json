@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-31",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist formal als „Risk-on“ klassifiziert, was sich in der robusten Performance des S&P 500 (+1.66%) und insbesondere des Nasdaq100 (+3.36%) widerspiegelt. Die Kernchance blei",
+  "market_regime": "Risk-on / ruhig (VIX 17.3)",
+  "regime_detail": {
+    "vix": 17.3,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7437.6,
+    "sma200": 7019.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25638.0801,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6371.6299,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7437.6299,
+      "change_pct": 1.66,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28106.3496,
+      "change_pct": 3.36,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52208.0586,
+      "change_pct": 1.19,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.704,
+      "change_pct": 0.88,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.1,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.52,
+      "change_pct": -1.64,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1504,
+      "change_pct": 0.32,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9309,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.336,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4094.0,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 90.35,
+      "change_pct": 1.48,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 85.56,
+      "change_pct": 2.36,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63745.0,
+      "change_pct": -1.51,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1887.1801,
+      "change_pct": -1.57,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.10% / ESTX50 +0.43%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +3.36%."
+    },
+    "health_rotation": {
+      "score": -2,
+      "interpretation": "XLV -1.64%."
+    },
+    "risk_sentiment": {
+      "score": 2,
+      "interpretation": "S&P 500 +1.66%."
+    },
+    "volatility": {
+      "score": 0,
+      "interpretation": "VIX +0.06% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.88% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.51%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Global Aerospace Provides Insights on What In-Orbit Servicing Is, How In-Orbit Servicing Works, and the Key Technologies Enabling the IOS Revolution",
+      "mechanism": "In-Orbit Servicing (IOS): The Future of Satellite Maintenance and Space Sustainability, According to Global Aerospace <pre>In-Orbit Servicing (IOS): The Future of Satellite Maintenance and Space Sustainability, According to Global Aerospace</pre>",
+      "beneficiaries": [
+        "IOS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Center for Public Sector AI Names Omnilert to the 2026 Public Sector AI 50",
+      "mechanism": "<p>Recognition validates Omnilert's leadership in advancing operational, enterprise-scale AI that helps public sector organizations detect threats sooner and coordinate emergency response faster. LEESBURG, Va., July 31, 2026 /PRNewswire/ -- Omnilert, the leader in AI-powered visual gun...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "SEALSQ Launches Commercial Phase of Miraex Quantum Photonics Technology Following Strategic Acquisition",
+      "mechanism": "<p align=\"center\">Geneva, Switzerland , July  31, 2026  (GLOBE NEWSWIRE) -- <br /></p> <p align=\"justify\">SEALSQ Corp (NASDAQ: LAES), (\"SEALSQ\" or \"Company\"), a company focused on semiconductors, PKI, and post-quantum technology solutions, today announced the start of the commercial phase of the groundbreaking quantum photonics technology developed by Miraex SA, following the 100% acquisition of the Swiss company in June 2026.</p>",
+      "beneficiaries": [
+        "LAES"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*\nWir sehen eine klare Übergewichtung im US-Tech-Sektor aufgrund des überragenden Momentum (*us\\_tech: 2*). Generell sollte die Allokation von Assets, die von steigender Duration betroffen sind (*rates: -1*), reduziert werden. **Was NICHT tun:** Von risikoreichen Kryptowährungen (BTC) oder Sektoren mit starkem Gegenwind bei steigenden Zinsen zu profitieren versuchen; diese Segmente zeigen aktuell eine signifikante Untergewichtung (-2 bzw. -1)."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
