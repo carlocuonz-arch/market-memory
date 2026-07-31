@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-31",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist klassisch *Risk-on / ruhig* (VIX 17.1), was sich in einem robusten Indexverlauf widerspiegelt, wobei der Nasdaq100 mit +3.36% die Führung übernimmt. Die Kernchance lieg",
+  "market_regime": "Risk-on / ruhig (VIX 17.1)",
+  "regime_detail": {
+    "vix": 17.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7437.6,
+    "sma200": 7019.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25612.0293,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6344.3999,
+      "change_pct": 1.53,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7437.6299,
+      "change_pct": 1.66,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28106.3496,
+      "change_pct": 3.36,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52208.0586,
+      "change_pct": 1.19,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.663,
+      "change_pct": 0.89,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 17.09,
+      "change_pct": -17.28,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 163.52,
+      "change_pct": -1.64,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1525,
+      "change_pct": 0.5,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9287,
+      "change_pct": -0.43,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.139,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4144.2002,
+      "change_pct": 1.08,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.4,
+      "change_pct": -1.83,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 81.94,
+      "change_pct": -1.97,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64380.0117,
+      "change_pct": 0.74,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1908.88,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.60% / ESTX50 +1.53%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +3.36%."
+    },
+    "health_rotation": {
+      "score": -2,
+      "interpretation": "XLV -1.64%."
+    },
+    "risk_sentiment": {
+      "score": 2,
+      "interpretation": "S&P 500 +1.66%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -17.28% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.89% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.74%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Pearson Interim Results for the six months to 30th June 2026 (Unaudited)",
+      "mechanism": "<p>Good H1 performance and reiterating 2026 guidance. Uniquely positioned to benefit from accelerating demand for reskilling in an AI-driven world. LONDON, July 31, 2026 /PRNewswire/ -- Financial Highlights £m H1 2026 vs H1 2025 £m H1 2026 H1 2025 Business performance Statutory results...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "CellOrigin Unveils Two Novel Solid-Tumor Cell Therapy Candidates at ASCO 2026, Partners with Walvax for In Vivo CAR Clinical Trial",
+      "mechanism": "<p>HANGZHOU, China, July 31, 2026 /PRNewswire/ -- CellOrigin, a biotechnology company focused on next-generation in vivo and in vitro cell therapy technologies, has announced two major progresses in both research and strategic partnership. At the 2026 ASCO Annual Meeting, CellOrigin's...</p>",
+      "beneficiaries": [
+        "CAR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "FORVIA : MISE A DISPOSITION DU RAPPORT FINANCIER SEMESTRIEL 2026",
+      "mechanism": "<p><b>COMMUNIQUÉ</b><br /><b>DE PRESSE</b></p>",
+      "beneficiaries": [
+        "DE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir empfehlen eine **Übergewichtung** von Tech-Giganten mit starker Marktpositionierung (Score: 2) und einer **Neutralität** auf breite Indizes, da die Divergenz zwischen VIX und US10Y ein gemischtes Signal sendet. Eine klare **Untergewichtung** ist bei zyklischen Sektoren zu verzeichnen, die von den Energiepreisverfall-Daten (Brent/WTI) oder der allgemeinen Rate-Sensitivität betroffen sind. *Was NICHT tun:* Keine Allokation in breite Rohstoff-ETFs aufgrund des massiven Abwärtstrends an Brent und WTI."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
