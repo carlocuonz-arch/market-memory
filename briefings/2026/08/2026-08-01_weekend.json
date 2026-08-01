@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-01",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktregime bleibt kanonisch „Risk-on / ruhig“, was sich in den positiven Bewegungen des S&P 500 (+0.70%) und Nasdaq100 (+0.60%) manifestiert. Die technische Stärke der US-Tech-Sektoren ist domina",
+  "market_regime": "Risk-on / ruhig (VIX 16.0)",
+  "regime_detail": {
+    "vix": 16.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7489.7,
+    "sma200": 7024.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25629.2402,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6358.0098,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7489.7202,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28274.1992,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52485.0312,
+      "change_pct": 0.53,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.745,
+      "change_pct": 1.76,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.99,
+      "change_pct": -6.44,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.55,
+      "change_pct": -0.59,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1527,
+      "change_pct": 0.52,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9306,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.8,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4049.1001,
+      "change_pct": -1.24,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 90.12,
+      "change_pct": 1.22,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 84.67,
+      "change_pct": 1.29,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63018.7109,
+      "change_pct": -2.64,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1868.89,
+      "change_pct": -2.53,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.07% / ESTX50 +0.21%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.60%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.59%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.70%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -6.44% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -2,
+      "interpretation": "US10Y +1.76% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.64%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ROSEN, THE FIRST FILING FIRM, Encourages Wise Group plc Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm – WSE",
+      "mechanism": "<p align=\"left\">NEW YORK, July  31, 2026  (GLOBE NEWSWIRE) -- </p> <p align=\"justify\"><strong>WHY:</strong> Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of securities of Wise Group plc (NASDAQ: WSE) between May 11, 2026 and July 23, 2026, both dates inclusive (the “Class Period”). A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court <strong>no later than September 29, 2026</strong> in the securities class action first filed by the Firm.</p>",
+      "beneficiaries": [
+        "WSE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "ROSEN, NATIONAL TRIAL LAWYERS, Encourages PROCEPT BioRobotics Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action – PRCT",
+      "mechanism": "<p align=\"justify\">NEW YORK, July  31, 2026  (GLOBE NEWSWIRE) -- </p> <p align=\"justify\"><strong>WHY:</strong> Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of common stock of PROCEPT BioRobotics Corporation (NASDAQ: PRCT) between February 28, 2024 and February 25, 2026, inclusive (the “Class Period”). A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court <strong>no later than September 22, 2026.</strong></p>",
+      "beneficiaries": [
+        "PRCT"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Anfield Energy Closes US$6.9 million Underwritten Public Offering",
+      "mechanism": "<p align=\"justify\">VANCOUVER, British Columbia, July  31, 2026  (GLOBE NEWSWIRE) -- <strong>Anfield Energy Inc.</strong> (“<strong>Anfield</strong>” or the “<strong>Company</strong>”) (TSX.V: AEC; NASDAQ: AEC; FRANKFURT: 0AD) has closed its previously announced underwritten public offering (the “<strong>Offering</strong>”) of 1,715,000 common shares (the “<strong>Common Shares</strong>”), which includes the full exercise of the underwriters’ option to purchase an additional 233,695 Common Shares, at a price of US$4.00 per Common Share for aggregate gross proceeds to the Company of US$6.9 million.</p>",
+      "beneficiaries": [
+        "AEC"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund des dominanten Risk-on-Signals ist eine Übergewichtung von US-Tech-Sektoren (Nasdaq100) ratsam, da diese das höchste Momentum zeigen (+0.60%). Gleichzeitig sollte die relative Stärke der Rohstoffallokation genutzt werden. **Was NICHT tun:** Eine Überbetonung risikoreicher Assets wie Kryptowährungen oder Gold ist zu vermeiden, solange die steigenden US-Renditen (US10Y +1.76%) nicht durch eine entsprechende makroökonomische Begründung untermauert werden."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
