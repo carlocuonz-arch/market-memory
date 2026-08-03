@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-03",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt agiert in einem nominell „Risk-on“ Regime, was sich an den positiven Entwicklungen des DAX (+1.25%), SP500 (+0.70%) und Nasdaq100 (+0.60%) manifestiert. Das Kernrisiko ist die signifikante D",
+  "market_regime": "Risk-on / ruhig (VIX 16.0)",
+  "regime_detail": {
+    "vix": 16.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7489.7,
+    "sma200": 7024.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25949.5508,
+      "change_pct": 1.25,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6402.5898,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7489.7202,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28274.1992,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52485.0312,
+      "change_pct": 0.53,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.686,
+      "change_pct": -1.24,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.01,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.55,
+      "change_pct": -0.59,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1535,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9327,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.781,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4091.8,
+      "change_pct": 1.05,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 83.4,
+      "change_pct": -7.46,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 79.15,
+      "change_pct": -6.52,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62691.2109,
+      "change_pct": -1.25,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1841.9301,
+      "change_pct": -2.16,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +1.25% / ESTX50 +0.70%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.60%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.59%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.70%."
+    },
+    "volatility": {
+      "score": 0,
+      "interpretation": "VIX +0.13% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.24% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.25%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "PRE Security Unveils Version 3.8 of Its Award-Winning AI Native Predictive SecOps Platform at Black Hat USA 2026",
+      "mechanism": "<p>AI Native architecture unites patented Log2NLP™, Agentic XDR™, F.A.S.T.™ (Fully Autonomous SOC Triage), and new Agentic Surveillance™ to detect threats earlier, predict attacks before they cause harm, and dramatically reduce SOC analyst workload. LAS VEGAS, Aug. 3, 2026 /PRNewswire/ --...</p>",
+      "beneficiaries": [
+        "PRE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Giftify, Inc. Reports Second Quarter 2026 Financial Results: Gross Billings Grow 26% to $45.5 Million as Net Loss Improves 52%",
+      "mechanism": "<p align=\"center\"><b>Gross Profit Grows 14.2% to $4.4 Million on 180 Basis Point Margin Expansion</b></p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "CCTE Announces Supply Agreement with BWXT Canada to Support Commercial Reactor Demonstration",
+      "mechanism": "BWXT Canada to supply fuel bundle hardware for fabrication of full-scale ANEEL demonstration fuel bundles at Canadian Nuclear Laboratories.",
+      "beneficiaries": [
+        "BWXT"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Angesichts der Diskrepanz zwischen Index-Stärke und Rohstoffschwäche ist eine selektive Allokation ratsam: Übergewichten sollten Tech-Sektoren (`europe_tech`, `us_tech`) bei gleichzeitiger Untergewichtung zyklischer Energiepositionen (Brent/WTI) erfolgen. **Was NICHT tun sollte:** Die steigende Volatilität, signalisiert durch den VIX (+0.13%), ignorieren und die Rohstoff-Underperformance als temporäre Anomalie abtun."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
