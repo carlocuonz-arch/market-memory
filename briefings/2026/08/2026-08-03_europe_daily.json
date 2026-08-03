@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-03",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makroregime bleibt kanonisch Risk-on, was durch die breite Rally der Indizes (S&P 500: +0.70%; Nasdaq100: +0.60%) und den Rückgang des VIX (-6.44%) bestätigt wird. Der Kernkonflikt liegt jedoch in",
+  "market_regime": "Risk-on / ruhig (VIX 16.0)",
+  "regime_detail": {
+    "vix": 16.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7489.7,
+    "sma200": 7024.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25629.2402,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6358.0098,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7489.7202,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28274.1992,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52485.0312,
+      "change_pct": 0.53,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.745,
+      "change_pct": 1.76,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.99,
+      "change_pct": -6.44,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.55,
+      "change_pct": -0.59,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1537,
+      "change_pct": 0.11,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9321,
+      "change_pct": 0.36,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.694,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4124.7998,
+      "change_pct": 1.87,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 90.12,
+      "change_pct": 1.22,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 79.44,
+      "change_pct": -6.18,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 62708.0898,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1854.79,
+      "change_pct": 0.62,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.07% / ESTX50 +0.21%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.60%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.59%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.70%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -6.44% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -2,
+      "interpretation": "US10Y +1.76% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.09%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ASSA ABLOY to acquire Gunnebo Entrance Control",
+      "mechanism": "<p>STOCKHOLM, Aug. 3, 2026 /PRNewswire/ -- ASSA ABLOY has signed an agreement to acquire Gunnebo Entrance Control, an international provider of entrance control solutions, including speed gates, mass transit gates and security revolving doors. \"I look forward to welcoming the Gunnebo...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "ASSA ABLOY to acquire Gunnebo Entrance Control",
+      "mechanism": "<p>STOCKHOLM, Aug. 3, 2026 /PRNewswire/ -- ASSA ABLOY has signed an agreement to acquire Gunnebo Entrance Control, an international provider of entrance control solutions, including speed gates, mass transit gates and security revolving doors. \"I look forward to welcoming the Gunnebo...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Kosmos Energy Announces Second Quarter 2026 Results",
+      "mechanism": "<p align=\"justify\">DALLAS, Aug.  03, 2026  (GLOBE NEWSWIRE) -- Kosmos Energy Ltd. (“Kosmos” or the “Company”) (NYSE/LSE: KOS) announced today its financial and operating results for the second quarter of 2026. For the quarter, the Company generated net income of $185 million, or $0.31 per diluted share. When adjusted for certain items that impact the comparability of results, the Company generated an adjusted net income<sup>(1)</sup> of $68 million, or $0.11 per diluted share for the second quarter of 2026.</p>",
+      "beneficiaries": [
+        "LSE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen eine Übergewichtung von defensiv-wachstumsorientierten Sektoren mit klaren Katalysatoren (z.B. Biotech/Pharma, wie IMPACT Therapeutics). Die Positionierung sollte tendenziell auf Gold und Rohstoffe setzen, die sich vom US10Y-Renditeanstieg entkoppeln können. **Was NICHT getan werden sollte:** Eine übermäßige Momentum-Jagd basierend auf dem WTI-Crash oder das Ignorieren des Gegenwinds durch steigende Zinsen (US10Y +1.76%) in zinssensiblen Sektoren."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
