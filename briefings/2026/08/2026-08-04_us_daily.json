@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-04",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch Risk-on, was sich in der Überperformance von US-Tech-Titeln zeigt (Nasdaq100 +1.78%, S&P 500 +1.48%). Das Kernrisiko ist die Diskrepanz zwischen dem bullis",
+  "market_regime": "Risk-on / ruhig (VIX 15.6)",
+  "regime_detail": {
+    "vix": 15.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7600.5,
+    "sma200": 7028.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26169.1992,
+      "change_pct": 0.65,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6475.8198,
+      "change_pct": 0.77,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7600.5,
+      "change_pct": 1.48,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28776.8008,
+      "change_pct": 1.78,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53178.4102,
+      "change_pct": 1.32,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.661,
+      "change_pct": -0.53,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.57,
+      "change_pct": -1.83,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.24,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1519,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9317,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.99,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4120.2002,
+      "change_pct": 2.14,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 81.49,
+      "change_pct": -2.72,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 77.54,
+      "change_pct": -3.49,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63827.3711,
+      "change_pct": 0.54,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1868.5,
+      "change_pct": -0.74,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.65% / ESTX50 +0.77%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +1.78%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.19%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +1.48%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -1.83% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.53% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +0.54%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Lunai Bioworks (Nasdaq: LNAI) Names 10 Defendants in Naked Short Selling Fraud Suit",
+      "mechanism": "<p>Amended Complaint Alleges 29.6 Million Failed to Deliver Shares and Single Day Trading Volume of 15.3 Times Shares Outstanding, Company Seeks Treble Damages Under Federal RICO Statute WILMINGTON, Del. and SACRAMENTO, Calif., Aug. 4, 2026 /PRNewswire/ -- Lunai Bioworks, Inc. (Nasdaq:...</p>",
+      "beneficiaries": [
+        "LNAI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Alliance One Introduces Proprietary Tobacco Seed Varieties in Tanzania",
+      "mechanism": "<p>MORRISVILLE, N.C., Aug. 4, 2026 /PRNewswire/ -- Alliance One International, LLC is advancing agricultural innovation in Tanzania through its Alliance One Varieties (AOV), a portfolio of proprietary tobacco seed varieties developed to help farmers increase yields, enhance leaf quality and...</p>",
+      "beneficiaries": [
+        "AOV"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "XKL Launches MediaLight line for supply-chain optimized, flexible expansion of 100/400/800G optical networking with pluggables",
+      "mechanism": "<p>New integrated muxponder/transponder/media conversion platforms enable link aggregation and long-haul transport in flexible configurations up to 4.8T, shipping in 2026. REDMOND, Wash., Aug. 4, 2026 /PRNewswire/ -- XKL, a leading optical network solutions provider, announced today the...</p>",
+      "beneficiaries": [
+        "XKL"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten Sie US-Tech und Sektoren mit klarem AI-Exposure (Scorecard: us_tech 2). Aufgrund der Energieanomalie ist eine Überprüfung von Rohstoff-Expositionen ratsam, da die Marktdynamik hier nicht konsistent ist.\n*Was NICHT tun:* Nicht das allgemeine Risiko-Sentiment übermäßig auf die Commodity-Preise projizieren; die massive Abkopplung des Ölmarktes (WTI -3.49%) erfordert eine separate Bewertungsbasis jenseits der breiten Marktindizes."
+  },
+  "confidence": {
+    "level_pct": 57,
+    "conviction_pct": 57,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
