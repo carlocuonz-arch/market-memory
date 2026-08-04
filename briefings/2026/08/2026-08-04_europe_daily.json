@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-04",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt klassisch risk-on und ruhig, was sich in einem signifikanten Anstieg der globalen Indizes widerspiegelt; insbesondere sticht das S&P 500 mit +0.70% hervor. Das Kernr",
+  "market_regime": "Risk-on / ruhig (VIX 16.0)",
+  "regime_detail": {
+    "vix": 16.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7489.7,
+    "sma200": 7024.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25629.2402,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6358.0098,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7489.7202,
+      "change_pct": 0.7,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 28274.1992,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52485.0312,
+      "change_pct": 0.53,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.745,
+      "change_pct": 1.76,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.99,
+      "change_pct": -6.44,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.55,
+      "change_pct": -0.59,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.151,
+      "change_pct": -0.29,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9322,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.028,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4117.7998,
+      "change_pct": 1.7,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 84.87,
+      "change_pct": -5.83,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.95,
+      "change_pct": -4.39,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63700.7891,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1860.97,
+      "change_pct": -1.14,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.07% / ESTX50 +0.21%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.60%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.59%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.70%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -6.44% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -2,
+      "interpretation": "US10Y +1.76% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.34%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "HCLTech schließt die Übernahme des Geschäftsbereichs Telco Solutions von HPE ab",
+      "mechanism": "<p>Weiterentwicklung ingenieurtechnisch fundierter Telekommunikationslösungen für Kommunikationsdienstleister in einer KI-gesteuerten Welt NEW YORK und NOIDA, Indien, 4. August 2026 /PRNewswire/ -- HCLTech (NSE: HCLTECH) (BSE: HCLTECH), ein weltweit führendes Technologieunternehmen, gab den...</p>",
+      "beneficiaries": [
+        "HPE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Prologis Announces Recommended Acquisition of SEGRO plc",
+      "mechanism": "<p>Combination expands Prologis' European platform and enhances long-term growth opportunities SAN FRANCISCO, Aug. 4, 2026 /PRNewswire/ -- Prologis, Inc. (NYSE: PLD) today announced that it has reached agreement with the board of SEGRO plc (LSE: SGRO) on the terms of a recommended...</p>",
+      "beneficiaries": [
+        "PLD"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "IQM Quantum Computers Reports First Earnings as Public Company, Reporting First Half and Second Quarter 2026 Results, and Initiates FY 2026 Guidance Supported by Over EUR 102 million Order Backlog",
+      "mechanism": "IQM Quantum Computers Plc, Stock Exchange Release, Half year financial report August 4, 2026 at 08:00 (EEST) <pre>IQM Quantum Computers Plc, Stock Exchange Release, Half year financial report August 4, 2026 at 08:00 (EEST)</pre>",
+      "beneficiaries": [
+        "EEST"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen eine Übergewichtung von Qualitätswachstumsaktien im Technologie-Sektor (`us_tech` Score: 1) bei gleichzeitiger Untergewichtung zyklischer Energiepositionen aufgrund des extremen Kursverfalls. Die Verringerung der Volatilität (VIX -6.44%) bestätigt die kurzfristige Risikobereitschaft, während das steigende US10Y-Yields als struktureller makroökonomischer Bremsfaktor zu berücksichtigen ist. **Was NICHT tun:** Aufgrund des extremen Abkopplungspotenzials der Rohölpreise sollte kein übermäßiges Wetten auf eine sofortige zyklische Energieerholung erfolgen, solange das fundamentale Nachfrageszenario nicht geklärt ist."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
