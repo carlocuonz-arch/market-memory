@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-05",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal als Risk-on/ruhig definiert, doch die signifikante Steigerung des VIX (+4.04%) signalisiert eine spürbare Zunahme der Volatilität und damit ein inhärentes Spa",
+  "market_regime": "Risk-on / ruhig (VIX 16.5)",
+  "regime_detail": {
+    "vix": 16.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7736.5,
+    "sma200": 7034.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26202.3496,
+      "change_pct": 0.77,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6486.7002,
+      "change_pct": 0.94,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7736.52,
+      "change_pct": 1.79,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29733.1602,
+      "change_pct": 3.32,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 54085.8789,
+      "change_pct": 1.71,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.627,
+      "change_pct": -1.26,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.5,
+      "change_pct": 4.04,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.1,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1538,
+      "change_pct": 0.27,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9326,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.857,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4226.5,
+      "change_pct": 3.2,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 79.01,
+      "change_pct": -0.44,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 75.22,
+      "change_pct": -0.73,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64253.8086,
+      "change_pct": 1.25,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1868.15,
+      "change_pct": 0.53,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.77% / ESTX50 +0.94%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +3.32%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.09%."
+    },
+    "risk_sentiment": {
+      "score": 2,
+      "interpretation": "S&P 500 +1.79%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +4.04% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.26% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +1.25%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Tuya Smart Launches Tuya AI Coding, Enabling Users to Build Their Own AI-Powered Lifestyle Apps with Natural Language",
+      "mechanism": "<p>HANGZHOU, China, Aug. 5, 2026 /PRNewswire/ -- Tuya Smart (NYSE: TUYA; HKEX: 2391), a global AI cloud platform service provider, has officially launched Tuya AI Coding, an AI-native no-code application development platform enabling users to turn ideas into AI-powered lifestyle applications...</p>",
+      "beneficiaries": [
+        "TUYA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Tuya Smart Launches Tuya AI Coding, Enabling Users to Build Their Own AI-Powered Lifestyle Apps with Natural Language",
+      "mechanism": "<p>HANGZHOU, China, Aug. 5, 2026 /PRNewswire/ -- Tuya Smart (NYSE: TUYA; HKEX: 2391), a global AI cloud platform service provider, has officially launched Tuya AI Coding, an AI-native no-code application development platform enabling users to turn ideas into AI-powered lifestyle applications...</p>",
+      "beneficiaries": [
+        "TUYA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Gran Tierra Energy Inc. Announces Agreement to Sell its Colombia and Ecuador Business to Maurel & Prom and Reposition the Company for Fully Financed Growth",
+      "mechanism": "<p align=\"justify\">CALGARY, Alberta, Aug.  05, 2026  (GLOBE NEWSWIRE) -- Gran Tierra Energy Inc. (<strong>“Gran Tierra”</strong> or the <strong>“Company”</strong>) <strong>(NYSE American:GTE) (TSX:GTE) (LSE:GTE)</strong> today announced that it has entered into a definitive share sale and purchase agreement (the <strong>“Agreement”</strong>) to sell its oil business in Colombia and Ecuador (collectively, the <strong>“Divested Business”</strong>) to Établissements Maurel &amp; Prom S.A. (<strong>“Maurel &amp; Prom”</strong> or the <strong>“Purchaser”</strong>), a Paris-listed international oil and natural gas exploration and production company majority owned by PT Pertamina Internasional Eksplorasi dan Produksi (“<strong>PIEP</strong>”), a subsidiary of Indonesia’s national energy company, PT Pertamina (Persero) (<strong>“Pertamina”</strong>), representing a total consideration of $1.33 billion (the <strong>“Transaction”</strong>). All dollar amounts are in United States dollars unless otherwise stated.</p>",
+      "beneficiaries": [
+        "GTE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen eine Übergewichtung von technologiegetriebenen Wachstumstiteln und alternativen Anlagen (Gold/Krypto) bei gleichzeitig erhöhter Vorsicht im Core-Index-Bereich. Neutral ist die Allokation in traditionelle Anleihen, deren Renditeverlauf (-1.26%) auf makroökonomische Unsicherheit hindeutet. **Was NICHT zu tun ist:** Die Jagd nach kurzfristigen Momentum-Spikes; der VIX-Anstieg erfordert eine Bestätigung des Volatilitätsniveaus vor einer weiteren aggressiven Allokation."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
