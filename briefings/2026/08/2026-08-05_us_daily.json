@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-05",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime ist formal als *Risk-on* klassifiziert, was sich in der signifikanten Performance des Nasdaq100 (+3.32%) und des S&P 500 (+1.79%) widerspiegelt. Der Kernkonflikt liegt jedoch in der D",
+  "market_regime": "Risk-on / ruhig (VIX 16.9)",
+  "regime_detail": {
+    "vix": 16.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7736.5,
+    "sma200": 7034.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26249.5391,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6496.2998,
+      "change_pct": 0.15,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7736.52,
+      "change_pct": 1.79,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29733.1602,
+      "change_pct": 3.32,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 54085.8789,
+      "change_pct": 1.71,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.625,
+      "change_pct": -0.04,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.93,
+      "change_pct": 2.61,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 162.1,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1555,
+      "change_pct": 0.42,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9338,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.738,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4250.1001,
+      "change_pct": 3.78,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 80.11,
+      "change_pct": 0.95,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 75.8,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64086.9219,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1868.0,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.18% / ESTX50 +0.15%."
+    },
+    "us_tech": {
+      "score": 2,
+      "interpretation": "Nasdaq100 +3.32%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.09%."
+    },
+    "risk_sentiment": {
+      "score": 2,
+      "interpretation": "S&P 500 +1.79%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +2.61% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.04% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.05%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Lovable and Cerebras Partner to Power AI Software Creation on the World's Fastest Inference Platform",
+      "mechanism": "Lovable and Cerebras Partner to Power AI Software Creation on the World's Fastest Inference Platform",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Citius Oncology Reports Strong Commercial Momentum for its Cancer Treatment",
+      "mechanism": "<p>New institutional accounts ordering LYMPHIR increased 78% quarter over quarter LYMPHIR's near-universal payer coverage expands market access Initial cutaneous T-cell lymphoma (CTCL) market for LYMPHIR currently exceeds $400 million CRANFORD, N.J., Aug. 5, 2026 /PRNewswire/ -- Citius...</p>",
+      "beneficiaries": [
+        "CTCL"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "RECKITT ANNOUNCES U.S. FDA APPROVAL OF MUCINEX® 12HR COLD &amp; FEVER MULTI-SYMPTOM, THE FIRST OTC INNOVATION IN THE COLD &amp; FLU CATEGORY IN 14 YEARS",
+      "mechanism": "<p>Company's First New Drug Approval1 Addresses #1 Unmet Need for Long-Lasting Symptom Relief* Mucinex 12HR Cold & Fever Multi-Symptom is the first and only FDA-approved OTC cold and flu medication that treats fever, cough, chest congestion and body pain for 12 hours This marks the fourth...</p>",
+      "beneficiaries": [
+        "COLD"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten Tech-Infrastruktur sowie Gold/Energie bleiben, da diese Bereiche die stärksten Performance-Signale liefern (Nasdaq100 +3.32%; Gold +3.78%). Die Kurse des DXY (-0.15%) und EURUSD (+0.42%) deuten auf einen relativen US-Dollar-Verlust hin, was Kaufgelegenheiten für exportorientierte Titel eröffnet. **Was NICHT tun:** Nicht die breite Marktbewegung (Beta) überbewerten; das steigende VIX-Niveau signalisiert, dass der Momentum-Trade bei einer Korrektur extrem anfällig ist."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
