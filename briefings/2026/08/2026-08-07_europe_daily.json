@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-07",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch als Risk-on/ruhig eingestuft, was sich in einem VIX-Verfall von -4.17% widerspiegelt. Die globale Stimmung ist jedoch ambivalent: Während europäische Indiz",
+  "market_regime": "Risk-on / ruhig (VIX 15.1)",
+  "regime_detail": {
+    "vix": 15.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7710.0,
+    "sma200": 7044.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26140.1309,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6502.5601,
+      "change_pct": 0.39,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7709.96,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29373.3301,
+      "change_pct": -0.39,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53885.1016,
+      "change_pct": -0.85,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.67,
+      "change_pct": 1.15,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.15,
+      "change_pct": -4.17,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 164.45,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1527,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9356,
+      "change_pct": 0.36,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.946,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4346.7998,
+      "change_pct": 2.47,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 83.37,
+      "change_pct": 1.07,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 77.88,
+      "change_pct": 0.76,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64364.75,
+      "change_pct": -0.36,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1903.9301,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.05% / ESTX50 +0.39%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.39%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.18%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.18%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -4.17% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.15% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.36%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Bavarian Nordic modtager Europa-Kommissionens godkendelse af mpox/koppevaccine til børn i alderen 2 til under 12 år",
+      "mechanism": "<p align=\"justify\"><b>KØBENHAVN, Danmark, 7. august 2026 </b>– Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at Europa-Kommissionen, på baggrund af den nylige positive udtalelse fra Udvalget for Humanmedicinske Lægemidler (CHMP), nu har godkendt en type II-ændring for koppe- og mpoxvaccinen IMVANEX<sup>®</sup> (MVA-BN). Dermed udvides den eksisterende markedsføringstilladelse til at omfatte børn i alderen 2 til under 12 år.</p>",
+      "beneficiaries": [
+        "BAVA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Bavarian Nordic Receives European Commission Approval of Mpox/Smallpox Vaccine for Children Aged 2 to Less than 12 Years",
+      "mechanism": "<p align=\"justify\"><b>COPENHAGEN, Denmark, August 7, 2026 </b>– Bavarian Nordic A/S (OMX: BAVA) announced today that the European Commission has adopted the recent Committee for Medicinal Products for Human Use (CHMP) positive opinion recommending the approval of a type II variation for IMVANEX<sup>®</sup> (MVA-BN) smallpox and mpox vaccine, extending the current marketing authorization to include children 2 to less than 12 years of age.</p>",
+      "beneficiaries": [
+        "BAVA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "CSG H1 2026 Results: Continued Strong Growth Across Core Markets; Position Developed in Advanced Technologies; Leadership Team Strengthened for Global Scale",
+      "mechanism": "<p align=\"center\"><b>FY 2026 Guidance Reaffirmed</b></p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen eine Übergewichtung von Rohstoff- und Infrastrukturpositionen, die als Hedge gegen steigende Zinsrenditen dienen. Gleichzeitig ist mit Untergewichtung gegenüber breit gestreuten US-Tech-Indices (Nasdaq100 -0.39%) vorzugehen. Die Rate-Sensitivität bleibt das dominante Thema; daher ist strikt zu vermeiden, breite Indexpositionen ohne ausreichende Absicherung gegen steigende Zinsen zu halten."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
