@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-08",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt bewegt sich in einem klaren Risk-on-Regime, was durch die überdurchschnittliche Performance von DAX (+0.69%), S&P 500 (+0.62%) und insbesondere dem Nasdaq100 (+1.19%) bestätigt wird. Das Ker",
+  "market_regime": "Risk-on / ruhig (VIX 14.9)",
+  "regime_detail": {
+    "vix": 14.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7757.6,
+    "sma200": 7050.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26319.4492,
+      "change_pct": 0.69,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6523.8599,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7757.6401,
+      "change_pct": 0.62,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29722.3008,
+      "change_pct": 1.19,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 54036.9297,
+      "change_pct": 0.28,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.66,
+      "change_pct": -0.21,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.9,
+      "change_pct": -1.65,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 165.68,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1562,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9335,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.6,
+      "change_pct": -0.37,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4340.7002,
+      "change_pct": 2.33,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 83.55,
+      "change_pct": 1.29,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 78.18,
+      "change_pct": 1.15,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64968.7305,
+      "change_pct": 1.1,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1915.5601,
+      "change_pct": 0.71,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.69% / ESTX50 +0.33%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.19%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.75%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.62%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -1.65% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.21% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +1.10%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Bybit Sues North Korea and Lazarus Group, Secures Preliminary Injunction Freezing Stolen Assets in Landmark Crypto Asset Recovery Effort",
+      "mechanism": "<p>Lawsuit accuses North Korea and Lazarus Group of orchestrating the $1.5 billion theft, as court-ordered asset freeze supports recovery efforts and Bybit expands collaboration with law enforcement and industry partners to strengthen accountability for crypto-related cybercrime DUBAI, UAE,...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Eightco Holdings (NASDAQ: ORBS) meldt totale bezittingen van ongeveer 378 miljoen dollar, waaronder belangen in OpenAI, Beast Industries, meer dan 16.000 ETH en bijna 302 miljoen WLD-tokens",
+      "mechanism": "<p>Samenstelling van de treasury van Eightco op 5 augustus 2026: 90 miljoen dollar aan OpenAI-aandelen (indirect), 18 miljoen dollar aan aandelen in Beast Industries, 16.278 ETH, bijna 302 miljoen WLD-tokens en 142 miljoen dollar aan liquide middelen en kasequivalenten, goed voor een totale...</p>",
+      "beneficiaries": [
+        "ORBS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Eightco Holdings (NASDAQ: ORBS) rende noto un portafoglio complessivo di circa 378 milioni di dollari, che comprende OpenAI, Beast Industries, oltre 16.000 ETH e quasi 302 milioni di token WLD",
+      "mechanism": "<p>Composizione della tesoreria di Eightco al 5 agosto 2026: 90 milioni di dollari di azioni OpenAI (indirette), 18 milioni di dollari di azioni Beast Industries, 16.278 ETH, quasi 302 milioni di partecipazioni WLD e 142 milioni di dollari in liquidità e mezzi equivalenti, per un totale di...</p>",
+      "beneficiaries": [
+        "ORBS"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "***(Hypothetische Einschätzung)***\n**Übergewichten:** Sachwerte und Rohstoffe. Die relative Überperformance von Gold (+2.33%) gegenüber den Aktienmärkten signalisiert einen strukturellen Inflationsschutzbedarf, der über das allgemeine Risk-on-Sentiment hinausgeht. Ebenso sollten die liquiden Assets im Krypto-Raum (BTC) weiterhin berücksichtigt werden.\n**Was NICHT tun:** Nicht blind der allgemeinen Tech-Rally folgen. Die Divergenz zwischen dem extrem starken Nasdaq100 (+1.19%) und den makroökonomischen Signalen des US10Y (-0.21%) deutet auf eine potenzielle Überhitzung im Technologie-Sektor hin, die durch einen plötzlichen Liquiditätszufluss korrigiert werden könnte."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
