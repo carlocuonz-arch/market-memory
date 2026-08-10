@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-10",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktregime wird kanonisch als \"Risk-on\" eingestuft, doch die signifikante Steigerung des VIX (+3.49%) signalisiert eine Divergenz zwischen Stimmung und tatsächlicher Volatilität. Die Performance ",
+  "market_regime": "Risk-on / ruhig (VIX 15.4)",
+  "regime_detail": {
+    "vix": 15.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7757.6,
+    "sma200": 7050.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26356.1797,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6545.8301,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7757.6401,
+      "change_pct": 0.62,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29722.3008,
+      "change_pct": 1.19,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 54036.9297,
+      "change_pct": 0.28,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.674,
+      "change_pct": 0.3,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.42,
+      "change_pct": 3.49,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 165.68,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1557,
+      "change_pct": 0.28,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9349,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.738,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4393.2998,
+      "change_pct": 1.21,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 84.86,
+      "change_pct": 1.57,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 79.31,
+      "change_pct": 1.45,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64841.0781,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1906.8199,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.14% / ESTX50 +0.34%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.19%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.75%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.62%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +3.49% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.30% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.01%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Deployable Energy Welcomes Strategic Investment and Commercialization Collaboration with Solaris Energy Infrastructure",
+      "mechanism": "<p>Strategic partnership set to advance commercialization of deployable small modular reactor technology for critical energy infrastructure HOUSTON, Aug. 10, 2026 /PRNewswire/ -- Deployable Energy today announced that Solaris Energy Infrastructure, Inc. (NYSE: SEI) (\"Solaris\") has made an...</p>",
+      "beneficiaries": [
+        "SEI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "AI Found an Influenza Target That Survives Viral Mutation",
+      "mechanism": "Issued on behalf of MindWalk Holdings Corp. (Nasdaq: HYFT) <pre>Issued on behalf of MindWalk Holdings Corp. (Nasdaq: HYFT)</pre>",
+      "beneficiaries": [
+        "HYFT"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "MSI Climbs to No. 80 on the 2026 Monitor 200 Ranking of the Nation's Largest Restaurant Franchisees",
+      "mechanism": "<p>Colleyville, Texas-based operator advances 44 positions in two years, rising from No. 124 in 2024 to No. 96 in 2025 to No. 80 in 2026 COLLEYVILLE, Texas, Aug. 10, 2026 /PRNewswire/ -- Meauxmentum Strategies and Investments, LLC (MSI) has been ranked No. 80 on the 2026 Monitor 200, the...</p>",
+      "beneficiaries": [
+        "MSI"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen eine selektive Allokation: Übergewichten sollten Tech-Leader und Rohstoff-Exponierungen bleiben, da diese die stärksten Treiber sind. Neutral ist der breite Markt aufgrund des VIX-Anstiegs. Untergewichtet sollte man breit gestreute Positionen ohne klare sektorale oder kommoditative Rechtfertigung halten. **Was NICHT tun:** Nicht das Risiko ignorieren, dass steigende Volatilität (VIX) die kurzfristige Korrelation zwischen Tech-Performance und allgemeinem Risikogefühl entkoppeln kann."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
