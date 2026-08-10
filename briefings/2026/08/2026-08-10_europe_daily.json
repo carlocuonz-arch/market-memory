@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-10",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt operiert in einem klaren Risk-on/ruhigen Regime, bestätigt durch einen VIX-Stand von 14.9 und eine sinkende Volatilität (-1.65%). Die globale Stimmung ist robust, was sich an den Kursgewinne",
+  "market_regime": "Risk-on / ruhig (VIX 14.9)",
+  "regime_detail": {
+    "vix": 14.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7757.6,
+    "sma200": 7050.0
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26319.4492,
+      "change_pct": 0.69,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6523.8599,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7757.6401,
+      "change_pct": 0.62,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29722.3008,
+      "change_pct": 1.19,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 54036.9297,
+      "change_pct": 0.28,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.66,
+      "change_pct": -0.21,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.9,
+      "change_pct": -1.65,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 165.68,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1559,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9342,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.683,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4402.5,
+      "change_pct": 1.42,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 83.54,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 78.08,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 65117.8008,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1923.95,
+      "change_pct": 0.44,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.69% / ESTX50 +0.33%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.19%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.75%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.62%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -1.65% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.21% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.33%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "AB Science annonce aujourd’hui le succès d’augmentations de capital d’un montant brut total de 14,2 millions d’euros",
+      "mechanism": "<p align=\"right\"><b>COMMUNIQUE DE PRESSE</b></p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Sylvatex and OneJoon Partner to Accelerate Commercial Production of Cost-Competitive Domestic Cathode Materials",
+      "mechanism": "Strategic collaboration combines Sylvatex's differentiated precursor-free manufacturing platform with OneJoon's commercial-scale battery equipment and Lab-to-Production expertise to accelerate time-to-market for Western LFP supply chains as demand accelerates across AI data centers, energy storage, mobility, and defense <pre>Strategic collaboration combines Sylvatex's differentiated precursor-free manufacturing platform with OneJoon's commercial-scale battery equipment and Lab-to-Production expertise to accelerate time-to-market for Western LFP supply chains as demand accelerates across AI data centers, energy storage, mobility, and defense</pre>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "RUBIS : COMPOSITION DU CONSEIL DE SURVEILLANCE",
+      "mechanism": "<p align=\"right\">Paris, le 10 août 2026, 07h00</p>",
+      "beneficiaries": [
+        "DE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "**Übergewichten:** Tech- und Gesundheitssektoren (`europe_tech`, `us_tech`, `health_rotation`). Das Momentum in diesen Bereichen ist deterministisch positiv (Scorecard: 1).\n**Was NICHT tun:** Übermäßige Gewichtung von Rohstoffen wie WTI (-0.13%) oder Brent (-0.01%), deren schwaches Momentum im Kontrast zum allgemeinen Risiko-Appetit steht."
+  },
+  "confidence": {
+    "level_pct": 43,
+    "conviction_pct": 43,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
