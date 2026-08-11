@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-11",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Markt befindet sich im risk-on-Modus mit niedriger Volatilität (VIX 15.6), zeigt aber gemischte Leistung: Europa leicht positiv (DAX +0.30%, ESTX50 +0.40%), US-Tech leicht negativ (Nasdaq100 -0.34%). ",
+  "market_regime": "Risk-on / ruhig (VIX 15.6)",
+  "regime_detail": {
+    "vix": 15.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7753.1,
+    "sma200": 7055.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26402.3301,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6561.98,
+      "change_pct": 0.4,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7753.1099,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29621.8008,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53975.9805,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.686,
+      "change_pct": -0.28,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.55,
+      "change_pct": 0.58,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 168.44,
+      "change_pct": 1.67,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1546,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9354,
+      "change_pct": 0.16,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.821,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4453.2002,
+      "change_pct": 2.1,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.33,
+      "change_pct": -0.44,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 81.84,
+      "change_pct": -0.35,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64136.7812,
+      "change_pct": 0.35,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1885.39,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.30% / ESTX50 +0.40%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.34%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +1.67%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.06%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +0.58% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.28% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.35%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Halper Sadeh LLC is Investigating Whether UTZ, BWMN, ITGR are Obtaining Fair Deals for their Shareholders",
+      "mechanism": "<p align=\"center\"><strong><em>Insiders may stand to receive substantial financial benefits not available to ordinary shareholders. </em></strong></p>",
+      "beneficiaries": [
+        "UTZ"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Shareholders who lost money in shares of GPGI, Inc. (NYSE: GPGI) Should Contact Wolf Haldenstein Immediately",
+      "mechanism": "<p>Lead Plaintiff Deadline September 14, 2026 New York, NY, Aug. 11, 2026 /PRNewswire/ -- Wolf Haldenstein Adler Freeman & Herz LLP, a nationally recognized securities litigation law firm, informs investors that a securities fraud class action lawsuit has been filed against GPGI, Inc....</p>",
+      "beneficiaries": [
+        "GPGI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Leica Biosystems Enables Faster Cancer Diagnoses Through Multiple Digital Pathology FDA Clearances, Including Industry-First AI-Assisted Quality Control Software",
+      "mechanism": "<p>Portfolio expansion marks new era for diagnosis delivery, translating digital pathology innovation to clinical impact by accelerating workflows and patient care VISTA, Calif., Aug. 11, 2026 /PRNewswire/ -- Leica Biosystems, a Danaher company and a global leader in end-to-end anatomic and...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:*  \n- **Übergewichten**: Health (XLV, VHT), Gold  \n- **Neutral**: Europa-Tech (DAX, ESTX50), Crypto (BTC, ETH)  \n- **Untergewichten**: US-Tech (Nasdaq100)  \n- **Was NICHT tun**: Kein Short-Engagement in Health-Sektor oder Gold bei fallender Volatilität – Gegenbewegung wahrscheinlich.  \n\nQuelle: Eigene Analyse basierend auf Marktdaten vom 11. August 2026 (via SearXNG)."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
