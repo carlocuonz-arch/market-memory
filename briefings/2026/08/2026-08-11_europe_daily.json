@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-11",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Marktregime wechselt leicht Richtung Risk-off: VIX steigt um 3.76 % auf 15.46, US10Y- Rendite klettert auf 4.699 %. Trotzdem dominiert die Seitwächerei – keine klare Richtung, aber steigende Volatilit",
+  "market_regime": "Risk-on / ruhig (VIX 15.5)",
+  "regime_detail": {
+    "vix": 15.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7753.1,
+    "sma200": 7055.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26323.8809,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6535.6201,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7753.1099,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29621.8008,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53975.9805,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.699,
+      "change_pct": 0.84,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.46,
+      "change_pct": 3.76,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 168.44,
+      "change_pct": 1.67,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1541,
+      "change_pct": -0.14,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9355,
+      "change_pct": 0.17,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.825,
+      "change_pct": 0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4428.7998,
+      "change_pct": 1.54,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.24,
+      "change_pct": 0.59,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.74,
+      "change_pct": 0.74,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63860.6484,
+      "change_pct": -1.52,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1870.75,
+      "change_pct": -1.99,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.02% / ESTX50 +0.18%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.34%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +1.67%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.06%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +3.76% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.84% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.52%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "2026 resource drilling programme commences at Nanoq gold project",
+      "mechanism": "<p align=\"center\">Reykjav&#237;k, Aug.  11, 2026  (GLOBE NEWSWIRE) -- <br /></p> <p align=\"center\"><b>Amaroq Ltd.</b><br /><b>(“Amaroq” or the “Company”)</b></p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "PhilWeb Q2 Net Income Surges 237% Q-Q on Digital Gaming Solutions Growth and AI Pilot",
+      "mechanism": "<p>Core Digital Gaming Solutions account for 57% of total second-quarter revenues Key Highlights: Profitability Acceleration: Q2 2026 net income reached ₱47 million, up 237% quarter-on-quarter from ₱13.9 million in Q1 2026. Revenue Scaling: Q2 2026 revenue expanded to ₱352.4 million, a 96%...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "CMB.TECH fleet update",
+      "mechanism": "<p><b>ANTWERP, Belgium, 11 August 2026, 08:00 CET – CMB.TECH NV (“CMBT”, “CMB.TECH” or “the company”) (NYSE: CMBT, Euronext Brussels: CMBT and Euronext Oslo Børs: CMBTO) has sold one Suezmax, generating a capital gain of approximately 56.9 million USD.</b></p>",
+      "beneficiaries": [
+        "CET"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:*  \n- **Übergewichten**: Health (z. B. VHT, IBB)  \n- **Neutral**: Europa (DAX, ESTX50), Gold  \n- **Untergewichten**: US-Tech (Nasdaq100), Crypto (BTC, ETH)  \n- **Was NICHT tun**: Kein Timing auf US-Tech-Shorts setzen – Trend fehlt, Vola aber hoch.  \nQuelle: Eigenanalyse basierend auf Marktdaten vom 11.08.2026 (UTC)."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
