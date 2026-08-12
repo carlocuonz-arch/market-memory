@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-12",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Europäische Aktien leicht im Plus, US-Märkte leicht im Minus – das Makro-Regime bleibt risk-on mit niedriger Volatilität (VIX 15.3). Gold und Öl führen die Kursbewegungen an, während BTC leicht fällt.",
+  "market_regime": "Risk-on / ruhig (VIX 15.3)",
+  "regime_detail": {
+    "vix": 15.3,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7728.2,
+    "sma200": 7060.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26391.4199,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6551.2202,
+      "change_pct": 0.24,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7728.2002,
+      "change_pct": -0.32,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29525.4805,
+      "change_pct": -0.33,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53791.8516,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.684,
+      "change_pct": -0.32,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.28,
+      "change_pct": -1.16,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 168.01,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1539,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9367,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.87,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4449.1001,
+      "change_pct": 1.51,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 89.52,
+      "change_pct": 0.69,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 83.8,
+      "change_pct": 0.72,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63577.2891,
+      "change_pct": -0.52,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1884.8,
+      "change_pct": 0.72,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.26% / ESTX50 +0.24%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.33%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.26%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.32%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -1.16% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.32% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.52%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Argus launches first ship-to-ship Gulf of Oman prices for Abu Dhabi crude",
+      "mechanism": "<p>New assessments bring transparency to Abu Dhabi crude trading outside the strait of Hormuz SINGAPORE, Aug. 12, 2026 /PRNewswire/ -- Global energy and commodity price reporting agency Argus has launched the first assessed prices for Abu Dhabi offshore crude exports loading on a...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "MindMaze Therapeutics Appoints Prof. John W. Krakauer as Strategic Advisor",
+      "mechanism": "<p>GENEVA, Aug. 12, 2026 /PRNewswire/ -- MindMaze Therapeutics Holding SA (SIX: MMTX) (MindMaze Therapeutics or the Company), a global leader in scalable precision neurotherapeutics, today announced that Dr. John Krakauer has joined the Company as a strategic advisor to support its next...</p>",
+      "beneficiaries": [
+        "MMTX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Presentación de Oticon Reveal™, el primer audífono del mundo con tecnología Dual AI",
+      "mechanism": "<p>Experimenta un mundo lleno de sonidos SMØRUM, Dinamarca, 12 de agosto de 2026 /PRNewswire/ -- Hoy, Oticon lanza Oticon Reveal™, el primer audífono del mundo equipado con tecnología Dual AI, que ofrece un habla nítida y sonidos significativos con un equilibrio óptimo, lo que acerca a los...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "**Hypothetische Einschätzung**:  \n- **Übergewichten**: Gold (GLD), Energie (XLE), europäische Aktien (DAX/ESTX50).  \n- **Neutral**: US-Tech (QQQ), Health (XLV).  \n- **Untergewichten**: BTC, zyklische US-Aktien.  \n- **Was NICHT tun**: Kein Timing auf kurze VIX-Engpässe setzen; bei steigenden Zinsen kein Duration-Risiko in Bonds.  \n\nQuelle: eigene Analyse basierend auf Marktdaten vom 12.08.2026."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
