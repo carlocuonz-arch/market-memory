@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-13",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Markt befindet sich im kanonseligen Risk-on-Modus mit niedriger Volatilität (VIX 14.4). US-Tech bleibt dominante Kraft (Nasdaq +0.74%), während Öl (Brent -2.32%, WTI -2.65%) unter Druck steht. Kernris",
+  "market_regime": "Risk-on / ruhig (VIX 14.4)",
+  "regime_detail": {
+    "vix": 14.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7748.5,
+    "sma200": 7065.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26405.3809,
+      "change_pct": 0.28,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6557.4199,
+      "change_pct": 0.36,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7748.5,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29742.5996,
+      "change_pct": 0.74,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53770.2695,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.645,
+      "change_pct": -0.79,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.44,
+      "change_pct": -0.76,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 168.44,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1538,
+      "change_pct": -0.05,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9369,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.842,
+      "change_pct": -0.17,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4448.8999,
+      "change_pct": 0.91,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 86.92,
+      "change_pct": -2.32,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 81.06,
+      "change_pct": -2.65,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63529.5195,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1886.24,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.28% / ESTX50 +0.36%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.74%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.26%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.26%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -0.76% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.79% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.20%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "SuperCom Reports Record Revenue and Record EBITDA of $4 Million in the Second Quarter of 2026",
+      "mechanism": "<p>Q2 2026: Record Revenue of $8.1 million, Non-GAAP Net Income of $2.9 million, Non-GAAP EPS of $0.52 H1 2026: Revenue of $15.7 million; Record EBITDA of $7.3 million TEL AVIV, Israel, Aug. 13, 2026 /PRNewswire/ -- SuperCom Ltd. (\"SuperCom\" or the \"Company\") (NASDAQ: SPCB), a global...</p>",
+      "beneficiaries": [
+        "SPCB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Hippocratic AI Announces Next Generation of Healthcare AI: Orchestrators Focused on Outcomes, Not Tasks",
+      "mechanism": "<p>Beyond single agents: Coordinated AI teams now deliver complete healthcare solutions, for payers, providers, and life sciences, including AI Readmission Reduction, AI Star Ratings and HEDIS Improvement, AI Chronic Care, AI Trial Enrollment MENLO PARK, Calif., Aug. 13, 2026 /PRNewswire/ --...</p>",
+      "beneficiaries": [
+        "PARK"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Odysight.ai Reports Financial Results for the First Half of 2026 and Provides Business Update",
+      "mechanism": "<p align=\"justify\"><strong>Ramat Gan, Israel, Aug.  13, 2026  (GLOBE NEWSWIRE) -- </strong>Odysight.ai Inc. (NASDAQ/TASE: ODYS), a leader in AI-powered visual sensing and predictive maintenance (PdM) solutions for the aerospace, defense, and industrial markets, today announces its financial results for the first half of 2026, and provides a business update.</p>",
+      "beneficiaries": [
+        "ODYS"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:*  \n- **Übergewichten:** US-Tech (Nasdaq), KI- und Gesundheits-Themen (z. B. IBB, VHT).  \n- **Neutral:** Euro Stoxx 50, Dow.  \n- **Untergewichten:** Rohstoffe, Öl (Brent/WTI).  \n- **Was NICHT tun:** Kein Short-Setup auf Tech oder Risk-assets trotz leichter Korrektur – VIX noch unter 15. Keine neue Exposure in Energie oder Vola-Spekulation.  \n\nQuelle: Eigene Analyse basierend auf Marktdaten vom 13.08.2026, 13:30 UTC."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
