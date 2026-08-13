@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-13",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Markt befindet sich im kanonicalen Risk-on-Modus mit ruhiger Volatilität (VIX 14.6). US-Tech bleibt der Treiber (Nasdaq +0.74%), während Europa leicht unter Druck steht (DAX -0.23%, ESTX50 -0.26%). Ke",
+  "market_regime": "Risk-on / ruhig (VIX 14.6)",
+  "regime_detail": {
+    "vix": 14.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7748.5,
+    "sma200": 7065.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26331.0703,
+      "change_pct": -0.23,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6533.9902,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7748.5,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29742.5996,
+      "change_pct": 0.74,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53770.2695,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.682,
+      "change_pct": -0.04,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.55,
+      "change_pct": -4.78,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 168.44,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1521,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9377,
+      "change_pct": 0.16,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 100.003,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4433.0,
+      "change_pct": 0.55,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.81,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 83.05,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63759.0391,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1892.75,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.23% / ESTX50 -0.26%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.74%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.26%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.26%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -4.78% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.04% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.33%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "X Square Robot Demonstrates Embodied AI in Real-World Logistics Operations",
+      "mechanism": "<p>In a livestream on X and YouTube, the company's embodied AI model and self-developed High-Performance 6-Axis Robot Arm autonomously identified, picked, reoriented, and fed highly variable parcels into a live sorting workflow, achieving 1,816 parcels per hour with over 98% accuracy....</p>",
+      "beneficiaries": [
+        "X"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Artmarket.com : 2T2026 en hausse, de la transition progressive à la mutation « AI-FIRST » d'Artprice",
+      "mechanism": "<p>PARIS, 13 août 2026 /PRNewswire/ -- Chiffre d'affaires en K€ Internet Total 2T2026 2T2026 1 432 1 432 2T2025 1 339 1 339 Variation en % +7% Artmarket.com enregistre un chiffre d'affaires en croissance pour le 2T2026 Chiffre d'affaires en K€ : Internet : Variation des produits Internet...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Staffbase פותחת משרד במזרח התיכון ובאפריקה ומשיקה שירות אחסון נתונים באיחוד האמירויות, במטרה לגשר על הפער בתקשורת עם עובדי השטח באזור",
+      "mechanism": "ככל שמפעלים באזור MEA מאיצים את ההמרה הדיגיטלית ואת אימוץ הבינה המלאכותית, שני אתגרים מתכנסים עבור המעסיקים הגדולים ביותר באזור: הגעה לכוח עבודה מבוזר ורב-לשוני בחזית, ועשיית זאת על תשתית העומדת בדרישות אחסון הנתונים המקומיות <pre>ככל שמפעלים באזור MEA מאיצים את ההמרה הדיגיטלית ואת אימוץ הבינה המלאכותית, שני אתגרים מתכנסים עבור המעסיקים הגדולים ביותר באזור: הגעה לכוח עבודה מבוזר ורב-לשוני בחזית, ועשיית זאת על תשתית העומדת בדרישות אחסון הנתונים המקומיות</pre>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:*  \n- **Übergewichten**: US-Tech (Nasdaq100), AI-gestützte Infrastruktur (z. B. VRT, ONON)  \n- **Neutral**: Health (XLV +0.26%), Crypto (BTC/ETH stabil)  \n- **Untergewichten**: Europa-Tech (DAX/ESTX50), rohe Materialien (Brent/WTI leicht negativ)  \n- **Was NICHT tun**: Kein Short auf Vola bei VIX <15 – Timing zu riskig. Keine Allokation auf zyklische Europa-Branchen ohne klare Nachfrage.  \n\nQuelle: Eigene Analyse basierend auf Marktdaten vom 13.08.2026, 06:30 UTC."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
