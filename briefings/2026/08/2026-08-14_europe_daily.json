@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-14",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Automatischer Faktenstand (europe_daily). Größte Bewegungen: Nasdaq100 +1.15%; WTI +0.94%; US10Y -0.88%. (LLM-Prosa nicht verfügbar — deterministischer Notausgang.)",
+  "market_regime": "Risk-on / ruhig (VIX 14.6)",
+  "regime_detail": {
+    "vix": 14.6,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7799.0,
+    "sma200": 7070.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26299.7402,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6545.4702,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7798.9902,
+      "change_pct": 0.65,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30084.5,
+      "change_pct": 1.15,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53839.9883,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.641,
+      "change_pct": -0.88,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.63,
+      "change_pct": 0.55,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 168.38,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1543,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9392,
+      "change_pct": 0.19,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.842,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4387.7002,
+      "change_pct": 0.55,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.81,
+      "change_pct": 0.85,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.01,
+      "change_pct": 0.94,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63110.5312,
+      "change_pct": -0.46,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1875.66,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.12% / ESTX50 +0.18%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.15%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.04%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.65%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +0.55% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.88% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.46%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "BTS Group AB (publ) delårsrapport januari - juni 2026",
+      "mechanism": "<p><b>Ytterligare ett kvartal med resultattillväxt</b></p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "BTS Group AB (publ) Interim report January - June 2026",
+      "mechanism": "<p><b>One more quarter of profit growth</b></p>",
+      "beneficiaries": [
+        "AB"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&amp;D Program to open-source AI chip designs for autonomous driving",
+      "mechanism": "<p>TOKYO, Aug. 14, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined the Next-Generation Edge AI Semiconductor Research and Development Program led by the Japan Science and Technology Agency (JST) to advance research and...</p>",
+      "beneficiaries": [
+        "JST"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch: ohne LLM-Einordnung keine narrative Positionierung. Was NICHT tun: keine Trades allein auf diesen Notausgang stützen."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": [
+      "Prosa-Fallback: Modell-Output ohne erwartete Abschnitte"
+    ]
+  },
+  "source": {
+    "created_by": "deterministic-fallback",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via ?. Prosa-Fehler: Modell-Output ohne erwartete Abschnitte"
+  }
+}
