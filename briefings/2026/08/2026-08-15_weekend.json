@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-15",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Risk-on-Regime mit ruhiger Volatilität (VIX 14.2) und gemischten Bewegungen: DAX +0.53%, während US-Indizes leicht nachgeben (S&P 500 -0.17%). Steigende US-10-Jahresrenditen (+1.19%) und fallende Kryp",
+  "market_regime": "Risk-on / ruhig (VIX 14.2)",
+  "regime_detail": {
+    "vix": 14.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7785.8,
+    "sma200": 7074.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26440.3105,
+      "change_pct": 0.53,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6539.5898,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7785.7598,
+      "change_pct": -0.17,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 30046.1406,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53732.4102,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.696,
+      "change_pct": 1.19,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.25,
+      "change_pct": -2.6,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 167.37,
+      "change_pct": -0.6,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1573,
+      "change_pct": 0.37,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9406,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.67,
+      "change_pct": -0.29,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4380.3999,
+      "change_pct": 0.38,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.52,
+      "change_pct": 1.67,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.4,
+      "change_pct": 1.42,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 63045.5391,
+      "change_pct": -0.56,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1880.36,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.53% / ESTX50 -0.09%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.13%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -0.60%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.17%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.60% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.19% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.56%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Microvast Holdings, Inc. (MVST) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+      "mechanism": "<p>BENSALEM, Pa., Aug. 14, 2026 /PRNewswire/ -- The Law Offices of Howard G. Smith announces that investors with substantial losses have opportunity to lead the securities fraud class action lawsuit against Microvast Holdings, Inc. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN MICROVAST...</p>",
+      "beneficiaries": [
+        "MVST"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "The Wealth Company Launches Gift City Fund to Give NRIs a Single, Dollar-Denominated Route into India's Mutual Fund Market",
+      "mechanism": "<p>New Category III AIF brings India's 50+ AMCs and 1,600+ mutual fund schemes within one professionally managed investment structure MUMBAI, India, Aug. 15, 2026 /PRNewswire/ -- The Wealth Company, the asset management arm of Pantomath Group, has launched The Wealth Company IFSC Fund of...</p>",
+      "beneficiaries": [
+        "III"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "FRONTERA ANNOUNCES SECOND QUARTER 2026 RESULTS",
+      "mechanism": "<p>Recorded Net Income for the Period of $29.0 Million Adjusted EBITDA Increased 18% Year over Year to $30.5 Million Completed Transformation into a Focused Infrastructure Company and Returned C$8.34 per Share, C$590 Million to Shareholders Puerto Bahia Achieved Record RoRo Activity Advanced...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:*  \nÜbergewichten in Rohstoffen (Brent, Gold) und EUR-Währungspositionen (EURUSD +0.37%). Neutral in US-Tech (Nasdaq100 -0.13%) und europäischen Indizes (DAX +0.53%, ESTX50 -0.09%). Untergewichten in Krypto (BTC -0.56%) und Health (XLV -0.60%).  \n**Was NICHT tun:** Keine neuen Positionen in sehr volatilen Small-Caps oder momentum-getriebenen Tech-Wertern bei steigenden Zinsen. Quelle: Interne Daten, Stand 15.08.2026, 07:00 UTC."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
