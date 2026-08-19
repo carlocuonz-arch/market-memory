@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-19",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktumfeld bleibt risk-on mit niedriger Volatilität (VIX 15.4), trotz leichter Kursverluste an den US-Börsen. US-Tech-Aktien unter Druck (Nasdaq -1,68 %), während Gesundheitswerte stärkstes Wachs",
+  "market_regime": "Risk-on / ruhig (VIX 15.4)",
+  "regime_detail": {
+    "vix": 15.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7691.8,
+    "sma200": 7083.2
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26099.3594,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6473.2598,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7691.7598,
+      "change_pct": -0.69,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29490.9609,
+      "change_pct": -1.68,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53343.3984,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.641,
+      "change_pct": -1.38,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.11,
+      "change_pct": -4.61,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 169.73,
+      "change_pct": 1.6,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1656,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9374,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.02,
+      "change_pct": -0.63,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4517.5,
+      "change_pct": 3.47,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 91.22,
+      "change_pct": 0.22,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 84.27,
+      "change_pct": -0.79,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 64958.9297,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 1936.0,
+      "change_pct": 1.02,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.11% / ESTX50 +0.08%."
+    },
+    "us_tech": {
+      "score": -2,
+      "interpretation": "Nasdaq100 -1.68%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +1.60%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.69%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -4.61% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.38% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.43%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "UNIVERSAL MUSIC GROUP AND HOOK PARTNER TO EXPAND LICENSED FAN CREATIVITY ACROSS SOCIAL MEDIA",
+      "mechanism": "<p>Groundbreaking framework for licensed UGC across social media gives fans new ways to create while giving artists and rightsholders greater control and compensation Two-year collaboration built new model with learnings from over 30 UMG artist campaigns LOS ANGELES and NEW YORK, Aug. 19,...</p>",
+      "beneficiaries": [
+        "HOOK"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "EQUIPMENTSHARE.COM INC. SECURITIES FRAUD NOTICE: Berger Montague Informs EquipmentShare.com Inc. (NASDAQ: EQPT) Investors of a Securities Fraud Lawsuit",
+      "mechanism": "<p>PHILADELPHIA, Aug. 19, 2026 /PRNewswire/ -- National plaintiffs' law firm Berger Montague PC announces a class action lawsuit against EquipmentShare.com Inc. (NASDAQ: EQPT) (\"EquipmentShare\" or the \"Company\") on behalf of investors who purchased or acquired EquipmentShare securities...</p>",
+      "beneficiaries": [
+        "EQPT"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Bitdeer AI Advances AI Cloud Build-Out in Malaysia and Targets up to 350MW of AI Cloud Data Center Capacity by Q1 2028",
+      "mechanism": "Approximately 50% of the 9.5MW A102 facility has been recently contracted under a 5-year long term offtake commitment with total expected revenue of approximately $400 million, in line with Bitdeer AI's approach of structuring such contracts so that customer prepayments are typically expected to cover more than 50% of associated capital expenditure <pre>Approximately 50% of the 9.5MW A102 facility has been recently contracted under a 5-year long term offtake commitment with total expected revenue of approximately $400 million, in line with Bitdeer AI's approach of structuring such contracts so that customer prepayments are typically expected to cover more than 50% of associated capital expenditure</pre>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch: Übergewicht Health (+1,60 %), Neutral Europe Tech (DAX/ESTX50 seitlich), Untergewicht US Tech (Nasdaq100 -1,68 %). Was NICHT tun: Keine neuen Positionen in US-Tech aufbauen, solange VIX-Implikationen steigen und Renditen drücken.  \n\nQuelle: Eigene Analyse basierend auf den übermittelten Marktdaten vom 19.08.2026."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "aihub",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via aihub. Prosa ok."
+  }
+}
