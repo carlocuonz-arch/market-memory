@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-20",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Automatischer Faktenstand (us_daily). Größte Bewegungen: VIX +6.65%; BTC +3.82%; Health +3.51%. (LLM-Prosa nicht verfügbar — deterministischer Notausgang.)",
+  "market_regime": "Risk-on / ruhig (VIX 15.9)",
+  "regime_detail": {
+    "vix": 15.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7708.0,
+    "sma200": 7087.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25948.4492,
+      "change_pct": -0.55,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6417.7002,
+      "change_pct": -0.42,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7707.98,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29426.0195,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53463.0508,
+      "change_pct": 0.22,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.704,
+      "change_pct": 1.1,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.88,
+      "change_pct": 6.65,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 175.68,
+      "change_pct": 3.51,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.169,
+      "change_pct": 0.96,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9327,
+      "change_pct": -0.8,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.73,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4529.2998,
+      "change_pct": 0.89,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 93.6,
+      "change_pct": 2.16,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 86.47,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 71910.7266,
+      "change_pct": 3.82,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2286.6101,
+      "change_pct": 1.56,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.55% / ESTX50 -0.42%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 -0.22%."
+    },
+    "health_rotation": {
+      "score": 2,
+      "interpretation": "XLV +3.51%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.21%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +6.65% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.10% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +3.82%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "MICROVAST HOLDINGS, INC. (MVST) SHAREHOLDER ALERT Bernstein Liebhard LLP Reminds Microvast Holdings, Inc. Investors of Upcoming Deadline",
+      "mechanism": "Microvast Shareholders Between April 1, 2025 and March 16, 2026 - Contact Bernstein Liebhard For More Information Regarding Lawsuit",
+      "beneficiaries": [
+        "MVST"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Hovnanian Enterprises Reports Fiscal 2026 Third Quarter Results",
+      "mechanism": "<p align=\"center\"><strong>Met or Exceeded Guidance on Nearly All Metrics Provided</strong><br /><strong>Gross Margins Improved Sequentially for Second Quarter in a Row</strong><br /><strong>The Dollar Value of Consolidated Domestic Backlog Increased 5% Year Over Year</strong></p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Creative Medical Technology Holdings Successfully Completes Enrollment and Treatment Across Entire FDA-Cleared ADAPT Trial, Including Opioid Cohort, Advancing CELZ-201 / Olastrocel Toward RMAT Evaluation and Phase 3 Planning",
+      "mechanism": "<p align=\"center\"><em>All patients enrolled and treated across original and FDA-cleared expansion cohorts</em></p>",
+      "beneficiaries": [
+        "CELZ"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch: ohne LLM-Einordnung keine narrative Positionierung. Was NICHT tun: keine Trades allein auf diesen Notausgang stützen."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": [
+      "Prosa-Fallback: Modell-Output ohne erwartete Abschnitte"
+    ]
+  },
+  "source": {
+    "created_by": "deterministic-fallback",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via ?. Prosa-Fehler: Modell-Output ohne erwartete Abschnitte"
+  }
+}
