@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-21",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime ist formal als Risk-on/ruhig zu klassifizieren, was durch den VIX-Wert von 15.49 gestützt wird. Die Performance der US-Tech-Giganten (-0.72% Nasdaq100; -1.32% Dow) steht im deutlichen",
+  "market_regime": "Risk-on / ruhig (VIX 15.4)",
+  "regime_detail": {
+    "vix": 15.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7641.2,
+    "sma200": 7091.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26105.1191,
+      "change_pct": 0.47,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6452.4702,
+      "change_pct": 0.47,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7641.1602,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29213.1602,
+      "change_pct": -0.72,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52759.2109,
+      "change_pct": -1.32,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.706,
+      "change_pct": 0.21,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.49,
+      "change_pct": -3.25,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 172.39,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1688,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9352,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.777,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4637.6001,
+      "change_pct": 2.69,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 94.05,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 86.8,
+      "change_pct": -1.17,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 77067.9609,
+      "change_pct": 5.53,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2385.98,
+      "change_pct": 2.56,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.47% / ESTX50 +0.47%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.72%."
+    },
+    "health_rotation": {
+      "score": -2,
+      "interpretation": "XLV -1.87%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.87%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -3.25% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.21% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +5.53%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "NASDAQ: ALNY Investigation Alert: Kessler Topaz Meltzer & Check, LLP Encourages Alnylam Pharmaceuticals, Inc. (NASDAQ: ALNY) Investors to Contact the Firm",
+      "mechanism": "<p align=\"justify\">RADNOR, Pa., Aug.  21, 2026  (GLOBE NEWSWIRE) -- Kessler Topaz Meltzer &amp; Check, LLP (<a href=\"https://www.globenewswire.com/Tracker?data=XXU8GL7ga8TiZul6NuA6CCaGElUUVlohvj9j9r6WqOjcB8-4w7NMMOeR6224fJt4_y3MN5WHaIJYenRATvDZHQ==\" rel=\"nofollow\" target=\"_blank\" title=\"www.ktmc.com\">www.ktmc.com</a>), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by Alnylam Pharmaceuticals, Inc. (<a href=\"https://www.globenewswire.com/Tracker?data=HAbMQZ-Tc5f15hajPm1XAni_7aq3Et5K6aqmdLRbzeWuPwA39MvX0CB9sEGzTsFflJgQMOvXHrxA9ebAaW68jah57Z2pwQGB2is6yjLoX3g=\" rel=\"nofollow\" target=\"_blank\" title=\"\">NASDAQ: ALNY</a>) on behalf of investors who purchased or acquired Alnylam Pharmaceuticals, Inc. securities and experienced significant financial losses.</p>",
+      "beneficiaries": [
+        "ALNY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Millennium Excellence Foundation Honours Reginald F. Lewis In Memorial",
+      "mechanism": "<p>A Pioneer of American Enterprise, a Quiet Champion of Africa, and a Builder of Futures for the Next Generation WASHINGTON, Aug. 21, 2026 /PRNewswire/ -- The Millennium Excellence Foundation (MEF) will honour the late Reginald F. Lewis In Memorial at the 2026 Millennium Excellence Awards,...</p>",
+      "beneficiaries": [
+        "MEF"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Alvotech kynnir samning við Lotus Pharmaceutical um markaðssetningu á fyrirhuguðum hliðstæðum við durvalumab og emicizumab í Bandaríkjunum og á völdum mörkuðum í Asíu",
+      "mechanism": "<p><b>Reykjavík </b><b>(21. ágúst 2026) </b>— Alvotech tilkynnti í dag að félagið hefði gert samstarfssamning við lyfjafyrirtækið Lotus Pharmaceutical um markaðssetningu í Bandaríkjunum og nokkrum Asíuríkjum á tveimur fyrirhuguðum hliðstæðum: AVT34, fyrirhugaðri hliðstæðu við Imfinzi (durvalumab) og AVT87, fyrirhugaðri hliðstæðu við Hemlibra (emicizumab).</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir empfehlen, alternative Assets (Gold, Krypto) **überzuwiegen**, da die Performance dort signifikant ist und ein strukturelles Risiko in den US-Tech-Titeln (-1 Scorecard für us_tech) abfedert. Die europäischen Titel sind momentan **neutral** zu behandeln, während wir eine Untergewichtung von traditionellen Industriemetallen (WTI -1.17%) empfehlen. *Was NICHT zu tun ist:* Nicht die Divergenz zwischen dem DAX/ESTX50 und den US-Indizes zu ignorieren; die überdurchschnittliche Stärke der Kryptowährungen deutet darauf hin, dass traditionelle Korrelationsmodelle momentan an ihre Grenzen stoßen könnten."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
