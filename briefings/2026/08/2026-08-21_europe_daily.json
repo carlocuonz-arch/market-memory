@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-21",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime befindet sich in einer spannungsgeladenen Phase: Obwohl formal ein „Risk-on“-Tag verzeichnet wird, signalisieren der Anstieg des VIX um 7.52% (auf 16.01) und die steigenden US-Rendite",
+  "market_regime": "Risk-on / ruhig (VIX 16.0)",
+  "regime_detail": {
+    "vix": 16.0,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7641.2,
+    "sma200": 7091.6
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25983.0391,
+      "change_pct": -0.42,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6422.0601,
+      "change_pct": -0.35,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7641.1602,
+      "change_pct": -0.87,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29213.1602,
+      "change_pct": -0.72,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52759.2109,
+      "change_pct": -1.32,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.696,
+      "change_pct": 0.92,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.01,
+      "change_pct": 7.52,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 172.39,
+      "change_pct": -1.87,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1696,
+      "change_pct": 0.19,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9352,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.737,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4612.0,
+      "change_pct": 2.12,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 93.25,
+      "change_pct": -0.57,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 86.21,
+      "change_pct": -1.84,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 75298.7422,
+      "change_pct": 8.71,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2359.6101,
+      "change_pct": 4.8,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.42% / ESTX50 -0.35%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.72%."
+    },
+    "health_rotation": {
+      "score": -2,
+      "interpretation": "XLV -1.87%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.87%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +7.52% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.92% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +8.71%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "First Solar, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - FSLR",
+      "mechanism": "<p>LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against First Solar, Inc. (\"First Solar\" or \"the Company\") (NASDAQ: FSLR) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated...</p>",
+      "beneficiaries": [
+        "FSLR"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Bavarian Nordic opjusterer sine økonomiske forventninger til 2026",
+      "mechanism": "<p align=\"justify\"><b>KØBENHAVN, Danmark, 21. august 2026</b> – Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har opjusteret sine økonomiske forventninger for regnskabsåret 2026 som følge af den fortsatte stærke udvikling i forretningsområdet Public Preparedness.</p>",
+      "beneficiaries": [
+        "BAVA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Bavarian Nordic Upgrades its Full-Year 2026 Financial Guidance",
+      "mechanism": "<p align=\"justify\"><b>COPENHAGEN, Denmark, August 21, 2026</b> – Bavarian Nordic A/S (OMX: BAVA) today announced an upgrade of the Company’s financial guidance for the full year 2026, reflecting continued strength in the Public Preparedness business.</p>",
+      "beneficiaries": [
+        "BAVA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* **Übergewichten** sollten hochvolatile, liquiditätsgetriebene Assets (Kryptowährungen) sowie sektorale Play-Money-Sektoren wie die BioTech/Pharma bleiben. **Untergewichten** sind breit gestreute Technologie- und Gesamtmarktpositionen (z.B. Nasdaq100 -0.72%) aufgrund der kombinierten negativen Sentiment-Scores (-1, -2) und des steigenden VIX.\n*Was NICHT tun:* Keine breiten Long-Positionen in global diversifizierten Indexfonds eingehen, solange die Volatilität (VIX +7.52%) diesen Gegenwind signalisiert."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
