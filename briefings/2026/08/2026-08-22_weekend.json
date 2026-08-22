@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-22",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime bleibt kanonisch „Risk-on“, was sich in den positiven Kursbewegungen von DAX (+0.59%), ESTX50 (+0.63%) und dem Dow (+0.98%) bestätigt. Die extreme Liquiditätsaufnahme ist derzeit im K",
+  "market_regime": "Risk-on / ruhig (VIX 15.1)",
+  "regime_detail": {
+    "vix": 15.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7674.4,
+    "sma200": 7095.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26136.5605,
+      "change_pct": 0.59,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6462.2202,
+      "change_pct": 0.63,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7674.3701,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29308.8594,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53277.0117,
+      "change_pct": 0.98,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.738,
+      "change_pct": 0.89,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.13,
+      "change_pct": -5.5,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 174.62,
+      "change_pct": 1.29,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1678,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9351,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.8,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4624.1001,
+      "change_pct": 2.39,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 94.39,
+      "change_pct": 0.65,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 87.06,
+      "change_pct": -0.88,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 77475.5703,
+      "change_pct": 6.08,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2437.5601,
+      "change_pct": 4.78,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.59% / ESTX50 +0.63%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.33%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.29%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.43%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -5.50% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.89% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +6.08%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "SuperiorMed Holdings Limited Announces Entering into an Agreement and Plan of Merger with Starry Sea Acquisition Corp",
+      "mechanism": "<p align=\"justify\">DUBAI, United Arab Emirates and NEW YORK, Aug.  22, 2026  (GLOBE NEWSWIRE) -- SuperiorMed Holdings Limited, a Cayman Islands company (“<u>SuperiorMed</u>” or the “<u>Company</u>”), a company that shall become the parent company of SuperiorMed Healthcare Management FZ-LLC, a company in the business of management and consulting service for certain medical institutions under the laws of the United Arab Emirates (“<u>UAE</u>”), announced today that it has entered into an Agreement and Plan of Merger (the “<u>Merger Agreement</u>”) on August 22, 2026 for a business combination with Starry Sea Acquisition Corp (Nasdaq: SSEA, SSEAU, SSEAR), a special purpose acquisition company incorporated in the Cayman Islands (“<u>SSEA</u>”).</p>",
+      "beneficiaries": [
+        "SSEA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Simply Good Foods Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against The Simply Good Foods Company - SMPL",
+      "mechanism": "<p>NEW ORLEANS, Aug. 21, 2026 /PRNewswire/ -- ClaimsFiler, a FREE shareholder information service, reminds investors that they have until October 13, 2026 to file lead plaintiff applications in a securities class action lawsuit against The Simply Good Foods Company (\"Simply Good\" or the...</p>",
+      "beneficiaries": [
+        "SMPL"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "CPKC and IBEW agree to binding arbitration ending strike",
+      "mechanism": "<p>CALGARY, AB, Aug. 21, 2026 /PRNewswire/ -- Canadian Pacific Kansas City (TSX: CP) (NYSE: CP) (CPKC) said today that the International Brotherhood of Electrical Workers Canadian Signals and Communications System Council No. 11 (IBEW) has agreed to enter into binding arbitration and bring...</p>",
+      "beneficiaries": [
+        "CP"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*\nAufgrund der extremen Liquidität und des Momentum im digitalen Sektor sollte eine Übergewichtung (Overweight) von hoch-beta-orientierten oder liquiden Tech-Positionen in Betracht gezogen werden. Im Gegensatz dazu signalisiert die Kombination aus steigender US10Y-Rendite und fallendem VIX, dass breitere Indexpositionierungen momentan vorsichtig neutral gehalten werden sollten. **Was NICHT zu tun ist:** Die erhöhte Zins-Sensitivität darf nicht ignoriert werden; Positionen mit hoher Fremdkapitalabhängigkeit sind dem steigenden US10Y-Renditen besonders ausgesetzt und müssen entsprechend gewichtet werden."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
