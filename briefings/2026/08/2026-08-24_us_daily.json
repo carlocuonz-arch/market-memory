@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-24",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime präsentiert sich hochgradig ambivalent: Offiziell bleibt der „Risk-on“-Status bestehen, doch die deutliche Steigerung des VIX (+4.76%) signalisiert einen wachsenden latenten Stress. W",
+  "market_regime": "Risk-on / ruhig (VIX 15.9)",
+  "regime_detail": {
+    "vix": 15.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7674.4,
+    "sma200": 7095.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26080.2598,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6442.9702,
+      "change_pct": -0.3,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7674.3701,
+      "change_pct": 0.43,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29308.8594,
+      "change_pct": 0.33,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53277.0117,
+      "change_pct": 0.98,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.72,
+      "change_pct": -0.38,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.85,
+      "change_pct": 4.76,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 174.62,
+      "change_pct": 1.29,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1674,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9362,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.914,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4730.0,
+      "change_pct": 2.29,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 93.47,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 85.7,
+      "change_pct": -1.56,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78996.9531,
+      "change_pct": 1.6,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2506.8899,
+      "change_pct": 1.75,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.22% / ESTX50 -0.30%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.33%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +1.29%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.43%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +4.76% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.38% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +1.60%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "GAP INC.'S ENCORE MEMBERSHIP PROGRAM TAKES OVER NEW YORK FASHION WEEK WITH SIX DAYS OF MEMBER ACCESS AND EXPERIENCES",
+      "mechanism": "<p>Encore members can unlock runway shows, designer experiences, live entertainment and exclusive events across New York City, culminating in a live performance by Gigi Perez NEW YORK, Aug. 24, 2026 /PRNewswire/ -- Gap Inc. (NYSE: GAP) today announced a six-day New York Fashion Week takeover...</p>",
+      "beneficiaries": [
+        "GAP"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Lion Group Holding Ltd. Reaffirms Long-Term Commitment to Hyperliquid (HYPE) Holdings",
+      "mechanism": "<p>SINGAPORE, Aug. 24, 2026 /PRNewswire/ -- Lion Group Holding Ltd. (NASDAQ: LGHL) (\"Lion Group\" or the \"Company\"), today reaffirmed its long-term holding of Hyperliquid (HYPE) tokens and other selected cryptocurrencies as part of its treasury management strategy. Since establishing its...</p>",
+      "beneficiaries": [
+        "HYPE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "ConnectM Reports Second Quarter 2026 Financial Results",
+      "mechanism": "ConnectM reports Q2 2026 revenue of $9.79M, up 24% year over year, $2.32 EPS, first-quarter profitability and $53.0M in total assets.",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir sehen eine Übergewichtung in Sektoren mit defensiver oder digitaler Natur (Health und Crypto), da diese sich als relative Zufluchtsorte erweisen. Die Untergewichtung von traditionellen Energie-Titeln sowie der europäische Tech-Sektor ist indiziert. **Was NICHT getan werden sollte:** Eine Allokation in die Rohstoffgüter des Energiesektors, insbesondere WTI und Brent, da deren Abwärtsbewegung (WTI -1.56%) auf strukturelle Schwäche hindeutet."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
