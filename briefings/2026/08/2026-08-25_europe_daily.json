@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime wird formal als Risk-on/ruhig eingestuft, doch die tatsächlichen Kursbewegungen zeichnen ein Bild erhöhter Vorsicht. Der Anstieg des VIX um +4.76% signalisiert eine akute A",
+  "market_regime": "Risk-on / ruhig (VIX 15.9)",
+  "regime_detail": {
+    "vix": 15.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7652.9,
+    "sma200": 7100.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26106.5996,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6447.98,
+      "change_pct": -0.22,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7652.8599,
+      "change_pct": -0.28,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29023.1797,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53417.1602,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.704,
+      "change_pct": -0.72,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.85,
+      "change_pct": 4.76,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 174.7,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1662,
+      "change_pct": -0.17,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9365,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.069,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4703.6001,
+      "change_pct": 1.35,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 91.27,
+      "change_pct": -0.98,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 84.29,
+      "change_pct": -0.85,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 80733.0078,
+      "change_pct": 3.83,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2509.9299,
+      "change_pct": 1.87,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.11% / ESTX50 -0.22%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.97%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.05%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.28%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +4.76% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.72% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +3.83%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Keymed Biosciences gibt Ergebnisse für das erste Halbjahr 2026 sowie aktuelle Geschäftsentwicklungen bekannt",
+      "mechanism": "<p>CHENGDU, China, 25. August 2026 /PRNewswire/ -- Am 19. August 2026 gab Keymed Biosciences (HKEX: 02162) seine Zwischenergebnisse für das am 30. Juni 2026 endende Halbjahr mit einem Gesamtumsatz von 617 Millionen RMB bekannt. Das Kernprodukt Kangyueda erzielte einen Umsatz von 393...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Configit est nommé Sample Vendor dans le rapport Hype Cycle™ for Revenue and Sales Technology, 2026 de Gartner®",
+      "mechanism": "<p>Le Sample Vendor mondial figure parmi les 11 fournisseurs reconnus dans le rapport COPENHAGUE, Danemark, 25 août 2026 /PRNewswire/ -- Configit, leader mondial de la gestion du cycle de vie de la configuration (CLM), annonce aujourd'hui avoir été désigné Sample Vendor dans le rapport Hype...</p>",
+      "beneficiaries": [
+        "CLM"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "HashKey Exchange and Franklin Templeton to Bring OnChain U.S. Government Liquidity Fund to Asia",
+      "mechanism": "<p>HONG KONG, Aug. 25, 2026 /PRNewswire/ -- HashKey Holdings Limited (3887.HK), a leading comprehensive digital asset company in Asia, announced that its licensed trading platform, HashKey Exchange (\"HashKey\"), has today announced a collaboration with established global asset manager...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund des gemischten Signals – Schwäche bei Rohstoffen, steigende Vola, aber starke Krypto-Performance – ist eine **neutrale bis defensiv ausgerichtete** Positionierung ratsam. Übergewichten sollten primär die Segmente mit historischer Dissoziation (z.B. Crypto/Digital Assets) und defensive Sektoren bleiben, während Untergewichten das generelle Momentum der breit gestreuten Tech-Indizes zu verorten ist. **Was NICHT tun sollte:** Man sollte nicht blind den offiziellen 'Risk-on'-Status des Regimes übernehmen, sondern die steigende Volatilität (VIX +4.76%) als primären Governance-Faktor behandeln und jegliche überzogene Konformität mit breiten Indexbewegungen meiden."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
