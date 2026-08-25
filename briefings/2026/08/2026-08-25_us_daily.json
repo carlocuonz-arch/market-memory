@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-25",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime präsentiert sich in einer performativen Diskrepanz: Offiziell wird ein „Risk-on / ruhig“ Umfeld signalisiert (VIX bei 15.8), doch die Kursmuster deuten auf signifikante Spa",
+  "market_regime": "Risk-on / ruhig (VIX 15.8)",
+  "regime_detail": {
+    "vix": 15.8,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7652.9,
+    "sma200": 7100.1
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26286.5996,
+      "change_pct": 0.69,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6467.52,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7652.8599,
+      "change_pct": -0.28,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29023.1797,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53417.1602,
+      "change_pct": 0.26,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.649,
+      "change_pct": -1.17,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.8,
+      "change_pct": -0.32,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 174.7,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1675,
+      "change_pct": -0.05,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9364,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.942,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4681.1001,
+      "change_pct": 0.87,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.9,
+      "change_pct": -4.63,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.36,
+      "change_pct": -3.12,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78628.7734,
+      "change_pct": -0.43,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2457.6499,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.69% / ESTX50 +0.30%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.97%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.05%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.28%."
+    },
+    "volatility": {
+      "score": 0,
+      "interpretation": "VIX -0.32% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.17% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.43%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "KYOCERA AVX RELEASES VIBRATION-PROOF ALUMINUM ELECTROLYTIC CAPACITORS",
+      "mechanism": "<p>The new AEVA and AEVB Series aluminum electrolytic capacitors are engineered for harsh industrial environments, delivering high-CV, long-lifetime performance in compact, surface-mount packages that reliably withstand up to 30g acceleration and operating temperatures extending from -55° to...</p>",
+      "beneficiaries": [
+        "AVX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Bain &amp; Company announces partnership with Anthropic to accelerate clients' enterprise AI transformations",
+      "mechanism": "<p>Partnership combines Anthropic's Claude models with Bain's deep industry and transformation expertise to accelerate enterprise AI deployment at scale, building on Bain's enterprise-wide rollout of Claude SAN FRANCISCO and BOSTON, Aug. 25, 2026 /PRNewswire/ -- Bain & Company today...</p>",
+      "beneficiaries": [
+        "SAN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Algorhythm Holdings Pursuing Potential Sale and Other Strategic Alternatives for its SemiCab AI Logistics Business",
+      "mechanism": "<p align=\"center\"><i>The Company Has Received Multiple Indications of Interest for the Sale of its AI Logistics Business</i></p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung) Wir sehen eine Untergewichtung der zyklischen Technologie- und Energiepositionen, da die Diskrepanz zwischen den Indices und Rohstoffen ein potenzielles Überhangrisiko darstellt. Defensive Sektoren wie Health (+0.05%) sowie Gold bleiben aufgrund ihrer Performance (Gold +0.87%) attraktiv zu gewichten. **Was NICHT tun sollte:** Die Jagd nach Momentum in überdehnten, zyklischen Rohstoff- oder Tech-Plays ist kontraindiziert; die aktuelle Volatilität erfordert einen Fokus auf Kapitalerhalt und defensive Puffer."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
