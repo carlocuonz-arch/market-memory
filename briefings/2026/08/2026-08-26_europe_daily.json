@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-26",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime wird als Risk-on / ruhig eingestuft, was sich an einem VIX von 15.4 widerspiegelt. Die Performance ist durch eine klare Divergenz gekennzeichnet: Während die Tech-Sektoren ",
+  "market_regime": "Risk-on / ruhig (VIX 15.4)",
+  "regime_detail": {
+    "vix": 15.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7677.3,
+    "sma200": 7104.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26266.1406,
+      "change_pct": 0.61,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6455.6299,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7677.2798,
+      "change_pct": 0.32,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29209.2305,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53577.3984,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.639,
+      "change_pct": -1.38,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.45,
+      "change_pct": -2.52,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 175.29,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1666,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9372,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.983,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4689.8999,
+      "change_pct": 1.12,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 85.86,
+      "change_pct": -3.07,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.77,
+      "change_pct": -1.93,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78889.2969,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2456.7,
+      "change_pct": -1.01,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.61% / ESTX50 +0.12%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.64%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.34%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.32%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -2.52% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.38% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC -0.10%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Regulatory announcement no 20: Interim report 1 January - 30 June 2026. Reported revenue growth of 29.5% and adj. EBITA up 34.6% in H1 2026. Outlook reiterated",
+      "mechanism": "<p align=\"left\"><b>Highlights H1 2026</b></p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "ADDEX raises USD 2.8 million through its ATM agreement and extends cash runway to the fourth quarter 2027",
+      "mechanism": "<p><b>Ad Hoc Announcement Pursuant to Art. 53 LR</b></p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Attindas Hygiene Partners Announces Plans to Acquire Activ Médical Disposable",
+      "mechanism": "Attindas Hygiene Partners plans to acquire Activ Médical Disposable, expanding its European manufacturing, products and customer reach.",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen eine Übergewichtung im Technologie-Sektor (Overweight Tech), da die Indizes diesen Sektor klar führen, und eine Untergewichtung bei zyklischen Rohstoffpositionen (Underweight Commodities). **Was NICHT zu tun ist:** Trotz des „Risk-on“ Labels sollte man sich nicht von der Energiekommodität ablenken lassen; das signifikante Verkaufsmomentum bei Brent (-3.07%) und WTI (-1.93%) erfordert eine klare Vermeidung dieser Assetklasse."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
