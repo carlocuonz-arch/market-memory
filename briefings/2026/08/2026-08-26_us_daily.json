@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-26",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist paradoxerweise als Risk-on klassifiziert, was sich in den breiten Indexgewinnen von DAX (+0.37%), ESTX50 (+0.47%) und Nasdaq100 (+0.64%) widerspiegelt. Dieses Optimismu",
+  "market_regime": "Risk-on / ruhig (VIX 15.7)",
+  "regime_detail": {
+    "vix": 15.7,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7677.3,
+    "sma200": 7104.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26364.5508,
+      "change_pct": 0.37,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6486.0801,
+      "change_pct": 0.47,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7677.2798,
+      "change_pct": 0.32,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29209.2305,
+      "change_pct": 0.64,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53577.3984,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.654,
+      "change_pct": 0.32,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.71,
+      "change_pct": 1.68,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 175.29,
+      "change_pct": 0.34,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.166,
+      "change_pct": -0.07,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9379,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.098,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4667.2998,
+      "change_pct": 0.63,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 85.72,
+      "change_pct": -3.23,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 80.75,
+      "change_pct": -1.95,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78034.9062,
+      "change_pct": -0.67,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2444.2,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.37% / ESTX50 +0.47%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +0.64%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.34%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.32%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +1.68% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.32% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.67%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "VolitionRx Highlights Commercial Momentum and Multi-Pillar Execution Across $27+ Billion Total Addressable Markets",
+      "mechanism": "<p>112% H1 Revenue Growth, Advance Toward $5 Million Veterinary Milestone, Newly Announced Collaboration and Active Licensing Discussions with More Than a Dozen Global Diagnostic Leaders HENDERSON, Nev., Aug. 26, 2026 /PRNewswire/ -- VolitionRx Limited (NYSE AMERICAN: VNRX) (\"Volition\"), a...</p>",
+      "beneficiaries": [
+        "VNRX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Advisor360° Advances AI Capabilities and Multi-Custodian Support in August Platform Release",
+      "mechanism": "<p>NEEDHAM, MA, Aug.  26, 2026  (GLOBE NEWSWIRE) -- <a href=\"https://www.globenewswire.com/Tracker?data=gBP9F0NptQPSDyJlpj6Ia6UpyaI5rg3ZyWr-Jdjvd94XsDPQ5ICgYNemo4R1RzmWBairxAVAl_8nYLFIM6FB3w==\" rel=\"nofollow\" target=\"_blank\" title=\"\"><u>Advisor360°</u></a><sup>TM</sup>, the Autonomous Financial Platform<sup>TM</sup> built around the complete advisor workday, today announced its August platform release, with enhancements across three areas: proactive intelligence, multi-custodian connectivity, and client data collection. The release advances the company’s AI-native wealth platform and gives advisors more freedom in how they custody, trade, and onboard clients.</p>",
+      "beneficiaries": [
+        "MA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Amaze Holdings Announces Cost Reduction Plan Targeting Approximately 40% Reduction in Operating Expenses",
+      "mechanism": "Plan includes headcount reduction, technology infrastructure consolidation, and overhead cuts; Company targets positive operating cash flow in 2027 <pre>Plan includes headcount reduction, technology infrastructure consolidation, and overhead cuts; Company targets positive operating cash flow in 2027</pre>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten Sie Tech-Expositionen (us_tech: 1) und Gold/Health-Sektoren, die historisch als Hedge dienen können. Neutral bleiben bei breiten Marktindizes aufgrund des widersprüchlichen Signals zwischen Indexgewinnen und steigender Volatilität. *Was NICHT tun:* Nicht überproportional in energieintensive oder rohstoffabhängige Positionen investieren, solange der Trend von Brent (-3.23%) und WTI (-1.95%) anhält."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
