@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-27",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt kanonisch als Risk-on / ruhig verortet, was durch den niedrigen VIX-Wert von 15.05 bestätigt wird. Die Indexlandschaft zeigt jedoch eine signifikante Divergenz: Währ",
+  "market_regime": "Risk-on / ruhig (VIX 15.1)",
+  "regime_detail": {
+    "vix": 15.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7675.7,
+    "sma200": 7109.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26348.3203,
+      "change_pct": 0.24,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6447.8198,
+      "change_pct": -0.35,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7675.7002,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29224.5195,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53463.8789,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.664,
+      "change_pct": 0.0,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.05,
+      "change_pct": -1.05,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 173.54,
+      "change_pct": -1.0,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1662,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9366,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.147,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4638.8999,
+      "change_pct": 0.89,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.68,
+      "change_pct": -0.18,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.64,
+      "change_pct": 0.5,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 79335.9922,
+      "change_pct": 0.39,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2503.22,
+      "change_pct": -0.12,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.24% / ESTX50 -0.35%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.05%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.00%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.02%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -1.05% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.00% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.39%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "ANA Calls on Marketing Industry to \"Push Pause &amp; Power Up\" for the AI Future",
+      "mechanism": "<p>September 17 Global Day of Learning will bring together marketing leaders from General Motors, Mastercard, LEGO, Duolingo, SAS, and others for practical training on AI agents, synthetic audiences, measurement and the future of marketing work Key Takeaways The ANA Global Day of Learning...</p>",
+      "beneficiaries": [
+        "LEGO"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "GPC Infrastructure Strengthens Leadership Team and Board to Support Continued Growth",
+      "mechanism": "<p>CFO and Independent Board Appointments Add Deep Expertise Across Emerging Data Center Energy Infrastructure Sector HOUSTON, Aug. 27, 2026 /PRNewswire/ -- GPC Infrastructure (GPC), an owner and operator of modular onsite power systems that help data center developers overcome grid...</p>",
+      "beneficiaries": [
+        "GPC"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Adroit Trading Technologies Announces Integration with BlackRock's Aladdin® Platform for Cross-Asset Trading",
+      "mechanism": "<p>Multi-year partnership enables mutual clients to access Adroit's execution capabilities from the Aladdin® platform NEW YORK, Aug. 27, 2026 /PRNewswire/ -- Adroit Trading Technologies Inc., a provider of multi-asset execution management technology, today announced it has entered into a...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Angesichts des niedrigen Volatilitätsniveaus (VIX 15.05) und der starken Performance von Sachwerten ist eine vorsichtige, nicht-korrelierte Allokation ratsam. Wir sehen daher ein Übergewichten in Gold und Rohstoffen sowie eine neutrale Haltung zu den breiten Aktienmärkten aufgrund der beobachteten Divergenz. **Was NICHT tun:** Übermäßige Gewichtung des europäischen Tech-Sektors oder von Sektoren, die im Gesundheitsbereich operieren (XLV), ist aufgrund der starken negativen Momentum-Signale auszuschließen."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
