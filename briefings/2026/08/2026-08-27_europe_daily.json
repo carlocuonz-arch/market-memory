@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-27",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal als Risk-on und ruhig (VIX 15.2), doch die Divergenz zwischen den europäischen Indizes (+0.23% ESTX50) und dem Anstieg der US10Y-Renditen (+0.54%) signalisier",
+  "market_regime": "Risk-on / ruhig (VIX 15.2)",
+  "regime_detail": {
+    "vix": 15.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7675.7,
+    "sma200": 7109.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26285.9609,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6470.7402,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7675.7002,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29224.5195,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53463.8789,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.664,
+      "change_pct": 0.54,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.21,
+      "change_pct": -1.55,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 173.54,
+      "change_pct": -1.0,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1659,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9389,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.155,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4660.2998,
+      "change_pct": 1.35,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 86.11,
+      "change_pct": -1.97,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 81.38,
+      "change_pct": -1.03,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78647.4609,
+      "change_pct": 0.1,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2485.2,
+      "change_pct": 1.72,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.08% / ESTX50 +0.23%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.05%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.00%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.02%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -1.55% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.54% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.10%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "SCP Standard Capital Partners AG: VANEA Defence unveils ATOMZA®, the first production-ready drone defence system for civilian operators",
+      "mechanism": "<p>ATOMZA® is the first counter-drone mitigation solution that can be deployed by civilian operators without sovereign enforcement powers. VANEA is opening up counter-UAS capabilities to airports, large-scale events, critical infrastructure and other sites exposed to security threats or...</p>",
+      "beneficiaries": [
+        "AG"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Tonner Drones Expands Defense & Security exposure with the Acquisition of Azur Drones",
+      "mechanism": "Tonner Drones acquires Azur Drones to create a leading European autonomous Drone-in-a-Box platform for defense, security and critical infrastructure.",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "TEZSPIRE® DEMONSTRATES POSITIVE PHASE 3 RESULTS IN EOSINOPHILIC ESOPHAGITIS ACROSS BOTH CO-PRIMARY AND ALL KEY SECONDARY ENDPOINTS",
+      "mechanism": "<p>Statistically Significant and Clinically Meaningful Disease and Symptom Improvements Compared to Placebo Maintained Through Week 52 Efficacy in a Third Epithelial-Driven Inflammatory Disease Supports Broad Potential of TEZSPIRE THOUSAND OAKS, Calif., Aug. 27, 2026 /PRNewswire/ -- Amgen...</p>",
+      "beneficiaries": [
+        "ALL"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Aufgrund des Zinsdrucks (US10Y +0.54%) wird eine neutrale bis leicht untergewichtige Allokation an breit gestreuten Indizes empfohlen, während thematisch defensiv positioniert werden sollte. Übergewichten sind Sektoren mit nachgewiesener technologischen oder regulatorischen Unabhängigkeit (Defense/Biotech). **Was NICHT tun:** Übermäßige Gewichtung zyklischer Positionen, die stark von der aktuellen Schwäche des Rohstoffmarktes betroffen sind."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
