@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-28",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime ist formal als „Risk-on / ruhig“ eingestuft (VIX 14.5), was durch positive Impulse in den US-Tech-Sektoren (Nasdaq100 +1.43%) und bei risikobereiten Anlagen wie Gold (+0.56",
+  "market_regime": "Risk-on / ruhig (VIX 14.5)",
+  "regime_detail": {
+    "vix": 14.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7731.0,
+    "sma200": 7114.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26367.2402,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6424.73,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7730.9902,
+      "change_pct": 0.72,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29641.5605,
+      "change_pct": 1.43,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53569.4414,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.672,
+      "change_pct": 0.17,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.51,
+      "change_pct": -4.6,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.58,
+      "change_pct": -1.13,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1651,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9374,
+      "change_pct": -0.09,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.192,
+      "change_pct": 0.03,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4635.2998,
+      "change_pct": 0.56,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.05,
+      "change_pct": -1.84,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.89,
+      "change_pct": -0.77,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 79838.0781,
+      "change_pct": 1.03,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2501.6101,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.31% / ESTX50 -0.71%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.43%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.13%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.72%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -4.60% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.17% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 1,
+      "interpretation": "BTC +1.03%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "NBPE Announces Transaction in Own Shares",
+      "mechanism": "<p align=\"justify\">THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS</p>",
+      "beneficiaries": [
+        "ANY"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "FLOVA PTE. LTD. Announces Full Integration of Seedance 2.5 into Flova.ai, Further Advancing Agent Native Video Production",
+      "mechanism": "<p>SINGAPORE, Aug.  28, 2026  (GLOBE NEWSWIRE) -- FLOVA PTE. LTD. recently announced that its AI‑powered video creation platform, <a href=\"https://flova.ai/\" rel=\"nofollow\" target=\"https://chat.deepseek.com/a/chat/s/_blank\" title=\"Flova.ai\">Flova.ai</a>, has fully integrated the latest video generation model, Seedance 2.5, across all product lines. This integration marks a significant step forward for <a href=\"https://flova.ai/\" rel=\"nofollow\" target=\"https://chat.deepseek.com/a/chat/s/_blank\" title=\"Flova.ai\">Flova.ai</a>, evolving it from a “prompt‑to‑clip” tool into an intent‑driven, end‑to‑end production workflow that supports creators from initial concept to final output.</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Mowi ASA: Ex-dividend NOK 2.30 today",
+      "mechanism": "<p>The shares in Mowi ASA will be traded ex-dividend of NOK 2.30 as from today 28 August 2026.</p>",
+      "beneficiaries": [
+        "ASA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Die Gewichtung sollte weiterhin Tech-getrieben bleiben (Übergewichten US-Tech / Neutral Europa). Aufgrund der Energiepreisdivergenz und der widersprüchlichen Signale zwischen VIX (-4.60%) und steigenden Zinsen (+0.17% US10Y) ist eine defensive Haltung in den Rohstoffpositionen geboten (Untergewichten Energy/Commodities). **Was NICHT zu tun ist:** Eine übermäßige Allokation in fossile Energieträger, da der Rückgang bei Brent (-1.84%) ein signifikanter Baustein für das kurzfristige Makro-Risikoprofil darstellt."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}

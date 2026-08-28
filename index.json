@@ -1,6 +1,6 @@
 {
   "schema": "market-memory-index/1.0",
-  "count": 125,
+  "count": 126,
   "scorecard_dims": [
     "europe_tech",
     "us_tech",
@@ -2511,6 +2511,26 @@
       },
       "md": "briefings/2026/08/2026-08-27_us_daily.md",
       "json": "briefings/2026/08/2026-08-27_us_daily.json"
+    },
+    {
+      "date": "2026-08-28",
+      "briefing_type": "europe_daily",
+      "data_classification": "verified-live",
+      "market_regime": "Risk-on / ruhig (VIX 14.5)",
+      "conviction_pct": 29,
+      "conviction_direction": "bullish",
+      "data_quality_pct": 100,
+      "scores": {
+        "europe_tech": 0,
+        "us_tech": 1,
+        "health_rotation": -1,
+        "risk_sentiment": 1,
+        "volatility": 2,
+        "rates": 0,
+        "crypto_liquidity": 1
+      },
+      "md": "briefings/2026/08/2026-08-28_europe_daily.md",
+      "json": "briefings/2026/08/2026-08-28_europe_daily.json"
     }
   ]
 }
