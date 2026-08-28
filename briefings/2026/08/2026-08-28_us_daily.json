@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-28",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktumfeld präsentiert sich in einem klaren Risk-on-Regime, wie die robusten Gewinne an den Tech-zentrierten Indizes (Nasdaq100 +1.43%, ESTX50 +0.79%) belegen. Die Kernchance liegt weiterhin im T",
+  "market_regime": "Risk-on / ruhig (VIX 14.5)",
+  "regime_detail": {
+    "vix": 14.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7731.0,
+    "sma200": 7114.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26518.4902,
+      "change_pct": 0.57,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6475.7202,
+      "change_pct": 0.79,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7730.9902,
+      "change_pct": 0.72,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29641.5605,
+      "change_pct": 1.43,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53569.4414,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.686,
+      "change_pct": 0.3,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.47,
+      "change_pct": -0.28,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.58,
+      "change_pct": -1.13,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1647,
+      "change_pct": -0.07,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9363,
+      "change_pct": -0.2,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.197,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4651.2002,
+      "change_pct": 0.9,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 87.49,
+      "change_pct": -2.46,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 82.52,
+      "change_pct": -1.21,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 79205.9922,
+      "change_pct": -1.31,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2499.0701,
+      "change_pct": -0.45,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.57% / ESTX50 +0.79%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.43%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.13%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.72%."
+    },
+    "volatility": {
+      "score": 0,
+      "interpretation": "VIX -0.28% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.30% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.31%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Luxshare Precision Expects Net Profit to Rise 15%-25% in the First Nine Months of 2026",
+      "mechanism": "<p>Growth outlook supported by continued execution across consumer electronics, AI data center infrastructure and automotive electronics DONGGUAN, China, Aug. 28, 2026 /PRNewswire/ -- Luxshare Precision Industry Co., Ltd. (\"Luxshare Precision\" or the \"Company\") (SZSE: 002475; HKEX: 02475), a...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Delårsrapport 1. januar – 30. juni 2026",
+      "mechanism": "<p>Koncernomsætningen udgjorde 797,8 mio. kr., hvilket er 134,6 mio. kr. højere end samme periode sidste år.</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Luxshare Precision Expects Net Profit to Rise 15%-25% in the First Nine Months of 2026",
+      "mechanism": "<p>Growth outlook supported by continued execution across consumer electronics, AI data center infrastructure and automotive electronics DONGGUAN, China, Aug. 28, 2026 /PRNewswire/ -- Luxshare Precision Industry Co., Ltd. (\"Luxshare Precision\" or the \"Company\") (SZSE: 002475; HKEX: 02475), a...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Wir sehen ein Übergewichten von Tech- und Qualitätswachstumsaktien, da diese das dominante Momentum tragen. Gleichzeitig ist eine Untergewichtung der Energiekommoditäten (WTI/Brent) sowie potenziell zyklischer Sektoren ratsam. **Was NICHT zu tun ist:** Die Beibehaltung einer übermäßigen Allokation in Rohstoffe oder andere Beta-aktive Anlagen, die nicht von einem signifikanten strukturellen Anstieg profitieren."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
