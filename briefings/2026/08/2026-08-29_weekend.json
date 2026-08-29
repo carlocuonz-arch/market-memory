@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-29",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das technische Makro-Regime bleibt als Risk-on und ruhig (VIX 14.5) zu bewerten, wenngleich die Performance stark divergierend ist. Während US-Tech (Nasdaq +1.43%) und Rohstoffe (Brent +2.12%, WTI +1.",
+  "market_regime": "Risk-on / ruhig (VIX 14.5)",
+  "regime_detail": {
+    "vix": 14.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7731.0,
+    "sma200": 7114.3
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26367.2402,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6424.73,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7730.9902,
+      "change_pct": 0.72,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29641.5605,
+      "change_pct": 1.43,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53569.4414,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.672,
+      "change_pct": 0.17,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.51,
+      "change_pct": -4.6,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.58,
+      "change_pct": -1.13,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1587,
+      "change_pct": -0.58,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9374,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.16,
+      "change_pct": -0.01,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4609.7002,
+      "change_pct": 0.25,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 89.7,
+      "change_pct": 2.12,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 83.53,
+      "change_pct": 1.58,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 77459.9766,
+      "change_pct": -3.49,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2435.48,
+      "change_pct": -2.98,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.31% / ESTX50 -0.71%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.43%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.13%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +0.72%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -4.60% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.17% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -3.49%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "McKesson Corporation: Ademi LLP Investigates Claims for Damages",
+      "mechanism": "<p>MILWAUKEE, Aug.  28, 2026  (GLOBE NEWSWIRE) -- Ademi LLP is investigating potential data privacy claims arising from a data breach involving <strong>McKesson</strong>. We are investigating whether McKesson maintained reasonable safeguards to protect personal information.</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "CaoCao H1 Revenue Tops RMB10 Billion as RoboX Gains Momentum, with Robotaxi Fleet Deployment Planned in Hong Kong and the UAE",
+      "mechanism": "CaoCao H1 Revenue Tops RMB10 Billion as RoboX Gains Momentum, with Robotaxi Fleet Deployment Planned in Hong Kong and the UAE",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "PROCEPT BioRobotics Corporation Securities Fraud Class Action Result of Undisclosed Inventory Issues and approximately 18% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick &amp; Foti, LLC",
+      "mechanism": "<p>NEW YORK and NEW ORLEANS, Aug. 28, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substantial losses that they have until September 22, 2026 to file lead plaintiff applications in a...</p>",
+      "beneficiaries": [
+        "PRCT"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten US-Tech und Energie bleiben, da diese die stärksten Impulsgeber sind (us_tech: 1; Brent/WTI). Neutral ist der allgemeine globale Aktienmarkt aufgrund des starken Divergenzrisikos. Untergewichten sollte man spekulative digitale Assets (Krypto) sowie europäische Sektoren (ESTX50 -0.71%) zuweisen. **Was NICHT tun:** Man sollte keine Allokation in volatile, liquiden Digital-Assets vornehmen, solange der Liquiditätsscore bei -2 verbleibt."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
