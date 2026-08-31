@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-31",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die breiten Indizes verzeichnen einen deutlichen Rückgang, wobei der Nasdaq100 mit -0.70% und der DAX mit -0.69% die Verkaufsstimmung abbilden. Das formell definierte \"Risk-on\"-Regime wird durch eine ",
+  "market_regime": "Risk-on / ruhig (VIX 15.4)",
+  "regime_detail": {
+    "vix": 15.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7711.8,
+    "sma200": 7118.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26386.5801,
+      "change_pct": -0.69,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6472.23,
+      "change_pct": -0.21,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7711.7598,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29433.4297,
+      "change_pct": -0.7,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53559.9883,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.748,
+      "change_pct": 0.59,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.32,
+      "change_pct": 6.17,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.16,
+      "change_pct": -0.24,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1602,
+      "change_pct": -0.46,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9375,
+      "change_pct": 0.09,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.549,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4494.5,
+      "change_pct": 0.37,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.07,
+      "change_pct": -1.39,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 85.57,
+      "change_pct": 2.6,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78021.5312,
+      "change_pct": 0.25,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2449.96,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.69% / ESTX50 -0.21%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.70%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.24%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.25%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +6.17% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.59% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.25%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "SEALSQ's $24.5M Pure-Play Quantum Computing Investments and Collaborations Begin Generating Commercial Synergies",
+      "mechanism": "<p align=\"center\">Geneva, Switzerland, Aug.  31, 2026  (GLOBE NEWSWIRE) -- <br /></p> <p align=\"justify\"><b>SEALSQ Corp (NASDAQ: LAES)</b> (\"SEALSQ\" or the \"Company\"), a global leader in semiconductor, PKI and post-quantum technologies, today highlighted the investment and commercialization strategy behind <b>SEALQUANTUM</b>, its initiative to build a <b>Sovereign Quantum Vertical Stack </b>(the “Stack”) connecting complementary technologies across the emerging quantum economy.</p>",
+      "beneficiaries": [
+        "LAES"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "The National Police Association Supports NYPD Detectives Fighting to Protect Earned Benefits",
+      "mechanism": "<p>INDIANAPOLIS, Aug. 31, 2026 /PRNewswire/ -- The National Police Association (NPA) is urging law enforcement officers, retirees, their families, and Americans who stand with the police to sign the petition calling upon the NYPD Detectives' Endowment Association (DEA) to reject reductions...</p>",
+      "beneficiaries": [
+        "NPA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Think launches Think Grid™, a new alternative to hyperscaler AI compute",
+      "mechanism": "<p>Think Grid provides cloud-like access to Think Fabric's high-efficiency AI infrastructure, without the upfront capital investment of deploying dedicated infrastructure Think Grid offers dedicated AI compute at an all-inclusive rate up to 27% lower than comparable hyperscaler...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Die Positionierung sollte selektiv und defensiv-strukturell erfolgen. Übergewichtet sind Sektoren, die von strukturellem Bedarf profitieren (z.B. Cybersecurity oder Quantum Computing Enabler), während breit gestreute Tech-Exposures (`us_tech`: -1) untergewichtet bleiben sollten.\n*Was NICHT tun:* Nicht das nominale \"Risk-on\"-Label als Indikator für die aktuelle Marktstimmung akzeptieren, da der VIX (+6.17%) und die steigende Rendite des US10Y (+0.59%) ein deutlich anderes Bild zeichnen."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
