@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-08-31",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt klassisch *Risk-on*, was sich in einem weiterhin niedrigen VIX-Niveau von 14.43 widerspiegelt. Die europäische Indexstruktur zeigte eine signifikante Überlegenheit g",
+  "market_regime": "Risk-on / ruhig (VIX 14.4)",
+  "regime_detail": {
+    "vix": 14.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7711.8,
+    "sma200": 7118.7
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26569.9902,
+      "change_pct": 0.77,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6485.6699,
+      "change_pct": 0.95,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7711.7598,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29433.4297,
+      "change_pct": -0.7,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53559.9883,
+      "change_pct": -0.02,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.72,
+      "change_pct": 1.03,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.43,
+      "change_pct": -0.55,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.16,
+      "change_pct": -0.24,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.159,
+      "change_pct": -0.57,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9378,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.603,
+      "change_pct": -0.1,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4487.7002,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 90.79,
+      "change_pct": 1.66,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 85.63,
+      "change_pct": 2.67,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78008.0,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2441.48,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 1,
+      "interpretation": "DAX +0.77% / ESTX50 +0.95%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -0.70%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.24%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.25%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -0.55% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +1.03% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.23%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Cogent Communications Holdings, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CCOI",
+      "mechanism": "<p>LOS ANGELES, Aug. 31, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Cogent Communications Holdings, Inc. (\"Cogent\" or \"the Company\") (NASDAQ: CCOI) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5...</p>",
+      "beneficiaries": [
+        "CCOI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "BioMarin Announces Global Settlement with Ascendis Pharma A/S; Ascendis Will Pay Royalties to BioMarin on Yuviwel Sales in U.S., EU, Brazil and South Korea",
+      "mechanism": "<p>Agreement Resolves all Pending Patent-Related Proceedings Between BioMarin and Ascendis SAN RAFAEL, Calif., Aug. 30, 2026 /PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) today announced that it has entered into binding terms with Ascendis Pharma A/S, resolving the patent and...</p>",
+      "beneficiaries": [
+        "BMRN"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "WORQ Receives Frost &amp; Sullivan's 2026 Malaysian Flexible Workspace Competitive Strategy Leadership Recognition for Excellence in Flexible Workspace Strategy",
+      "mechanism": "<p>WORQ is recognized for its disciplined growth strategy, transit-oriented workspace network, customer-centric experience, and differentiated approach to Malaysia's evolving flexible workspace market. SAN ANTONIO, Aug. 31, 2026 /PRNewswire/ -- Frost & Sullivan is pleased to announce that...</p>",
+      "beneficiaries": [
+        "SAN"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten europäische Qualitätswerte (europe_tech Scorecard: +1) gegenüber dem US-Markt vergeben werden, da hier eine strukturelle Überlegenheit erkennbar ist. Aufgrund des steigenden Zinsdrucks und der Schwäche im globalen Tech-Sektor wird eine defensive Haltung empfohlen. **Was NICHT tun:** Nicht in zyklisch überbewertete oder rein technologiegetriebene US-Wachstumsaktien investieren, da das Risiko durch die steigende Renditekurve (US10Y +1.03%) zu hoch ist."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
