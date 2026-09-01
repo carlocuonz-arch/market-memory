@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-01",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Der Markt bewegt sich in einem paradoxen Regime: Offiziell als „Risk-on“ klassifiziert, signalisiert der signifikante Anstieg des VIX (+7.17%) ein ausgeprägtes Risk-off-Verhalten. Die breiten Indizes ",
+  "market_regime": "Risk-on / ruhig (VIX 15.9)",
+  "regime_detail": {
+    "vix": 15.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7686.1,
+    "sma200": 7122.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26012.0996,
+      "change_pct": -0.94,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6381.3599,
+      "change_pct": -0.6,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7686.1401,
+      "change_pct": -0.33,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29456.9707,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53185.8984,
+      "change_pct": -0.7,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.78,
+      "change_pct": 0.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.99,
+      "change_pct": 7.17,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 170.54,
+      "change_pct": -0.36,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1596,
+      "change_pct": 0.06,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9394,
+      "change_pct": 0.22,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.612,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4381.7998,
+      "change_pct": -1.11,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 92.63,
+      "change_pct": 2.36,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 88.15,
+      "change_pct": 2.79,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 77850.4766,
+      "change_pct": -0.89,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2443.46,
+      "change_pct": -0.95,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -0.94% / ESTX50 -0.60%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.08%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.36%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.33%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +7.17% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.89%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Victory Square Technologies Reports First-Half 2026 Revenue of $53.0 Million and Net Income of $6.5 Million",
+      "mechanism": "<p>Q2 revenue increases 421% year-over-year to $28.0 million; cash reaches $20.2 million and working capital increases to $34.5 million VANCOUVER, BC, Sept. 1, 2026 /PRNewswire/ -- Victory Square Technologies Inc. (\"Victory Square\", \"VST\" or the \"Company\") (CSE: VST) (OTCQX: VSQTF) (FWB:...</p>",
+      "beneficiaries": [
+        "VST"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Florida Cancer Specialists &amp; Research Institute Expands Radiation Oncology Services in Hernando County",
+      "mechanism": "<p>Radiation Oncologist Shravan R. Kambam, MD Joins Statewide Practice FORT MYERS, Fla., Sept. 1, 2026 /PRNewswire/ -- Florida Cancer Specialists & Research Institute, LLC (FCS) is pleased to welcome radiation oncologist Shravan R. Kambam, MD to the statewide practice. Dr. Kambam provides...</p>",
+      "beneficiaries": [
+        "FCS"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "BioMarin Announces Close of the Alesta Therapeutics Acquisition",
+      "mechanism": "<p>Acquisition adds ALE1, a potential first oral therapy for hypophosphatasia to clinical pipeline SAN RAFAEL, Calif., Sept. 1, 2026 /PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) said today that it completed the previously announced agreement to acquire Alesta Therapeutics. The...</p>",
+      "beneficiaries": [
+        "BMRN"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)* Aufgrund der extremen Volatilität (-2) und des gleichzeitig steigenden Zinsdrucks (US10Y +0.46%) ist eine defensive, sektorale Positionierung ratsam: Übergewichten sollten Commodities sowie Sektoren mit nachweisbarer Resilienz (z.B. Tech-Infrastruktur wie CPO/AI, basierend auf News) zugewiesen werden. Neutral bleiben sollte das breite Aktienuniversum. **Was NICHT tun:** Breite Marktpositionen oder Long-Exposures in illiquide Assets eingehen, da die steigende Volatilität ein klarer Warnindikator ist."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
