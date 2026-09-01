@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-01",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime wird formal als „Risk-on / ruhig“ deklariert, doch die technische Signatur ist von Divergenz geprägt: Der VIX stieg um 3.40%, was auf steigende Volatilität und somit ein ko",
+  "market_regime": "Risk-on / ruhig (VIX 14.9)",
+  "regime_detail": {
+    "vix": 14.9,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7686.1,
+    "sma200": 7122.9
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26258.1094,
+      "change_pct": -1.17,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6420.1602,
+      "change_pct": -1.01,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7686.1401,
+      "change_pct": -0.33,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29456.9707,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53185.8984,
+      "change_pct": -0.7,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.758,
+      "change_pct": 0.81,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.92,
+      "change_pct": 3.4,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 170.54,
+      "change_pct": -0.36,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1605,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9394,
+      "change_pct": 0.22,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.508,
+      "change_pct": 0.08,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4482.8999,
+      "change_pct": 1.17,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 88.95,
+      "change_pct": -1.7,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 86.57,
+      "change_pct": 0.94,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78863.1172,
+      "change_pct": 1.54,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2475.21,
+      "change_pct": 2.37,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": -1,
+      "interpretation": "DAX -1.17% / ESTX50 -1.01%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.08%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV -0.36%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.33%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +3.40% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.81% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +1.54%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Global Water Intelligence lance EuroWIN, une plateforme commerciale unique dotée d´une fonction de recherche permettant de cartographier le marché fragmenté des eaux usées en Europe",
+      "mechanism": "<p>OXFORD, Angleterre,  01 sept. 2026  (GLOBE NEWSWIRE) -- Global Water Intelligence (GWI) a lancé EuroWIN (European Wastewater Investment Navigator), une plateforme qui décrypte le marché européen fragmenté des eaux usées afin de mettre en évidence les opportunités les plus prometteuses.</p>",
+      "beneficiaries": [
+        "GWI"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Ress Life Investments A/S publishes Net Asset Value (NAV).",
+      "mechanism": "<p>Ress Life Investments<br />Nybrogade 12<br />DK-1203 Copenhagen K<br />Denmark<br />CVR nr. 33593163<br />www.resslifeinvestments.com</p>",
+      "beneficiaries": [
+        "NAV"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Bavarian Nordic Launches First Tranche of New Share Buy-Back Program",
+      "mechanism": "<p align=\"justify\"><b>COPENHAGEN, Denmark, September 1, 2026 </b>– Bavarian Nordic A/S (OMX: BAVA) today launches the first tranche of the new share buy-back program announced on August 21, under which the Company intends to repurchase own shares for up to DKK 750 million. The first tranche will comprise buy-back of shares for up to DKK 250 million.</p>",
+      "beneficiaries": [
+        "BAVA"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollten alternative Assets und selektive Sektoren wie die Biotechnologie (aufgrund positiver Watch-Items) sowie Kryptowährungen. Untergewichtet sind breite europäische Indizes und zinssensible Positionen aufgrund des steigenden VIX und der US10Y-Renditen.\n*Was NICHT tun:* Breite, unselektive Indexwetten oder Allokationen in Assets mit hohem Zinsrisiko verfolgen, solange die Volatilität (VIX) ansteigt und die Zinsen weiter steigen."
+  },
+  "confidence": {
+    "level_pct": 14,
+    "conviction_pct": 14,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
