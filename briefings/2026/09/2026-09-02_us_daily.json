@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-02",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Trotz der kanonisch als „Risk-on / ruhig“ eingestuften makroökonomischen Umgebung zeigten die Hauptindizes eine deutliche Abkühlung. Der Nasdaq100 verzeichnete mit -1.29% den größten Verlust, was auf ",
+  "market_regime": "Risk-on / ruhig (VIX 16.2)",
+  "regime_detail": {
+    "vix": 16.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7631.5,
+    "sma200": 7126.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25860.4609,
+      "change_pct": -0.42,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6365.4702,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7631.4702,
+      "change_pct": -0.71,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29077.2207,
+      "change_pct": -1.29,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 52766.8789,
+      "change_pct": -0.79,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.794,
+      "change_pct": -0.04,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 16.2,
+      "change_pct": -0.86,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.67,
+      "change_pct": 0.66,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.16,
+      "change_pct": -0.16,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9429,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.719,
+      "change_pct": 0.05,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4389.1001,
+      "change_pct": 0.95,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 94.41,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 89.71,
+      "change_pct": -0.57,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 76838.1016,
+      "change_pct": -0.73,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2386.99,
+      "change_pct": -1.28,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.42% / ESTX50 -0.06%."
+    },
+    "us_tech": {
+      "score": -1,
+      "interpretation": "Nasdaq100 -1.29%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.66%."
+    },
+    "risk_sentiment": {
+      "score": -1,
+      "interpretation": "S&P 500 -0.71%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -0.86% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.04% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.73%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Caterpillar and FieldAI Advance AI-Powered Industrial Innovation",
+      "mechanism": "<p>Leveraging robotics, digital twins and NVIDIA technologies, the collaboration helps create safer, smarter and more productive operations IRVING, Texas, Sept. 2, 2026 /PRNewswire/ -- As industries face growing labor shortages and increasing productivity demands, Caterpillar Inc. (NYSE:...</p>",
+      "beneficiaries": [
+        "CAT"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "CBAK Energy Highlights Completed Nanjing Phase II Ramp-Up and Accelerating Global Demand Following Investor Conference",
+      "mechanism": "Model 32140 Shipments More Than Double; Approximately US$96 Million Indian Order Expected to Drive Designated Facility to Full Capacity; AI Data Center Customer Validation Advances <pre>Model 32140 Shipments More Than Double; Approximately US$96 Million Indian Order Expected to Drive Designated Facility to Full Capacity; AI Data Center Customer Validation Advances</pre>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Special Committee of Definitive Healthcare Board Confirms Receipt of Going-Private Proposal from Advent International",
+      "mechanism": "<p align=\"justify\">FRAMINGHAM, Mass., Sept.  02, 2026  (GLOBE NEWSWIRE) -- The special committee (the “<u>Special Committee</u>”) of the Board of Directors of Definitive Healthcare Corp. (the “<u>Company</u>”) (Nasdaq: DH), an industry leader in healthcare market data and analytics, today announced that it has received a non-binding indication of interest (the “<u>Proposal</u>”), dated as of September 1, 2026, from Advent International, L.P., on behalf of certain of its managed funds (collectively, “<u>Advent</u>”), to acquire all of the outstanding shares of the Company’s Class A common stock (the “<u>Class A Common Stock</u>”) and all of the outstanding limited liability company interests of AIDH TopCo, LLC (the “<u>Definitive OpCo Units</u>”), in each case, that are not already owned by Advent or Jason Krantz, the Company’s founder and Executive Chairman, for an all-cash purchase price of $1.02 per share of Class A common stock, and an equivalent amount per Definitive OpCo Unit.</p>",
+      "beneficiaries": [
+        "DH"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* **Übergewichten** sollten defensive Sektoren (Health) und Rohstoffe mit hohem Inflationsschutz (Gold). **Untergewichten** sind hochzyklische Technologie-Positionen, die von der aktuellen Marktstimmung (-1.29% Nasdaq100) stark betroffen sind.\n*Was NICHT tun:* Keine Positionierung in Assets, deren Bewertung primär auf dem anhaltenden „Risk-on“-Narrativ basiert; das Momentum ist aktuell negativ (Scorecard: us_tech -1)."
+  },
+  "confidence": {
+    "level_pct": 7,
+    "conviction_pct": 7,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
