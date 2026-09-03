@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-03",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime bleibt *Risk-on* und ruhig (VIX 15.2), was sich in der anhaltend hohen Attraktivität von Gold (+2.42%) widerspiegelt. Die europäische Performance zeigt jedoch eine signifikante Diverg",
+  "market_regime": "Risk-on / ruhig (VIX 15.2)",
+  "regime_detail": {
+    "vix": 15.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7666.6,
+    "sma200": 7131.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25839.3301,
+      "change_pct": -0.5,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6362.1499,
+      "change_pct": -0.11,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7666.6001,
+      "change_pct": 0.46,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29143.3301,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53061.9492,
+      "change_pct": 0.56,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.796,
+      "change_pct": 0.0,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.2,
+      "change_pct": -6.98,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 172.95,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1604,
+      "change_pct": 0.07,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9407,
+      "change_pct": -0.03,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.375,
+      "change_pct": -0.19,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4471.8999,
+      "change_pct": 2.42,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 94.16,
+      "change_pct": -1.54,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 89.76,
+      "change_pct": -1.37,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 77723.0391,
+      "change_pct": 0.41,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2407.21,
+      "change_pct": -0.44,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.50% / ESTX50 -0.11%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.23%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.75%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.46%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -6.98% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.00% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 0,
+      "interpretation": "BTC +0.41%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "Sivers Semiconductors Invests USD 30 Million to Expand European Photonics Manufacturing for AI Datacenters",
+      "mechanism": "<p>Glasgow expansion will increase InP manufacturing capacity to more than 100 million CW DFB lasers annually, supporting anticipated AI infrastructure customer ramps KISTA, Sweden, Sept. 3, 2026 /PRNewswire/ -- Sivers Semiconductors AB (STO: SIVE) today announced a USD 30 million strategic...</p>",
+      "beneficiaries": [
+        "SIVE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "ITP Media Group secures major acquisition of APAC's Heart Media Group sparking international expansion across Asia",
+      "mechanism": "<p>The landmark deal in the 40-year history of the Middle East-headquartered business establishes one of the world's leading independently-owned media groups – with the company eyeing further international growth. DUBAI, UAE, SINGAPORE and KUALA LUMPUR, Malaysia , Sept. 3, 2026 /PRNewswire/...</p>",
+      "beneficiaries": [
+        "ITP"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Commure Ambient AI Achieves Class I Certification and MHRA Registration",
+      "mechanism": "Commure Ambient AI is now available across the UK and Europe as CE-marked Class I medical device software, registered with the MHRA.",
+      "beneficiaries": [
+        "CE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Übergewichten sollte man defensive Sektoren (Health Rotation: +0.75%) sowie spezifisch auf AI/Tech ausgerichtete Nischenpositionen gegenüber breiten europäischen Indizes. Neutral ist die allgemeine Marktstruktur aufgrund der divergierenden Performance zwischen DAX und US-Märkten. **Was NICHT tun:** Breite europäische Indexwetten (DAX, ESTX50) sollten vermieden werden, solange keine klare Aufwärtskorrektur im Energie-Sektor oder eine Angleichung des europäischen Risikoprofils an das US-Niveau festzustellen ist."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
