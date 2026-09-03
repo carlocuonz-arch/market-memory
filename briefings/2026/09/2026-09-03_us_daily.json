@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-03",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Die Märkte zeigen eine tendenziell risk-on Verfassung, bestätigt durch steigende Indizes wie DAX (+0.51%) und SP500 (+0.46%), sowie signifikante Gewinne bei Rohstoffen (Gold +3.68%, WTI +1.01%). Das m",
+  "market_regime": "Risk-on / ruhig (VIX 15.1)",
+  "regime_detail": {
+    "vix": 15.1,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7666.6,
+    "sma200": 7131.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25971.7891,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6376.8599,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7666.6001,
+      "change_pct": 0.46,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29143.3301,
+      "change_pct": 0.23,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53061.9492,
+      "change_pct": 0.56,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.738,
+      "change_pct": -1.21,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.01,
+      "change_pct": -1.25,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 172.95,
+      "change_pct": 0.75,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1627,
+      "change_pct": 0.27,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9377,
+      "change_pct": -0.35,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.029,
+      "change_pct": -0.53,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4526.7998,
+      "change_pct": 3.68,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 96.2,
+      "change_pct": 0.6,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 91.93,
+      "change_pct": 1.01,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78466.9297,
+      "change_pct": 1.51,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2418.9099,
+      "change_pct": 1.15,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.51% / ESTX50 +0.23%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.23%."
+    },
+    "health_rotation": {
+      "score": 1,
+      "interpretation": "XLV +0.75%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 +0.46%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -1.25% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -1.21% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +1.51%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "AbbVie Announces Positive Topline Results from the Phase 3 CERVINO Trial Showing Etentamig Significantly Improved Response Rate and Progression-Free Survival in Patients with Relapsed/Refractory Multiple Myeloma",
+      "mechanism": "<p>Etentamig, an investigational asset, achieved a significantly improved objective response rate (ORR, 74%) and a 60% risk reduction in disease progression or death (progression-free survival, hazard ratio 0.40) versus investigator's choice of standard available therapies Etentamig...</p>",
+      "beneficiaries": [
+        "ABBV"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "HYDRINITY Accelerated Skin Science Expands into Panama Through Partnership with Comercializadora Guru SA",
+      "mechanism": "<p>Collaboration expands access to HYDRINITY's regenerative skincare portfolio through an established Panamanian dermocosmetics distributor NASHVILLE, Tenn., Sept. 3, 2026 /PRNewswire/ -- HYDRINITY Accelerated Skin Science, the fastest-growing professional skincare brand in the U.S....</p>",
+      "beneficiaries": [
+        "SA"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Healthcare Triangle, Inc. to Distribute Minority Interest of Teyame AI Holdings Inc. Common Shares in Stock Dividend Distribution to HCTI Shareholders, In Connection with its Planned Direct Listing.",
+      "mechanism": "<p>Board of Directors Approves Stock Dividend Distribution of a Minority Interest of Outstanding Common Shares of Teyame AI Holdings Inc. Common Stock to Existing HCTI Shareholders; HCTI Signs Agreement in Connection with Planned Direct Listing of Teyame AI Holdings Inc. Transaction Subject...</p>",
+      "beneficiaries": [
+        "HCTI"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*: Wir sehen einen Übergewicht (Overweight) in Sektoren mit klaren katalytischen Treiberpunkten wie Health und Technologie. Die Liquidität ist durch BTC (+1.51%) weiterhin stark, was eine gewissen Vorsicht gebietet. **Was NICHT zu tun ist:** Blindes Momentum-Folgen (\"Chasing\"). Angesichts des sinkenden VIX (-1.25%) besteht die Gefahr einer Überraschung; daher sollte das erhöhte Risiko durch selektive Allokation und nicht durch breite Marktbettenuren abgedeckt werden."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
