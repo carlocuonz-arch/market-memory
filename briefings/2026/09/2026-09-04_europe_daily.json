@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-04",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktumfeld ist eindeutig im **Risk-on/ruhig** Regime verankert, was durch den niedrigen VIX-Wert von 14.32 und die breite Akzeptanz des Risikokapitals bestätigt wird. Die globale Equity Performan",
+  "market_regime": "Risk-on / ruhig (VIX 14.3)",
+  "regime_detail": {
+    "vix": 14.3,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7747.7,
+    "sma200": 7136.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26003.3203,
+      "change_pct": 0.63,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6382.5898,
+      "change_pct": 0.32,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7747.71,
+      "change_pct": 1.06,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29482.3203,
+      "change_pct": 1.16,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53686.1094,
+      "change_pct": 1.18,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.762,
+      "change_pct": -0.71,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.32,
+      "change_pct": -5.79,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 173.26,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1632,
+      "change_pct": 0.4,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9391,
+      "change_pct": -0.29,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.006,
+      "change_pct": 0.01,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4514.8999,
+      "change_pct": 0.52,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 95.52,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 91.43,
+      "change_pct": 0.14,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 80694.7969,
+      "change_pct": 4.39,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2505.1499,
+      "change_pct": 4.75,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.63% / ESTX50 +0.32%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.16%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.18%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +1.06%."
+    },
+    "volatility": {
+      "score": 2,
+      "interpretation": "VIX -5.79% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 1,
+      "interpretation": "US10Y -0.71% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": 2,
+      "interpretation": "BTC +4.39%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "TrustKernel Ships PlugClaw, a Thumb-Sized Private AI Computer, and Opens Free Confidential Inference",
+      "mechanism": "<p>LONDON, Sept. 4, 2026 /PRNewswire/ -- TrustKernel, an AI security and privacy computing company, today announced that PlugClaw has begun shipping worldwide, moving from pre-order to general availability. The company also opened free confidential-model inference on newly deployed servers....</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Argo Biopharma to Present Positive Phase II Updated Results of siRNA Therapeutic BW-20805 for HAE at Bradykinin Symposium 2026",
+      "mechanism": "<p>- Oral Presentation in Session VI: Hereditary Angioedema SHANGHAI and NEW YORK, Sept. 4, 2026 /PRNewswire/ -- Argo Biopharmaceutical Co., Ltd. (Argo Biopharma), a clinical-stage small interfering RNA (siRNA) therapeutics company, today announced that updated Phase II data from its ongoing...</p>",
+      "beneficiaries": [
+        "BW"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "PARTENARIAT STRATÉGIQUE AVEC CARESTER POUR LE DÉVELOPPEMENT DE LA SÉPARATION DES OXYDES ET CONTRAT D'ACHAT FERME DE 10 ANS",
+      "mechanism": "<p>PERTH, Australie, 4 septembre 2026 /PRNewswire/ -- Lindian Resources Limited (« Lindian » ou la « société ») (ASX : LIN) a le plaisir d'annoncer la signature d'un contrat de services technologiques et d'ingénierie ainsi que d'un contrat d'achat ferme à long terme, en vue du développement...</p>",
+      "beneficiaries": [
+        "LE"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Wir empfehlen eine **Übergewichtung** von Tech-Expositionen und KI-spezifischen Infrastrukturthemen (Scorecard: us_tech 1). Die breite Marktperformance ist zwar positiv, doch die Diversifikation des Kapitals in Crypto Assets erfordert eine taktischere Allokation.\n*Was NICHT tun:* Nicht übermäßig auf kurzfristige Yield-Anomalien zu reagieren; der Rückgang der US10Y (-0.71%) sollte als technisches Signal interpretiert und nicht als fundamentaler Makro-Umschlag verstanden werden."
+  },
+  "confidence": {
+    "level_pct": 50,
+    "conviction_pct": 50,
+    "conviction_direction": "bullish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
