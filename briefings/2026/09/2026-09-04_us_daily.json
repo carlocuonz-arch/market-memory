@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-04",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das makroökonomische Regime bleibt formal Risk-on, was sich in den starken Performance-Zahlen des S&P 500 (+1.06%) und Nasdaq100 (+1.16%) widerspiegelt. Allerdings ist die Risikobereitschaft hochgradi",
+  "market_regime": "Risk-on / ruhig (VIX 14.2)",
+  "regime_detail": {
+    "vix": 14.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7747.7,
+    "sma200": 7136.5
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26081.2109,
+      "change_pct": 0.3,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6378.6201,
+      "change_pct": -0.06,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7747.71,
+      "change_pct": 1.06,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29482.3203,
+      "change_pct": 1.16,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53686.1094,
+      "change_pct": 1.18,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.786,
+      "change_pct": 0.5,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.14,
+      "change_pct": -1.26,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 173.26,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1618,
+      "change_pct": 0.29,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9406,
+      "change_pct": -0.13,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.18,
+      "change_pct": 0.18,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4445.2002,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 94.59,
+      "change_pct": -0.97,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 90.29,
+      "change_pct": -1.11,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 79305.2578,
+      "change_pct": -2.42,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2449.8701,
+      "change_pct": -2.32,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.30% / ESTX50 -0.06%."
+    },
+    "us_tech": {
+      "score": 1,
+      "interpretation": "Nasdaq100 +1.16%."
+    },
+    "health_rotation": {
+      "score": 0,
+      "interpretation": "XLV +0.18%."
+    },
+    "risk_sentiment": {
+      "score": 1,
+      "interpretation": "S&P 500 +1.06%."
+    },
+    "volatility": {
+      "score": 1,
+      "interpretation": "VIX -1.26% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": -1,
+      "interpretation": "US10Y +0.50% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.42%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "EQT to acquire McGill and Partners, a leading specialty (re)insurance broker for USD 2.0 billion, from Warburg Pincus",
+      "mechanism": "<p>Warburg Pincus and McGill and Partners have reached an agreement with EQT that will see Warburg Pincus sell its majority stake to EQT McGill and Partners founders, management team and colleagues will re-invest alongside EQT, retaining a meaningful ownership stake in the firm going forward...</p>",
+      "beneficiaries": [
+        "EQT"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "ERS 2026 | Mabwell Presents Phase Ib/IIa Clinical Results of Anti-ST2 Monoclonal Antibody 9MW1911 in COPD Patients",
+      "mechanism": "<p>SHANGHAI, Sept. 4, 2026 /PRNewswire/ -- Mabwell (688062.SH, 02493.HK), an innovation-driven biopharmaceutical company with a fully integrated industry chain, announced the Phase Ib/IIa clinical results of its anti-ST2 monoclonal antibody 9MW1911 in patients with chronic obstructive...</p>",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Sterling to Participate in Upcoming Investor Conferences",
+      "mechanism": "<p>THE WOODLANDS, Texas, Sept. 4, 2026 /PRNewswire/ -- Sterling Infrastructure, Inc. (NasdaqGS: STRL) (\"Sterling\" or \"the Company\") today announced that management is participating in the following investor conferences: Morgan Stanley 14th Annual Laguna Conference Date: September 15, 2026...</p>",
+      "beneficiaries": [
+        "STRL"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "(Hypothetische Einschätzung) Wir empfehlen, **Übergewichten** in US Technology und Health Sector (XLV +0.18%) zu bleiben, da diese Sektoren die stärksten Unterstützungsnarrative aufweisen. Gleichzeitig ist eine klare Reduzierung der Allokation in Commodities und Kryptowährungen ratsam, solange die Divergenz bestehen bleibt. **Was NICHT tun:** Nicht überproportional Short-Positionen auf Rohstoffe oder Krypto eingehen, da das Risiko einer kurzfristigen, unkoordinierten Korrektur zu hoch ist."
+  },
+  "confidence": {
+    "level_pct": 0,
+    "conviction_pct": 0,
+    "conviction_direction": "neutral",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
