@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-05",
+  "briefing_type": "weekend",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Markt zeigt gemischtes Bild bei insgesamt ruhigem Risk-on-Regime (VIX 14,5). Europäische Indizes leicht positiv, US-Aktien gespalten mit Nasdaq-Ausnahme, während Renditen steigen und Gold/BTC deutlich",
+  "market_regime": "Risk-on / ruhig (VIX 14.5)",
+  "regime_detail": {
+    "vix": 14.5,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7718.6,
+    "sma200": 7141.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26046.4004,
+      "change_pct": 0.17,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6392.9302,
+      "change_pct": 0.16,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7718.6001,
+      "change_pct": -0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29544.1504,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53414.25,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.784,
+      "change_pct": 0.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 14.53,
+      "change_pct": 1.47,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.45,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1621,
+      "change_pct": 0.31,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9401,
+      "change_pct": 0.12,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 99.16,
+      "change_pct": 0.16,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4429.7998,
+      "change_pct": -1.38,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 96.28,
+      "change_pct": 0.8,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 91.48,
+      "change_pct": 0.2,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 79660.9297,
+      "change_pct": -1.98,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2453.74,
+      "change_pct": -2.16,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.17% / ESTX50 +0.16%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.21%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.04%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.38%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +1.47% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -1.98%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "AtomVie celebra la inauguración de sus nuevas instalaciones de fabricación de última generación en Hamilton",
+      "mechanism": "<p>-AtomVie Global Radiopharma celebra la inauguración de sus nuevas instalaciones de fabricación de radiofármacos de última generación en Hamilton, Ontario HAMILTON, Ontario, 5 de septiembre de 2026 /PRNewswire/ - AtomVie Global Radiopharma (AtomVie), una organización líder a nivel mundial...</p>",
+      "beneficiaries": [],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Bloom Energy, Illumina, and Everpure Set to Join S&amp;P 500; Others to Join S&amp;P 100, S&amp;P MidCap 400, and S&amp;P SmallCap 600",
+      "mechanism": "<p>NEW YORK, Sept. 4, 2026 /PRNewswire/ -- S&amp;P Dow Jones Indices will make the following changes to the S&amp;P 500, S&amp;P 100, S&amp;P MidCap 400, and S&amp;P SmallCap 600 indices effective prior to the open of trading on Monday, September 21, 2026, to coincide with the quarterly rebalance. The changes...</p>",
+      "beneficiaries": [
+        "BE"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Si realizó consultas de búsqueda en el sitio web de Labcorp entre el 1 de mayo de 2021 y el 1 de abril de 2026, la conciliación de una demanda colectiva podría concernirle.",
+      "mechanism": "<p>GREENSBORO, N.C., 4 de septiembre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- ¿DE QUÉ SE TRATA ESTO? Los demandantes alegan que Labcorp violó las leyes de intervención de comunicaciones de California y Pensilvania al facilitar, a través de tecnologías de seguimiento de terceros, la...</p>",
+      "beneficiaries": [
+        "PR"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetisch: Übergewicht in US-Tech (Nasdaq-Stärke, Score 0), Neutral in Europa-Tech, Untergewicht in Health (Score -1) und Crypto (Score -2). Was NICHT tun: Neue Long-Positionen in Gold oder langlaufende Anleihen eingehen, da beide steigenden Renditen ausgesetzt und preislich schwach (Gold -1,38%, US10Y +0,46%)."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "openrouter",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via openrouter. Prosa ok."
+  }
+}
