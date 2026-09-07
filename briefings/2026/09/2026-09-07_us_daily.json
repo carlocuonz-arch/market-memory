@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-07",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Marktbild präsentiert sich als hochgradig dissonant. Obwohl das Regime formal als \"Risk-on / ruhig\" klassifiziert ist, signalisiert der signifikante Anstieg des VIX (+4.13%) eine akute und gegenlä",
+  "market_regime": "Risk-on / ruhig (VIX 15.2)",
+  "regime_detail": {
+    "vix": 15.2,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7718.6,
+    "sma200": 7141.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 25979.5391,
+      "change_pct": -0.26,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6398.4199,
+      "change_pct": 0.09,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7718.6001,
+      "change_pct": -0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29544.1504,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53414.25,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.784,
+      "change_pct": 0.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.13,
+      "change_pct": 4.13,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.45,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1628,
+      "change_pct": -0.0,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9407,
+      "change_pct": 0.19,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.925,
+      "change_pct": -0.24,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4476.6001,
+      "change_pct": 1.06,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 96.28,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 91.48,
+      "change_pct": 0.0,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 79632.3906,
+      "change_pct": -0.89,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2508.22,
+      "change_pct": -0.25,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.26% / ESTX50 +0.09%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.21%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.04%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.38%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +4.13% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -0.89%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "evolve y ELITEWHEELS llevan el rendimiento ciclista impulsado por la ingeniería al Italian Bike Festival 2026",
+      "mechanism": "<p>MISANO, Italia, 7 de septiembre de 2026 /PRNewswire/ -- evolve y ELITEWHEELS presentan sus últimos avances en ciclismo de alto rendimiento en el Italian Bike Festival (IBF) 2026, que se celebra del 4 al 6 de septiembre en el Circuito Mundial de Misano. Las marcas invitan a ciclistas,...</p>",
+      "beneficiaries": [
+        "IBF"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Renk Group AG: Release according to Article 40 (1) of the WpHG (the German Securities Trading Act) with the objective of Europe-wide distribution",
+      "mechanism": "<p style=\"line-height: 20px; margin-top: 16px; margin-bottom: 0;\">\n  Renk Group AG: Release according to Article 40 (1) of the WpHG (the German Securities Trading Act) with the objective of Europe-wide distribution\n</p>",
+      "beneficiaries": [
+        "AG"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "ASML reports transactions under its current share buyback program",
+      "mechanism": "<p><b>ASML reports transactions under its current share buyback program</b></p>",
+      "beneficiaries": [
+        "ASML"
+      ],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*Hypothetische Einschätzung:* Neutral mit defensiver Tendenz. Aufgrund der divergierenden Signale (Tech vs. Gold) ist eine klare Richtung schwierig zu bestimmen. Wir empfehlen daher die Übergewichtung von physischen Schutzgütern und Cash-Positionen, während wir spekulative Assets wie Kryptowährungen untergewichten. **Was NICHT tun:** Man sollte nicht in einem unkontrollierten Risiko (Beta-Exposition) nachkaufen, da der VIX-Anstieg auf eine erhöhte Vorsicht hindeutet."
+  },
+  "confidence": {
+    "level_pct": 29,
+    "conviction_pct": 29,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
