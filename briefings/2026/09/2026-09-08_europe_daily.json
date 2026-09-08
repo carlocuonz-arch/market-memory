@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-08",
+  "briefing_type": "europe_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime präsentiert sich in einem signifikanten Spannungsfeld: Offiziell wird ein „Risk-on / ruhig“ Regime signalisiert, doch die Kursdaten deuten auf eine akute Divergenz hin. Der steile Ans",
+  "market_regime": "Risk-on / ruhig (VIX 15.3)",
+  "regime_detail": {
+    "vix": 15.3,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7718.6,
+    "sma200": 7141.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26006.5293,
+      "change_pct": -0.15,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6403.9902,
+      "change_pct": 0.17,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7718.6001,
+      "change_pct": -0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29544.1504,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53414.25,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.784,
+      "change_pct": 0.46,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.3,
+      "change_pct": 5.3,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.45,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1629,
+      "change_pct": 0.13,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9403,
+      "change_pct": -0.04,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.821,
+      "change_pct": -0.34,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4446.2998,
+      "change_pct": 0.37,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 98.8,
+      "change_pct": 2.62,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 94.18,
+      "change_pct": 2.95,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78356.3828,
+      "change_pct": -2.48,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2466.1101,
+      "change_pct": -1.93,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX -0.15% / ESTX50 +0.17%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.21%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.04%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.38%."
+    },
+    "volatility": {
+      "score": -2,
+      "interpretation": "VIX +5.30% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y +0.46% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -2,
+      "interpretation": "BTC -2.48%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "LX Pantos úspešne dokončuje komplexný projekt obrannej logistiky pre pokročilé zbrane",
+      "mechanism": "<p>SOUL, Južná Kórea, 8. september 2026 /PRNewswire/ – Spoločnosť LX Pantos (prezident a generálny riaditeľ: Lee Yong-ho) oznámila 8. septembra, že dokončila projekt cezhraničnej obrannej logistiky pre pokročilé zbrane. Projekt prepravoval rakety vzduch-vzduch (AAM) z Francúzska do Kórey pre...</p>",
+      "beneficiaries": [
+        "AAM"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "LX Pantos успешно завершил комплексный оборонный логистический проект для современного оружия",
+      "mechanism": "<p>СЕУЛ, Южная Корея, 8 сентября 2026 г. /PRNewswire/ -- Компания LX Pantos (президент и генеральный директор: Ли Ён-Хо (Lee Yong-ho)) объявила 8 сентября, что она завершила проект трансграничной оборонной логистики для современного оружия. В рамках проекта из Франции в Корею были доставлены...</p>",
+      "beneficiaries": [
+        "LX"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Rapid Nutrition Reports 227.5% H1 Revenue Growth as Group Enters Transformational Second Half",
+      "mechanism": "Completion of the HealthShop+ acquisition shortly before period-end establishes a materially enlarged operating and revenue base for H2 and beyond <pre>Completion of the HealthShop+ acquisition shortly before period-end establishes a materially enlarged operating and revenue base for H2 and beyond</pre>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "Hypothetische Einschätzung: Die Gesamtallokation sollte aufgrund der erhöhten Volatilität und steigender Renditen **Untergewichtet** werden. Man sollte eine defensive Übergewichtung im Rohstoffsektor (Energie/Gold) in Betracht ziehen, während Tech-Sektoren wie Health (-1.04%) sowie Kryptowährungen (-2.48%) vorerst gemieden werden sollten. Was NICHT zu tun ist: Der deklarierten „Risk-on“-Natur des Regimes blind zu folgen, da die VIX- und Krypto-Daten eine klare Abkühlung signalisieren."
+  },
+  "confidence": {
+    "level_pct": 36,
+    "conviction_pct": 36,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
