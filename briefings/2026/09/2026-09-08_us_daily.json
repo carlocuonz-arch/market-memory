@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-09-08",
+  "briefing_type": "us_daily",
+  "language": "de",
+  "timezone": "Europe/Zurich",
+  "data_classification": "verified-live",
+  "market_status": "normal",
+  "headline": "Das Makro-Regime ist formal als \"Risk-on / ruhig\" deklariert, doch die steigende Volatilität (VIX +0.65%) und der deutliche Rückgang bei Kryptowährungen (-1.03% BTC) signalisieren ein zugrundeliegende",
+  "market_regime": "Risk-on / ruhig (VIX 15.4)",
+  "regime_detail": {
+    "vix": 15.4,
+    "vol": "calm",
+    "trend": "bull",
+    "spx": 7718.6,
+    "sma200": 7141.8
+  },
+  "market_moves": {
+    "DAX": {
+      "value": 26017.4707,
+      "change_pct": 0.04,
+      "unit": null,
+      "note": null
+    },
+    "ESTX50": {
+      "value": 6414.75,
+      "change_pct": 0.17,
+      "unit": null,
+      "note": null
+    },
+    "SP500": {
+      "value": 7718.6001,
+      "change_pct": -0.38,
+      "unit": null,
+      "note": null
+    },
+    "Nasdaq100": {
+      "value": 29544.1504,
+      "change_pct": 0.21,
+      "unit": null,
+      "note": null
+    },
+    "Dow": {
+      "value": 53414.25,
+      "change_pct": -0.51,
+      "unit": null,
+      "note": null
+    },
+    "US10Y": {
+      "value": 4.764,
+      "change_pct": -0.42,
+      "unit": "percent",
+      "note": null
+    },
+    "VIX": {
+      "value": 15.4,
+      "change_pct": 0.65,
+      "unit": null,
+      "note": null
+    },
+    "Health": {
+      "value": 171.45,
+      "change_pct": -1.04,
+      "unit": null,
+      "note": null
+    },
+    "EURUSD": {
+      "value": 1.1627,
+      "change_pct": 0.11,
+      "unit": null,
+      "note": null
+    },
+    "EURCHF": {
+      "value": 0.9406,
+      "change_pct": -0.0,
+      "unit": null,
+      "note": null
+    },
+    "DXY": {
+      "value": 98.836,
+      "change_pct": -0.33,
+      "unit": null,
+      "note": null
+    },
+    "Gold": {
+      "value": 4452.3999,
+      "change_pct": 0.51,
+      "unit": null,
+      "note": null
+    },
+    "Brent": {
+      "value": 97.66,
+      "change_pct": 1.43,
+      "unit": null,
+      "note": null
+    },
+    "WTI": {
+      "value": 92.77,
+      "change_pct": 1.41,
+      "unit": null,
+      "note": null
+    },
+    "BTC": {
+      "value": 78301.2266,
+      "change_pct": -1.03,
+      "unit": null,
+      "note": null
+    },
+    "ETH": {
+      "value": 2468.8501,
+      "change_pct": -0.89,
+      "unit": null,
+      "note": null
+    }
+  },
+  "scorecard": {
+    "europe_tech": {
+      "score": 0,
+      "interpretation": "DAX +0.04% / ESTX50 +0.17%."
+    },
+    "us_tech": {
+      "score": 0,
+      "interpretation": "Nasdaq100 +0.21%."
+    },
+    "health_rotation": {
+      "score": -1,
+      "interpretation": "XLV -1.04%."
+    },
+    "risk_sentiment": {
+      "score": 0,
+      "interpretation": "S&P 500 -0.38%."
+    },
+    "volatility": {
+      "score": -1,
+      "interpretation": "VIX +0.65% (steigende Vola = Risk-off)."
+    },
+    "rates": {
+      "score": 0,
+      "interpretation": "US10Y -0.42% (steigende Rendite = Gegenwind)."
+    },
+    "crypto_liquidity": {
+      "score": -1,
+      "interpretation": "BTC -1.03%."
+    }
+  },
+  "top_themes": [
+    {
+      "rank": 1,
+      "theme": "QEP Acquires Spray-Lock®, Expanding Its Adhesives Manufacturing Platform",
+      "mechanism": "<p align=\"justify\">BOCA RATON, Fla., Sept.  08, 2026  (GLOBE NEWSWIRE) -- Q.E.P. CO., INC. (OTCQX: QEPC) (the “Company” or “QEP”) today announced that, on September 1, 2026, it completed the acquisition of substantially all of the assets of Spray-Lock, Inc. (“Spray-Lock”), a developer, manufacturer and distributor of premium aerosol spray adhesives for flooring and wall applications. Financial terms of the transaction were not disclosed.</p>",
+      "beneficiaries": [
+        "QEPC"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 2,
+      "theme": "Sanoma’s financial reporting in 2027",
+      "mechanism": "Sanoma’s financial reporting in 2027",
+      "beneficiaries": [
+        "null"
+      ],
+      "losers": []
+    },
+    {
+      "rank": 3,
+      "theme": "Guesty® and AirDNA partner to connect market intelligence with revenue management for short-term rental operators",
+      "mechanism": "<p>New integration brings Guesty portfolio data into AirDNA Adapt and syncs pricing decisions back through Guesty. NEW YORK and DENVER, Sept. 8, 2026 /PRNewswire/ -- Guesty® the AI platform for short-term rentals, and AirDNA, a leading provider of short-term rental data and analytics, today...</p>",
+      "beneficiaries": [],
+      "losers": []
+    }
+  ],
+  "positioning": {
+    "stance": null,
+    "overweight": [],
+    "neutral": [],
+    "underweight": [],
+    "what_not_to_do": null,
+    "narrative": "*(Hypothetische Einschätzung)*\n**Positionierung:** Neutral bis defensiv. Die Performance der Rohstoffe ist überzeugend, während die signifikante Volatilität und das Underperformance-Signal von Kryptowährungen (BTC -1.03%) sowie dem Health Sektor (-1.04%) Vorsicht gebieten.\n**Was NICHT tun:** Eine Überbetonung auf rein spekulative oder stark zyklische Assets ist zu vermeiden; die Liquiditätssignale aus BTC und VIX erfordern eine Reduktion des Risikoprofils in diesen Bereichen."
+  },
+  "confidence": {
+    "level_pct": 21,
+    "conviction_pct": 21,
+    "conviction_direction": "bearish",
+    "data_quality_pct": 100,
+    "uncertainty_vectors": []
+  },
+  "source": {
+    "created_by": "mini",
+    "engine": "tne-briefing (in-engine)",
+    "data_sources": [
+      "FRIDAY",
+      "yfinance"
+    ],
+    "note": "Hybrid: Zahlen/Scorecard/Regime deterministisch, Prosa via mini. Prosa ok."
+  }
+}
